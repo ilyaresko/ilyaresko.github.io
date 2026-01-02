@@ -12,7 +12,11 @@
     window.$docsify = {
       name: 'Моя Вики',
       repo: 'https://github.com/ilyaresko/',
-      loadSidebar: true, // Включает боковое меню
+      loadSidebar: false, // Включает боковое меню
+      page-toc: {
+        tocMaxLevel: 3,
+        target: 'h1, h2, h3'
+      },
       subMaxLevel: 2
     }
   </script>
