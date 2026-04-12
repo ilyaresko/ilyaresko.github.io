@@ -2908,9 +2908,9 @@
 </p>
 <p class="question">Вопрос 2: Кто изобрёл калькулятор?</p>
 <p class="options">
-<span class="opt"><i>1</i>: <i>неизвестно</i></span>
+<span class="opt"><i>1</i>: неизвестно</span>
 <span class="opt"><i>2</i>: Ребёнок</span>
-<span class="opt"><i>3</i>: <i>неизвестно</i></span>
+<span class="opt"><i>3</i>: неизвестно</span>
 </p>
 <p class="question">Вопрос 3: В какой стране был снят самый длинный фильм «Логистика» (857 часов)?</p>
 <p class="options">
@@ -3934,9 +3934,9 @@
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой самый известный международный велозаезд длится более трёх недель?</p>
 <p class="options">
-<span class="opt"><i>1</i>: <i>неизвестно</i></span>
+<span class="opt"><i>1</i>: неизвестно</span>
 <span class="opt"><i>2</i>: Тур де Франс</span>
-<span class="opt"><i>3</i>: <i>неизвестно</i></span>
+<span class="opt"><i>3</i>: неизвестно</span>
 </p>
 <p class="question">Вопрос 2: Какой материал использовали в первых парашютах?</p>
 <p class="options">
@@ -5350,7 +5350,7 @@
 </p>
 <div class="episode-footer">
 <span>Ответы участника: дисквалификация (участник был уличён в использовании интернета)</span>
-<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>неизвестно</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, неизвестно</span>
 </div>
 </div>
 </div>
@@ -5482,7 +5482,7 @@
 <div class="episode-card" id="ep-24-09-2025">
 <div class="episode-header">
 
-<h3>24.09.2025: Жан-Тори, Алматы (10 000 тенге)</h3>
+<h3>24.09.2025: Жанторе, Алматы (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что означает слово «пунктуация» в переводе с латинского?</p>
@@ -5553,11 +5553,11 @@
 <span class="opt"><i>2</i>: США</span>
 <span class="opt"><i>3</i>: Китай</span>
 </p>
-<p class="question">Вопрос 2: <i>неизвестно</i></p>
+<p class="question">Вопрос 2: неизвестно</p>
 <p class="options">
-<span class="opt"><i>1</i>: <i>неизвестно</i></span>
-<span class="opt"><i>2</i>: <i>неизвестно</i></span>
-<span class="opt"><i>3</i>: <i>неизвестно</i></span>
+<span class="opt"><i>1</i>: неизвестно</span>
+<span class="opt"><i>2</i>: неизвестно</span>
+<span class="opt"><i>3</i>: неизвестно</span>
 </p>
 <p class="question">Вопрос 3: Какой элемент на флаге Эквадора символизирует богатые ресурсы страны?</p>
 <p class="options">
@@ -6442,7 +6442,7 @@
 <span class="opt"><i>3</i>: День основания клуба одиноких людей</span>
 </p>
 <div class="episode-footer">
-<span>Ответы участника: <i>1</i>, <i>3</i>, <i>неизвестно</i> (техническое поражение из-за плохой связи)</span>
+<span>Ответы участника: <i>1</i>, <i>3</i>, неизвестно (техническое поражение из-за плохой связи)</span>
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span>
 </div>
 </div>
