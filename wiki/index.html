@@ -1,26 +1,32 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>Wiki</title>
+  <title>Wiki — ilyar.net</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="css/wiki-custom.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'Моя Вики',
-      repo: 'https://github.com/ilyaresko/',
-      loadSidebar: false, // Включает боковое меню
-      page-toc: {
-        tocMaxLevel: 3,
-        target: 'h1, h2, h3'
-      },
-      subMaxLevel: 2
+      name: 'Wiki',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      search: {
+        placeholder: 'Поиск...',
+        noData: 'Ничего не найдено',
+        depth: 3
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//unpkg.com/docsify-page-toc/dist/docsify-page-toc.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="js/theme-toggle.js"></script>
+  <script src="js/toc-generator.js"></script>
+  <script src="js/audio-player.js"></script>
+  <script src="js/episode-cards.js"></script>
 </body>
 </html>
