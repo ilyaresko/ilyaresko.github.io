@@ -1,0 +1,640 @@
+/* ==========================================================================
+   wiki-custom.css
+   Comprehensive styling for Docsify-based wiki.
+   Sits on top of docsify@4 vue.css theme.
+   Provides light/dark theming, MediaWiki-style infoboxes,
+   premium episode cards, spoilers, footnotes, audio player,
+   theme toggle, and typography overrides.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. CSS Custom Properties  --  light-dark() theming
+   -------------------------------------------------------------------------- */
+
+:root {
+  color-scheme: light dark;
+
+  --page-bg:              light-dark(#ffffff, #1a1a2e);
+  --text-primary:         light-dark(#1a1a2e, #e4e4e7);
+  --text-muted:           light-dark(#6b7280, #9ca3af);
+  --text-secondary:       light-dark(#4b5563, #a1a1aa);
+
+  --link-color:           light-dark(#3b82f6, #60a5fa);
+  --link-hover:           light-dark(#2563eb, #93bbfd);
+
+  --card-bg:              light-dark(#ffffff, #1f2128);
+  --card-bg-alt:          light-dark(#f8fafc, #22242c);
+  --card-border:          light-dark(#e5e7eb, rgba(255, 255, 255, 0.08));
+  --card-shadow-color:    light-dark(220 60% 50%, 0 0% 0%);
+
+  --infobox-bg:           light-dark(#f8fafc, #1f2128);
+  --infobox-field-border: light-dark(#e5e7eb, rgba(255, 255, 255, 0.08));
+
+  --spoiler-header-bg:    light-dark(#f1f5f9, #22242c);
+  --spoiler-border:       light-dark(#e2e8f0, rgba(255, 255, 255, 0.1));
+
+  --badge-bg:             light-dark(#eff6ff, rgba(59, 130, 246, 0.15));
+  --badge-text:           light-dark(#3b82f6, #60a5fa);
+
+  --divider:              light-dark(#e5e7eb, rgba(255, 255, 255, 0.08));
+}
+
+/* --- Manual override: light --- */
+[data-theme="light"] {
+  color-scheme: light;
+
+  --page-bg:              #ffffff;
+  --text-primary:         #1a1a2e;
+  --text-muted:           #6b7280;
+  --text-secondary:       #4b5563;
+
+  --link-color:           #3b82f6;
+  --link-hover:           #2563eb;
+
+  --card-bg:              #ffffff;
+  --card-bg-alt:          #f8fafc;
+  --card-border:          #e5e7eb;
+  --card-shadow-color:    220 60% 50%;
+
+  --infobox-bg:           #f8fafc;
+  --infobox-field-border: #e5e7eb;
+
+  --spoiler-header-bg:    #f1f5f9;
+  --spoiler-border:       #e2e8f0;
+
+  --badge-bg:             #eff6ff;
+  --badge-text:           #3b82f6;
+
+  --divider:              #e5e7eb;
+}
+
+/* --- Manual override: dark --- */
+[data-theme="dark"] {
+  color-scheme: dark;
+
+  --page-bg:              #1a1a2e;
+  --text-primary:         #e4e4e7;
+  --text-muted:           #9ca3af;
+  --text-secondary:       #a1a1aa;
+
+  --link-color:           #60a5fa;
+  --link-hover:           #93bbfd;
+
+  --card-bg:              #1f2128;
+  --card-bg-alt:          #22242c;
+  --card-border:          rgba(255, 255, 255, 0.08);
+  --card-shadow-color:    0 0% 0%;
+
+  --infobox-bg:           #1f2128;
+  --infobox-field-border: rgba(255, 255, 255, 0.08);
+
+  --spoiler-header-bg:    #22242c;
+  --spoiler-border:       rgba(255, 255, 255, 0.1);
+
+  --badge-bg:             rgba(59, 130, 246, 0.15);
+  --badge-text:           #60a5fa;
+
+  --divider:              rgba(255, 255, 255, 0.08);
+}
+
+
+/* --------------------------------------------------------------------------
+   2. Docsify Overrides  --  dark-mode shells
+   -------------------------------------------------------------------------- */
+
+[data-theme="dark"] body {
+  background: var(--page-bg);
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .sidebar {
+  background: #16162a;
+  color: var(--text-primary);
+  border-right: 1px solid var(--divider);
+}
+
+[data-theme="dark"] .sidebar-nav a {
+  color: var(--text-secondary);
+}
+[data-theme="dark"] .sidebar-nav a:hover,
+[data-theme="dark"] .sidebar-nav a.active {
+  color: var(--link-color);
+}
+
+[data-theme="dark"] .content {
+  background: var(--page-bg);
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .markdown-section {
+  color: var(--text-primary);
+}
+
+[data-theme="dark"] .markdown-section a {
+  color: var(--link-color);
+}
+[data-theme="dark"] .markdown-section a:hover {
+  color: var(--link-hover);
+}
+
+[data-theme="dark"] .search input {
+  background: #22242c;
+  color: var(--text-primary);
+  border-color: var(--divider);
+}
+[data-theme="dark"] .search input::placeholder {
+  color: var(--text-muted);
+}
+
+[data-theme="dark"] .search .matching-post {
+  border-bottom-color: var(--divider);
+}
+
+[data-theme="dark"] .app-name-link {
+  color: var(--text-primary);
+}
+
+
+/* --------------------------------------------------------------------------
+   3a. In-page Table of Contents (MediaWiki-style)
+   -------------------------------------------------------------------------- */
+
+.wiki-toc {
+  display: inline-block;
+  border-left: 3px solid var(--divider);
+  background: var(--card-bg-alt);
+  padding: 0.5em 1.5em 0.5em 1em;
+  margin: 0 0 1.5em 0;
+  font-size: 0.9em;
+  line-height: 1.6;
+  max-width: 100%;
+}
+
+.wiki-toc-title {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 0.25em;
+}
+
+.wiki-toc-toggle {
+  font-weight: normal;
+  font-size: 0.85em;
+  cursor: pointer;
+  color: var(--link-color);
+  margin-left: 0.5em;
+}
+.wiki-toc-toggle:hover {
+  text-decoration: underline;
+}
+
+.wiki-toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.wiki-toc > ul > li {
+  margin: 0.15em 0;
+}
+.wiki-toc ul ul {
+  padding-left: 1.5em;
+}
+.wiki-toc a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+.wiki-toc a:hover {
+  text-decoration: underline;
+}
+
+.wiki-toc.collapsed ul {
+  display: none;
+}
+
+/* --------------------------------------------------------------------------
+   3b. p-summary Infobox  --  MediaWiki-style
+   -------------------------------------------------------------------------- */
+
+.p-summary {
+  float: right;
+  clear: right;
+  width: 22.5em;
+  background: var(--infobox-bg);
+  border-left: 3px solid;
+  padding: 0 0.5em 0.5em 0.75em;
+  margin: 0 0 1em 1em;
+  line-height: 1.1;
+  border-radius: 8px;
+}
+
+/* -- Blue variant -- */
+.p-summary--blue {
+  border-color: rgba(0, 102, 204, 0.3);
+}
+.p-summary--blue .p-summary-title {
+  color: #0066CC;
+  font-size: x-large;
+  display: block;
+  padding: 0 0 0.25em;
+  font-weight: bold;
+}
+
+/* -- Orange variant -- */
+.p-summary--orange {
+  border-color: rgba(255, 102, 0, 0.3);
+}
+.p-summary--orange .p-summary-title {
+  color: #FF6600;
+  font-size: x-large;
+  display: block;
+  padding: 0 0 0.25em;
+  font-weight: bold;
+}
+
+/* -- Tools line -- */
+.p-summary-tools {
+  color: #aaa;
+  font-size: 9pt;
+  margin: -0.25em 0 0.5em;
+}
+
+/* -- Definition list fields inside infobox -- */
+.p-summary dt {
+  float: left;
+  clear: both;
+  width: 11em;
+  font-weight: normal;
+  border-top: 1px solid var(--infobox-field-border);
+  padding: 0.25em 0;
+}
+
+.p-summary dd {
+  float: right;
+  clear: none;
+  margin: 0;
+  width: 11em;
+  border-top: 1px solid var(--infobox-field-border);
+  padding: 0.25em 0;
+}
+
+/* -- Mobile -- */
+@media (max-width: 640px) {
+  .p-summary {
+    float: none;
+    width: 100%;
+    margin: 0 0 1em 0;
+  }
+}
+
+
+/* --------------------------------------------------------------------------
+   4. Episode Cards  --  premium design
+   -------------------------------------------------------------------------- */
+
+.episode-card {
+  position: relative;
+  background: var(--card-bg);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid var(--card-border);
+  box-shadow: 0.5px 1px 1px hsl(var(--card-shadow-color) / 0.07);
+  overflow: hidden;
+  /* Default: visible. JS adds .animate-ready to hide cards before reveal. */
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.5s ease, transform 0.25s ease;
+}
+
+/* -- Left gradient accent border -- */
+.episode-card::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: linear-gradient(to bottom, #3b82f6, #8b5cf6);
+  border-radius: 12px 0 0 12px;
+}
+
+/* -- Hover shadow layer -- */
+.episode-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  box-shadow:
+    1px 2px 2px hsl(var(--card-shadow-color) / 0.03),
+    2px 4px 4px hsl(var(--card-shadow-color) / 0.03),
+    4px 8px 8px hsl(var(--card-shadow-color) / 0.03);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.episode-card:hover {
+  transform: translateY(-2px);
+}
+.episode-card:hover::after {
+  opacity: 1;
+}
+
+/* -- Alternating background -- */
+.episode-card:nth-child(even) {
+  background: var(--card-bg-alt);
+}
+
+/* -- Dark mode adjustments -- */
+[data-theme="dark"] .episode-card {
+  box-shadow: none;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+[data-theme="dark"] .episode-card:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 15px rgba(59, 130, 246, 0.1);
+}
+[data-theme="dark"] .episode-card::after {
+  display: none;
+}
+
+/* --- Episode Header --- */
+.episode-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--divider);
+}
+
+.episode-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  line-height: 1.3;
+}
+
+/* --- Episode Body --- */
+.episode-body {
+  padding: 0.25rem 0;
+}
+
+.question {
+  font-weight: 500;
+  font-size: 1.02rem;
+  color: var(--text-primary);
+  margin: 0.75rem 0 0.35rem;
+}
+
+.options {
+  padding-left: 1.25rem;
+  margin: 0;
+}
+
+.options .opt {
+  display: block;
+  color: var(--text-muted);
+  line-height: 1.6;
+  transition: color 0.15s ease;
+}
+
+.options .opt:hover {
+  color: var(--text-primary);
+}
+
+.options .opt i {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.4em;
+  height: 1.4em;
+  border-radius: 50%;
+  background: var(--badge-bg);
+  color: var(--badge-text);
+  font-size: 0.8em;
+  font-style: normal;
+  margin-right: 0.4em;
+  font-weight: 600;
+}
+
+/* --- Guest line --- */
+.guest-line {
+  font-style: italic;
+  color: var(--link-color);
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+/* --- Episode Footer --- */
+.episode-footer {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--divider);
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.episode-footer i {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 50%;
+  background: var(--badge-bg);
+  color: var(--badge-text);
+  font-size: 0.75em;
+  font-style: normal;
+  margin-right: 0.3em;
+  font-weight: 600;
+}
+
+
+/* --------------------------------------------------------------------------
+   5. Spoiler  --  details/summary
+   -------------------------------------------------------------------------- */
+
+details.spoiler {
+  margin: 1rem 0;
+  border: 1px solid var(--spoiler-border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+details.spoiler > summary {
+  background: var(--spoiler-header-bg);
+  padding: 0.5em 1em;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none;
+  border-bottom: 1px solid var(--spoiler-border);
+}
+
+details.spoiler > .spoiler-content {
+  padding: 0.75em 1em;
+}
+
+
+/* --------------------------------------------------------------------------
+   6. Footnotes
+   -------------------------------------------------------------------------- */
+
+sup.reference a {
+  color: var(--link-color);
+  text-decoration: none;
+  font-size: 0.8em;
+}
+
+ol.references {
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
+ol.references li {
+  margin-bottom: 0.5em;
+}
+
+.ref-backlink {
+  color: var(--link-color);
+  text-decoration: none;
+  margin-right: 0.3em;
+  font-weight: bold;
+}
+.ref-backlink:hover {
+  text-decoration: underline;
+}
+
+
+/* --------------------------------------------------------------------------
+   7. Audio Player
+   -------------------------------------------------------------------------- */
+
+.audio-player {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--card-bg-alt);
+  border: 1px solid var(--card-border);
+  border-radius: 20px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.85rem;
+  margin: 0.25rem 0;
+}
+
+.audio-player .play-btn {
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  border: none;
+  background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  transition: transform 0.15s ease;
+  flex-shrink: 0;
+}
+
+.audio-player .play-btn:hover {
+  transform: scale(1.1);
+}
+
+.audio-player .progress-bar {
+  width: 80px;
+  height: 4px;
+  background: var(--divider);
+  border-radius: 2px;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.audio-player .progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+  width: 0%;
+  transition: width 0.1s linear;
+  border-radius: 2px;
+}
+
+.audio-player .time {
+  font-variant-numeric: tabular-nums;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  min-width: 3em;
+}
+
+
+/* --------------------------------------------------------------------------
+   8. Theme Toggle Button
+   -------------------------------------------------------------------------- */
+
+.theme-toggle {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 100;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  border: 1px solid var(--card-border);
+  background: var(--card-bg);
+  color: var(--text-primary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+
+/* --------------------------------------------------------------------------
+   9. Fade-in Animation for Cards
+   (Initial state is set in section 4 on .episode-card)
+   -------------------------------------------------------------------------- */
+
+/* JS adds .animate-ready to hide cards, then .visible to reveal */
+.episode-card.animate-ready {
+  opacity: 0;
+  transform: translateY(8px);
+}
+.episode-card.animate-ready.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+/* --------------------------------------------------------------------------
+   10. General Typography Overrides for Docsify
+   -------------------------------------------------------------------------- */
+
+.markdown-section {
+  max-width: 900px;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.markdown-section h2 {
+  border-bottom: 1px solid var(--divider);
+  padding-bottom: 0.3em;
+  margin-top: 2rem;
+}
+
+.markdown-section h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+}
