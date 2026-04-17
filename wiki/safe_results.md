@@ -1316,8 +1316,8 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-11-2020">
-<div class="episode-header"><h3>25.11.2020: Аслан, Москва (23 000 рублей)</h3></div>
+<div class="episode-card" id="ep-24-11-2020">
+<div class="episode-header"><h3>24.11.2020: Аслан, Москва (23 000 рублей)</h3></div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что необычного начала выпускать компания Tesla?</p>
 <p class="options"><span class="opt"><i>1</i>: Электрические зубные щётки</span><span class="opt"><i>2</i>: Текила</span><span class="opt"><i>3</i>: Пазлы</span></p>
@@ -1330,8 +1330,8 @@
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
 </div></div></div>
 
-<div class="episode-card" id="ep-25-11-2020-1">
-<div class="episode-header"><h3>25.11.2020 (1): Аня, Ставрополь (27 000 рублей)</h3></div>
+<div class="episode-card" id="ep-25-11-2020">
+<div class="episode-header"><h3>25.11.2020: Аня, Ставрополь (27 000 рублей)</h3></div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какому событию были посвящены рекордные твиты о Бейонсе?</p>
 <p class="options"><span class="opt"><i>1</i>: Выступление на Супербоуле</span><span class="opt"><i>2</i>: Её беременность</span><span class="opt"><i>3</i>: Свадьба с Jay-Z</span></p>
