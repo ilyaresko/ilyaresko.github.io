@@ -571,6 +571,55 @@ ol.references li {
   min-width: 3em;
 }
 
+.audio-player .volume-icon {
+  font-size: 0.95rem;
+  user-select: none;
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+.audio-player .volume-slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 72px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--divider);
+  outline: none;
+  cursor: pointer;
+  flex-shrink: 0;
+  accent-color: #3b82f6;
+}
+
+.audio-player .volume-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+
+.audio-player .volume-slider::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  border: none;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+  cursor: pointer;
+  transition: transform 0.15s ease;
+}
+
+.audio-player .volume-slider:hover::-webkit-slider-thumb {
+  transform: scale(1.2);
+}
+
+.audio-player .volume-slider:hover::-moz-range-thumb {
+  transform: scale(1.2);
+}
+
 
 /* --------------------------------------------------------------------------
    8. Theme Toggle Button
