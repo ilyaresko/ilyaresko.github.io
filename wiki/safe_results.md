@@ -5,8 +5,8 @@
 
 <div class="episode-card" id="ep-26-06-2020"><div class="episode-header"><h3>26.06.2020: Женя, Нижневартовск (7 000 рублей)</h3></div><div class="episode-body">
 <p class="question">Вопрос 1: Прованс — регион в какой стране?</p>
-<p class="options"><span class="opt"><i>1</i>: Испания</span><span class="opt"><i>2</i>: Италия</span><span class="opt"><i>3</i>: Франция</span></p> <span class="audio-player" data-src="/wiki/safe/26.06.2020.mp3">
-<p class="question">Вопрос 2: Какой из этих треков создан Арианой Гранде?</p> 
+<p class="options"><span class="opt"><i>1</i>: Испания</span><span class="opt"><i>2</i>: Италия</span>
+<p class="question">Вопрос 2: Какой из этих треков создан Арианой Гранде?</p> <span class="opt"><i>3</i>: Франция</span></p> <span class="audio-player" data-src="/wiki/safe/26.06.2020.mp3"></span>
 <p class="question">Вопрос 3: Мадагаскар — крупнейший поставщик чего?</p>
 <p class="options"><span class="opt"><i>1</i>: Ванили</span><span class="opt"><i>2</i>: Чая</span><span class="opt"><i>3</i>: Шоколада</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span></div></div></div>
@@ -172,7 +172,7 @@
 <span class="opt"><i>2</i>: Чешский</span>
 <span class="opt"><i>3</i>: Французский</span>
 </p>
-<p class="question">Вопрос 2: Какой из треков исполняет Алан Уокер?</p> <span class="audio-player" data-src="/wiki/safe/24.08.2020.mp3">
+<p class="question">Вопрос 2: Какой из треков исполняет Алан Уокер?</p> <span class="audio-player" data-src="/wiki/safe/24.08.2020.mp3"></span>
 <p class="question">Вопрос 3: Какая столица Южной Кореи?</p>
 <p class="options">
 <span class="opt"><i>1</i>: Сеул</span>
@@ -1032,7 +1032,7 @@
 <div class="episode-card" id="ep-03-11-2020"><div class="episode-header"><h3>03.11.2020: Антон, Саратов (10 000 рублей)</h3></div><div class="episode-body">
 <p class="question">Вопрос 1: Самая ядовитая медуза?</p>
 <p class="options"><span class="opt"><i>1</i>: Морская кобра</span><span class="opt"><i>2</i>: Морская оса</span><span class="opt"><i>3</i>: Морская лжесвинка</span></p>
-<p class="question">Вопрос 2: Определите трек Meduza</p> <span class="audio-player" data-src="/wiki/safe/03.11.2020.mp3">
+<p class="question">Вопрос 2: Определите трек Meduza</p> <span class="audio-player" data-src="/wiki/safe/03.11.2020.mp3"></span>
 <p class="question">Вопрос 3: Кто обезглавил Медузу Горгону?</p>
 <p class="options"><span class="opt"><i>1</i>: Геракл</span><span class="opt"><i>2</i>: Одиссей</span><span class="opt"><i>3</i>: Персей</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span></div></div></div>
@@ -8293,7 +8293,7 @@
 <span class="opt"><i>2</i>: Канада</span>
 <span class="opt"><i>3</i>: Финляндия</span>
 </p>
-<p class="question">Вопрос 3: Какой трек Twenty One Pilots продержался дольше всего в Еврохит Топ 40?</p> <span class="audio-player" data-src="/wiki/safe/01.12.2022.mp3">
+<p class="question">Вопрос 3: Какой трек Twenty One Pilots продержался дольше всего в Еврохит Топ 40?</p> <span class="audio-player" data-src="/wiki/safe/01.12.2022.mp3"></span>
 <div class="episode-footer">
 <span>Ответы участника: <i>3</i>, <i>3</i>, <i>1</i></span>
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
@@ -8970,7 +8970,7 @@
 <div class="episode-card" id="ep-31-01-2023"><div class="episode-header"><h3>31.01.2023: Василий, Казань (73 000 рублей)</h3></div><div class="episode-body">
 <p class="question">Вопрос 1: Почему зебр не кусают мухи?</p>
 <p class="options"><span class="opt"><i>1</i>: Ядовитое вещество в крови</span><span class="opt"><i>2</i>: Дезориентация от полосок</span><span class="opt"><i>3</i>: Ультразвук</span></p>
-<p class="question">Вопрос 2: Какой трек принадлежит группе NSYNC?</p> <span class="audio-player" data-src="/wiki/safe/31.01.2020.mp3">
+<p class="question">Вопрос 2: Какой трек принадлежит группе NSYNC?</p> <span class="audio-player" data-src="/wiki/safe/31.01.2020.mp3"></span>
 <p class="question">Вопрос 3: В каком городе у Стендаля случился знаменитый приступ?</p>
 <p class="options"><span class="opt"><i>1</i>: Флоренция</span><span class="opt"><i>2</i>: Париж</span><span class="opt"><i>3</i>: Вена</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span></div></div></div>
@@ -9732,7 +9732,7 @@
 <p class="options"><span class="opt"><i>1</i>: Самый высокий народ Африки</span><span class="opt"><i>2</i>: Самый светлокожий</span><span class="opt"><i>3</i>: Чаще выигрывают чемпионаты по бегу</span></p>
 <p class="question">Вопрос 2: Что такое варнишкес?</p>
 <p class="options"><span class="opt"><i>1</i>: Пирог с гречневой начинкой</span><span class="opt"><i>2</i>: Вареники с гречневой начинкой</span><span class="opt"><i>3</i>: Тефтельки из гречки</span></p>
-<p class="question">Вопрос 3: Какой из этих треков от диджея из Шотландии?</p> <span class="audio-player" data-src="/wiki/safe/10.04.2023.mp3">
+<p class="question">Вопрос 3: Какой из этих треков от диджея из Шотландии?</p> <span class="audio-player" data-src="/wiki/safe/10.04.2023.mp3"></span>
 <div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span></div></div></div>
 
 <div class="episode-card" id="ep-12-04-2023">
@@ -11876,7 +11876,7 @@
 <span class="opt"><i>2</i>: Нотариус</span>
 <span class="opt"><i>3</i>: Преподаватель бальных танцев</span>
 </p>
-<p class="question">Вопрос 2: Исполнительница какого из треков родом из Колумбии?</p> <span class="audio-player" data-src="/wiki/safe/14.11.2023.mp3">
+<p class="question">Вопрос 2: Исполнительница какого из треков родом из Колумбии?</p> <span class="audio-player" data-src="/wiki/safe/14.11.2023.mp3"></span>
 <p class="question">Вопрос 3: Кто правил на Руси в XVI веке?</p>
 <p class="options">
 <span class="opt"><i>1</i>: Иван Грозный</span>
