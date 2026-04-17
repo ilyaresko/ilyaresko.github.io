@@ -5,8 +5,8 @@
 
 <div class="episode-card" id="ep-26-06-2020"><div class="episode-header"><h3>26.06.2020: Женя, Нижневартовск (7 000 рублей)</h3></div><div class="episode-body">
 <p class="question">Вопрос 1: Прованс — регион в какой стране?</p>
-<p class="options"><span class="opt"><i>1</i>: Испания</span><span class="opt"><i>2</i>: Италия</span><span class="opt"><i>3</i>: Франция</span></p>
-<p class="question">Вопрос 2: Какой из этих треков создан Арианой Гранде?</p> <span class="audio-player" data-src="/wiki/safe/26.06.2020.mp3">
+<p class="options"><span class="opt"><i>1</i>: Испания</span><span class="opt"><i>2</i>: Италия</span><span class="opt"><i>3</i>: Франция</span></p> <span class="audio-player" data-src="/wiki/safe/26.06.2020.mp3">
+<p class="question">Вопрос 2: Какой из этих треков создан Арианой Гранде?</p> 
 <p class="question">Вопрос 3: Мадагаскар — крупнейший поставщик чего?</p>
 <p class="options"><span class="opt"><i>1</i>: Ванили</span><span class="opt"><i>2</i>: Чая</span><span class="opt"><i>3</i>: Шоколада</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span></div></div></div>
