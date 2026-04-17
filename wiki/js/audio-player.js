@@ -1,7 +1,8 @@
 /* ==========================================================================
    audio-player.js
    Docsify plugin: transforms .audio-player[data-src] divs into working
-   inline mini-players with play/pause, progress bar, seek, and time display.
+   inline mini-players with play/pause, progress bar, seek, time display,
+   and a volume slider (default 50%).
    Only one player plays at a time.
    ========================================================================== */
 
@@ -63,13 +64,30 @@ window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook)
     timeDisplay.className = 'time';
     timeDisplay.textContent = '0:00';
 
+    // --- Volume icon ---
+    var volumeIcon = document.createElement('span');
+    volumeIcon.className = 'volume-icon';
+    volumeIcon.textContent = '\uD83D\uDD09'; // 🔉 (50% default)
+
+    // --- Volume slider ---
+    var volumeSlider = document.createElement('input');
+    volumeSlider.type = 'range';
+    volumeSlider.className = 'volume-slider';
+    volumeSlider.min = '0';
+    volumeSlider.max = '100';
+    volumeSlider.value = '50';
+    volumeSlider.title = 'Громкость';
+
     // --- Assemble DOM ---
     el.appendChild(playBtn);
     el.appendChild(progressBar);
     el.appendChild(timeDisplay);
+    el.appendChild(volumeIcon);
+    el.appendChild(volumeSlider);
 
     // --- Audio element ---
     var audio = new Audio(src);
+    audio.volume = 0.5; // initial volume 50%
 
     // Register for single-player enforcement
     activePlayers.push({ audio: audio, btn: playBtn });
@@ -99,6 +117,21 @@ window.$docsify.plugins = (window.$docsify.plugins || []).concat(function (hook)
     progressBar.addEventListener('click', function (e) {
       if (audio.duration) {
         audio.currentTime = (e.offsetX / progressBar.offsetWidth) * audio.duration;
+      }
+    });
+
+    // --- Volume control ---
+    volumeSlider.addEventListener('input', function () {
+      var val = parseInt(volumeSlider.value, 10);
+      audio.volume = val / 100;
+      if (val === 0) {
+        volumeIcon.textContent = '\uD83D\uDD07'; // 🔇
+      } else if (val < 40) {
+        volumeIcon.textContent = '\uD83D\uDD08'; // 🔈
+      } else if (val < 70) {
+        volumeIcon.textContent = '\uD83D\uDD09'; // 🔉
+      } else {
+        volumeIcon.textContent = '\uD83D\uDD0A'; // 🔊
       }
     });
 
