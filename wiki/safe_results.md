@@ -6023,9 +6023,10 @@
 <p class="options"><span class="opt"><i>1</i>: Альбатрос</span><span class="opt"><i>2</i>: Гриф</span><span class="opt"><i>3</i>: Фрегат</span></p>
 <p class="question">Вопрос 2: Столица Чили?</p>
 <p class="options"><span class="opt"><i>1</i>: Богота</span><span class="opt"><i>2</i>: Лима</span><span class="opt"><i>3</i>: Сантьяго</span></p>
-<p class="question">Вопрос 3: Что такое чупая у уасо?</p>
+<p class="question">Вопрос 3: Что такое чупайя у Хуасо?</p>
 <p class="options"><span class="opt"><i>1</i>: Кожаное лассо</span><span class="opt"><i>2</i>: Курительная трубка</span><span class="opt"><i>3</i>: Соломенная шляпа</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, [НЕ РАСПОЗНАНО]</span><span>Правильные ответы: [НЕ РАСПОЗНАНО]</span></div>
+Игра прекращена из-за разрыва связи.
+<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>–</i></span><span>Правильные ответы: <i>2</i>, <i>3</i>, <i>3</i></span></div>
 </div>
 </div>
 
@@ -8173,8 +8174,9 @@
 <span class="opt"><i>2</i>: Штурмовая катапульта</span>
 <span class="opt"><i>3</i>: Парусное судно</span>
 </p>
+Игра прекращена из-за разрыва связи.
 <div class="episode-footer">
-<span>Ответы участника: <i>1</i>, <i>1</i>, [НЕ РАСПОЗНАНО]</span>
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>–</i></span>
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span>
 </div>
 </div>
@@ -10266,7 +10268,7 @@
 </div>
 
 <div class="episode-card" id="ep-19-11-2019">
-<div class="episode-header"><h3>19.11.2019: Ирина, [НЕ РАСПОЗНАНО] (67 000 рублей)</h3></div>
+<div class="episode-header"><h3>19.11.2019: Ирина (67 000 рублей)</h3></div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Национальный вид спорта Пуэрто-Рико?</p>
 <p class="options"><span class="opt"><i>1</i>: Крысиные бега</span><span class="opt"><i>2</i>: Петушиные бои</span><span class="opt"><i>3</i>: Битва жуков-рогоносцев</span></p>
@@ -12288,13 +12290,13 @@
 </div>
 
 <div class="episode-card" id="ep-09-06-2020"><div class="episode-header"><h3>09.06.2020: Евгений, Джанкой (3 000 рублей)</h3></div><div class="episode-body">
-<p class="question">Вопрос 1: На каком инструменте играет Натали Портман?</p>
-<p class="options"><span class="opt"><i>1</i>: Волынка</span><span class="opt"><i>2</i>: Скрипка</span><span class="opt"><i>3</i>: Флейта</span></p>
+<p class="question">Вопрос 1: Каким талантом обладает Натали Портман?</p>
+<p class="options"><span class="opt"><i>1</i>: Играет на волынке</span><span class="opt"><i>2</i>: Говорит на шести языках</span><span class="opt"><i>3</i>: Мастер спорта по спортивной ходьбе</span></p>
 <p class="question">Вопрос 2: Кем был Росс Геллер в сериале «Друзья»?</p>
 <p class="options"><span class="opt"><i>1</i>: Палеонтологом</span><span class="opt"><i>2</i>: Стоматологом</span><span class="opt"><i>3</i>: Маркетологом</span></p>
 <p class="question">Вопрос 3: Чьей музой является Джонни Депп?</p>
 <p class="options"><span class="opt"><i>1</i>: Мартина Скорсезе</span><span class="opt"><i>2</i>: Квентина Тарантино</span><span class="opt"><i>3</i>: Тима Бёртона</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: [НЕ РАСПОЗНАНО — правильный на вопрос 1 неясен], <i>1</i>, <i>3</i></span></div></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span></div></div></div>
 
 <div class="episode-card" id="ep-11-06-2020"><div class="episode-header"><h3>11.06.2020: Сергей, Комсомольск-на-Амуре (10 000 рублей)</h3></div><div class="episode-body">
 <p class="question">Вопрос 1: Какой алкогольный напиток делают из кукурузы?</p>
@@ -27181,8 +27183,8 @@
 </div>
 
 <div class="episode-card" id="ep-06-02-2025"><div class="episode-header"><h3>06.02.2025: Мария, Уфа (37 000 рублей)</h3></div><div class="episode-body">
-<p class="question">Вопрос 1: Что такое ям-лову (Fiji)?</p>
-<p class="options"><span class="opt"><i>1</i>: Подарок хозяевам</span><span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span><span class="opt"><i>3</i>: Яма для приготовления еды</span></p>
+<p class="question">Вопрос 1: Что такое яма-лову (понятие на Фиджи)?</p>
+<p class="options"><span class="opt"><i>1</i>: Яма-домик для духа</span><span class="opt"><i>2</i>: Технология для приготовления барбекю в яме</span><span class="opt"><i>3</i>: Свадебная традиция – яма для дерева молодожёнов</span></p>
 <p class="question">Вопрос 2: Где находится самая длинная лестница России (1 683 ступени)?</p>
 <p class="options"><span class="opt"><i>1</i>: Красноярск</span><span class="opt"><i>2</i>: Краснодар</span><span class="opt"><i>3</i>: Екатеринбург</span></p>
 <p class="question">Вопрос 3: Какую фигуру сложили 357 парашютистов в Таиланде в 2004?</p>
