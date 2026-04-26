@@ -1171,36 +1171,6 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-01-2017">
-<div class="episode-header">
-<h3>24.01.2017: Юлия, Урай (77 000 рублей)</h3>
-</div>
-<div class="episode-body">
-<p class="question">Вопрос 1: Официальное название Марианской впадины?</p>
-<p class="options">
-<span class="opt"><i>1</i>: Марианский арык</span>
-<span class="opt"><i>2</i>: Марианский разлом</span>
-<span class="opt"><i>3</i>: Марианский жёлоб</span>
-</p>
-<p class="question">Вопрос 2: Как переводится слово «Антарктида» с греческого?</p>
-<p class="options">
-<span class="opt"><i>1</i>: Самый юг</span>
-<span class="opt"><i>2</i>: Противоположность Арктике</span>
-<span class="opt"><i>3</i>: Холодный остров</span>
-</p>
-<p class="question">Вопрос 3: С кем стрелялся Евгений Онегин?</p>
-<p class="options">
-<span class="opt"><i>1</i>: Чацкий</span>
-<span class="opt"><i>2</i>: Ленский</span>
-<span class="opt"><i>3</i>: Хлестаков</span>
-</p>
-<div class="episode-footer">
-<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
-<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
-</div>
-</div>
-</div>
-
 <div class="episode-card" id="ep-25-01-2017">
 <div class="episode-header">
 <h3>25.01.2017: Оксана, Санкт-Петербург (83 000 рублей)</h3>
