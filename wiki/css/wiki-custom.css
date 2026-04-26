@@ -150,6 +150,12 @@
   border-bottom-color: var(--divider);
 }
 
+[data-theme="dark"] .sidebar-toggle {
+  background: #16162a;
+  color: var(--text-primary);
+  border-color: var(--divider);
+}
+
 [data-theme="dark"] .app-name-link {
   color: var(--text-primary);
 }
