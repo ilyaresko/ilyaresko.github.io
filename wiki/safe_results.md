@@ -3,6 +3,61 @@
 <div class="p-summary-tools" style="margin: -0.25em 0em 0.5em">обзор радиоигры</div>
 </div>
 
+<h3>25.03.2014 (100 000 рублей)</h3>
+</div>
+Игра до победного конца – участники играют на одних и тех же вопросах до тех пор, пока кто-то не назовёт правильную комбинацию.
+
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой предмет положил начало венецианскому стеклу?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Дворцовые люстры</span>
+<span class="opt"><i>2</i>: Песочные часы</span>
+<span class="opt"><i>3</i>: Фляги для ликёра</span>
+</p>
+<p class="question">Вопрос 2: Действие какой пьесы происходит в Венеции?</p>
+<p class="options">
+<span class="opt"><i>1</i>: *Ромео и Джульетта*</span>
+<span class="opt"><i>2</i>: *Собака на сене*</span>
+<span class="opt"><i>3</i>: *Слуга двух господ*</span>
+</p>
+<p class="question">Вопрос 3: Чем знаменит остров Бурано?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кружева</span>
+<span class="opt"><i>2</i>: Бабушки</span>
+<span class="opt"><i>3</i>: Булочки</span>
+</p>
+<div class="episode-footer">
+<h2>Игра 1: Ленар, Казань</h2>
+
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span>
+
+<h2>Игра 2: Артём, Чита</h2>
+
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span>
+
+<h2>Игра 3: Ольга, Санкт-Петербург</h2>
+
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>1</i></span>
+
+<h2>Игра 4: Виктор, Москва</h2>
+
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>2</i></span>
+
+<h2>Игра 5: Александр, Москва</h2>
+
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+
+<h2>Игра 6: Максим, Липецк</h2>
+
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+
+<h2>Игра 7: Рафаэль, Москва</h2>
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
 <div class="episode-card" id="ep-26-06-2020"><div class="episode-header"><h3>26.06.2020: Женя, Нижневартовск (7 000 рублей)</h3></div><div class="episode-body">
 <p class="question">Вопрос 1: Прованс — регион в какой стране?</p>
 <p class="options"><span class="opt"><i>1</i>: Испания</span><span class="opt"><i>2</i>: Италия</span><span class="opt"><i>3</i>: Франция</span></p>
