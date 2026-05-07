@@ -7,14 +7,19 @@
 
 ## Сезон 2009-2010
 
-<div class="episode-card" id="ep-01-04-2010"><div class="episode-header"><h3>01.04.2010: Елизавета, Хабаровск (60 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-01-04-2010">
+<div class="episode-header">
+
+<h3>01.04.2010: Елизавета, Хабаровск (60 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Что такое С-400 «Триумф»?</p>
 <p class="options"><span class="opt"><i>1</i>: Ракетный комплекс нового поколения</span><span class="opt"><i>2</i>: Подводная лодка нового поколения</span><span class="opt"><i>3</i>: Танк-невидимка нового поколения</span></p>
 <p class="question">Вопрос 2: Какой военный округ расположен между МВО и СибВО?</p>
 <p class="options"><span class="opt"><i>1</i>: ЛенВО</span><span class="opt"><i>2</i>: СКВО</span><span class="opt"><i>3</i>: ПУрВО</span></p>
 <p class="question">Вопрос 3: Что означает имя Дарья на персидском языке?</p>
 <p class="options"><span class="opt"><i>1</i>: Большая река</span><span class="opt"><i>2</i>: Большая звезда</span><span class="opt"><i>3</i>: Большая нора</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span></div></div></div>
 
 <div class="episode-card" id="ep-06-04-2010">
 <div class="episode-header">
@@ -45,6 +50,7 @@
 <span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-04-06-2010">
 <div class="episode-header">
@@ -73,6 +79,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
 <span>Правильные ответы: <i>2</i>, <i>2</i>, <i>3</i></span>
+</div>
 </div>
 </div>
 
@@ -107,11 +114,13 @@
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 ## Сезон 2011-2012
 
 <div class="episode-card" id="ep-23-01-2012">
 <div class="episode-header">
+
 <h3>23.01.2012: Андрей, Челябинск (20 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -138,11 +147,13 @@
 <span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 ## Сезон 2012-2013
 
 <div class="episode-card" id="ep-03-09-2012">
 <div class="episode-header">
+
 <h3>03.09.2012: Николай, Москва (93 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -167,6 +178,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
 </div>
 </div>
 
@@ -199,11 +211,13 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 ## Сезон 2013-2014
 
 <div class="episode-card" id="ep-25-10-2013">
 <div class="episode-header">
+
 <h3>25.10.2013: Наталья, Киров (13 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -230,9 +244,11 @@
 <span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-14-01-2014">
 <div class="episode-header">
+
 <h3>14.01.2014: Алексей, Тверь (17 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -259,9 +275,11 @@
 <span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-12-03-2014">
 <div class="episode-header">
+
 <h3>12.03.2014: Павел, Воронеж (50 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -286,6 +304,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>3</i>, <i>1</i>, <i>1</i></span>
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
 </div>
 </div>
 
@@ -326,11 +345,15 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 ## Сезон 2014-2015
 
 <div class="episode-card" id="ep-19-08-2014">
-<div class="episode-header"><h3>19.08.2014: Владимир, Анапа (83 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>19.08.2014: Владимир, Анапа (83 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Из-за яблока по Гомеру что произошло?</p>
 <p class="options"><span class="opt"><i>1</i>: Одиссей отправился в путешествие</span><span class="opt"><i>2</i>: Началась Троянская война</span><span class="opt"><i>3</i>: Пал Рим</span></p>
@@ -340,18 +363,25 @@
 <p class="options"><span class="opt"><i>1</i>: Писко</span><span class="opt"><i>2</i>: Граппа</span><span class="opt"><i>3</i>: Кальвадос</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>2</i>, <i>3</i></span></div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-10-09-2014"><div class="episode-header"><h3>10.09.2014: Екатерина, Курск (23 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-10-09-2014">
+<div class="episode-header">
+
+<h3>10.09.2014: Екатерина, Курск (23 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Чем отличается кудринская резьба по дереву?</p>
 <p class="options"><span class="opt"><i>1</i>: Автор — Васька Кудрявый</span><span class="opt"><i>2</i>: Кудреватый орнамент</span><span class="opt"><i>3</i>: Делается топором-кудрилём</span></p>
 <p class="question">Вопрос 2: Что такое комель?</p>
 <p class="options"><span class="opt"><i>1</i>: Толстый нижний конец бревна</span><span class="opt"><i>2</i>: Напряжённые сучья</span><span class="opt"><i>3</i>: Часть ствола с дуплом</span></p>
 <p class="question">Вопрос 3: Как переводится «дроссель» с немецкого?</p>
 <p class="options"><span class="opt"><i>1</i>: Душить</span><span class="opt"><i>2</i>: Кончать</span><span class="opt"><i>3</i>: Фильтр</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>3</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>3</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span></div></div></div>
 
 <div class="episode-card" id="ep-22-09-2014">
 <div class="episode-header">
+
 <h3>22.09.2014: Дмитрий (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -378,9 +408,11 @@
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-24-10-2014">
 <div class="episode-header">
+
 <h3>24.10.2014: Галина, Москва (23 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -407,9 +439,11 @@
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-12-02-2015">
 <div class="episode-header">
+
 <h3>12.02.2015: Эльдар, Омск (77 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -436,11 +470,13 @@
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 ## Сезон 2015-2016
 
 <div class="episode-card" id="ep-12-10-2015">
 <div class="episode-header">
+
 <h3>12.10.2015: Евгений, Москва (13 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -467,18 +503,25 @@
 <span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-08-12-2015"><div class="episode-header"><h3>08.12.2015: Амалия, Снежинск (10 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-08-12-2015">
+<div class="episode-header">
+
+<h3>08.12.2015: Амалия, Снежинск (10 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Как Лев Толстой называл «Войну и мир» в письме Фету?</p>
 <p class="options"><span class="opt"><i>1</i>: Многословная дребедень</span><span class="opt"><i>2</i>: Многотактовая мазурка</span><span class="opt"><i>3</i>: Карточный домик</span></p>
 <p class="question">Вопрос 2: Кто написал оперу «Война и мир»?</p>
 <p class="options"><span class="opt"><i>1</i>: Прокофьев</span><span class="opt"><i>2</i>: Глинка</span><span class="opt"><i>3</i>: Шостакович</span></p>
 <p class="question">Вопрос 3: Какой титул был у Андрея Николаевича Болконского?</p>
 <p class="options"><span class="opt"><i>1</i>: Граф</span><span class="opt"><i>2</i>: Князь</span><span class="opt"><i>3</i>: Император</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span></div></div></div>
 
 <div class="episode-card" id="ep-23-12-2015">
 <div class="episode-header">
+
 <h3>23.12.2015: Андрей, Киров (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -505,9 +548,13 @@
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-21-01-2016">
-<div class="episode-header"><h3>21.01.2016: Павел, Собинка (17 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>21.01.2016: Павел, Собинка (17 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Самая большая планета Солнечной системы?</p>
 <p class="options"><span class="opt"><i>1</i>: Нептун</span><span class="opt"><i>2</i>: Плутон</span><span class="opt"><i>3</i>: Юпитер</span></p>
@@ -517,9 +564,11 @@
 <p class="options"><span class="opt"><i>1</i>: Переименовал Плутон в нейрон</span><span class="opt"><i>2</i>: Разжаловал Плутон из планет</span><span class="opt"><i>3</i>: Предрёк скорую кончину</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>1</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-28-01-2016">
 <div class="episode-header">
+
 <h3>28.01.2016: Андрей, Омск (10 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -546,9 +595,11 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-26-02-2016">
 <div class="episode-header">
+
 <h3>26.02.2016: Евгений, Йошкар-Ола (77 000 рублей)</h3>
 Гость — Антон Лаврентьев
 </div>
@@ -565,9 +616,11 @@
 <span>Правильные ответы: <i>3</i>, <i>—</i>, <i>—</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-29-02-2016">
 <div class="episode-header">
+
 <h3>29.02.2016: Роман, Москва (80 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -594,18 +647,25 @@
 <span>Правильные ответы: <i>2</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-04-03-2016"><div class="episode-header"><h3>04.03.2016: Кирилл, Ярославль (93 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-04-03-2016">
+<div class="episode-header">
+
+<h3>04.03.2016: Кирилл, Ярославль (93 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Как называется капитан парусного судна?</p>
 <p class="options"><span class="opt"><i>1</i>: Шкипер</span><span class="opt"><i>2</i>: Бушприт</span><span class="opt"><i>3</i>: Шкентель</span></p>
 <p class="question">Вопрос 2: Что такое флюгарка?</p>
 <p class="options"><span class="opt"><i>1</i>: Фигурка на носу корабля</span><span class="opt"><i>2</i>: Флажок направления ветра</span><span class="opt"><i>3</i>: Спальный гамак</span></p>
 <p class="question">Вопрос 3: Что обещает фонтан Каналетес в Барселоне выпившему воду?</p>
 <p class="options"><span class="opt"><i>1</i>: Выигрыш в казино</span><span class="opt"><i>2</i>: Возвращение сюда</span><span class="opt"><i>3</i>: Женитьбу в течение года</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span></div></div></div>
 
 <div class="episode-card" id="ep-26-04-2016">
 <div class="episode-header">
+
 <h3>26.04.2016: Александр, Новокузнецк (63 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -632,9 +692,13 @@
 <span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-19-05-2016">
-<div class="episode-header"><h3>19.05.2016: Дмитрий, Ставрополь (33 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>19.05.2016: Дмитрий, Ставрополь (33 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Тхэквондо — какое боевое искусство?</p>
 <p class="options"><span class="opt"><i>1</i>: Китайское</span><span class="opt"><i>2</i>: Корейское</span><span class="opt"><i>3</i>: Японское</span></p>
@@ -643,6 +707,7 @@
 <p class="question">Вопрос 3: Что делают с коровами в Швейцарии, чтобы они ели больше травы?</p>
 <p class="options"><span class="opt"><i>1</i>: Не дают спать</span><span class="opt"><i>2</i>: Вешают утяжелитель на шею</span><span class="opt"><i>3</i>: Перевозят в контейнерах</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span></div>
+</div>
 </div>
 
 <div class="episode-card" id="ep-24-05-2016">
@@ -674,11 +739,13 @@
 <span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 ## Сезон 2016-2017
 
 <div class="episode-card" id="ep-21-07-2016">
 <div class="episode-header">
+
 <h3>21.07.2016: Андрей, Брянск (90 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -706,18 +773,25 @@
 <span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-02-08-2016"><div class="episode-header"><h3>02.08.2016: Мира, Смоленск (10 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-02-08-2016">
+<div class="episode-header">
+
+<h3>02.08.2016: Мира, Смоленск (10 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Какой девиз у ВДВ?</p>
 <p class="options"><span class="opt"><i>1</i>: Никто, кроме нас</span><span class="opt"><i>2</i>: Там, где мы, там победа</span><span class="opt"><i>3</i>: После нас только тишина</span></p>
 <p class="question">Вопрос 2: Где находится фонтан Дружбы народов?</p>
 <p class="options"><span class="opt"><i>1</i>: В парке Горького</span><span class="opt"><i>2</i>: На ВДНХ</span><span class="opt"><i>3</i>: В Архангельском</span></p>
 <p class="question">Вопрос 3: Почему у тельняшек чёрно-белые полосы?</p>
 <p class="options"><span class="opt"><i>1</i>: Чтобы моряков было видно на фоне белых парусов</span><span class="opt"><i>2</i>: Закончились белые нитки</span><span class="opt"><i>3</i>: Чёрное на белом — символ победы</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span></div></div></div>
 
 <div class="episode-card" id="ep-13-09-2016">
 <div class="episode-header">
+
 <h3>13.09.2016: Анна, Вологда (3 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -744,27 +818,41 @@
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-08-11-2016"><div class="episode-header"><h3>08.11.2016: Лада, Кострома (87 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-08-11-2016">
+<div class="episode-header">
+
+<h3>08.11.2016: Лада, Кострома (87 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Кому или чему исполнилось 87 лет?</p>
 <p class="options"><span class="opt"><i>1</i>: Мику Джаггеру</span><span class="opt"><i>2</i>: Хью Хефнеру</span><span class="opt"><i>3</i>: Екатеринбургскому трамваю</span></p>
 <p class="question">Вопрос 2: Кто такой Сидни Кросби под номером 87?</p>
 <p class="options"><span class="opt"><i>1</i>: Баскетболист</span><span class="opt"><i>2</i>: Хоккеист</span><span class="opt"><i>3</i>: Футболист</span></p>
 <p class="question">Вопрос 3: Чей регион 87 в автомобильных номерах?</p>
 <p class="options"><span class="opt"><i>1</i>: Иркутская область</span><span class="opt"><i>2</i>: Красноярский край</span><span class="opt"><i>3</i>: Чукотский автономный округ</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span></div></div></div>
 
-<div class="episode-card" id="ep-09-11-2016"><div class="episode-header"><h3>09.11.2016: Алексей, Ялуторовск (3 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-09-11-2016">
+<div class="episode-header">
+
+<h3>09.11.2016: Алексей, Ялуторовск (3 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Кто из них — коренные жители США?</p>
 <p class="options"><span class="opt"><i>1</i>: Инки</span><span class="opt"><i>2</i>: Майя</span><span class="opt"><i>3</i>: Чероки</span></p>
 <p class="question">Вопрос 2: Что запрещено делать за рулём в Алабаме?</p>
 <p class="options"><span class="opt"><i>1</i>: Ехать голым</span><span class="opt"><i>2</i>: С завязанными глазами</span><span class="opt"><i>3</i>: Бреясь</span></p>
 <p class="question">Вопрос 3: Чего официально нет в США?</p>
 <p class="options"><span class="opt"><i>1</i>: Столицы</span><span class="opt"><i>2</i>: Границы</span><span class="opt"><i>3</i>: Официального языка</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span></div></div></div>
 
 <div class="episode-card" id="ep-18-11-2016">
-<div class="episode-header"><h3>18.11.2016: Евгения, Калуга (27 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>18.11.2016: Евгения, Калуга (27 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="guest-line">Гости эфира — Swanky Tunes (Стас, Дима, Вадим)</p>
 <p class="question">Вопрос 1: С каким голландским диджеем у Swanky Tunes коллаборация?</p>
@@ -775,9 +863,11 @@
 <p class="options"><span class="opt"><i>1</i>: Кот Баюн</span><span class="opt"><i>2</i>: Собака Плака</span><span class="opt"><i>3</i>: Птица Гамаюн</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-21-11-2016">
 <div class="episode-header">
+
 <h3>21.11.2016: Наталья, Саратов (30 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -804,9 +894,11 @@
 <span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-22-11-2016">
 <div class="episode-header">
+
 <h3>22.11.2016: Айгуль, Набережные Челны (33 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -831,6 +923,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>3</i>, <i>1</i>, <i>1</i></span>
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span>
+</div>
 </div>
 </div>
 
@@ -863,9 +956,11 @@
 <span>Правильные ответы: <i>2</i>, <i>3</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-29-12-2016">
 <div class="episode-header">
+
 <h3>29.12.2016: Евгений, Чита (37 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -890,6 +985,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
 <span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
+</div>
 </div>
 </div>
 
@@ -927,6 +1023,7 @@
 <span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-09-01-2017">
 <div class="episode-header">
@@ -957,27 +1054,39 @@
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-10-01-2017"><div class="episode-header"><h3>10.01.2017: Татьяна, Череповец (47 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-10-01-2017">
+<div class="episode-header">
+
+<h3>10.01.2017: Татьяна, Череповец (47 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Почему первые вагоны лондонского метро называли «палатами для душевнобольных»?</p>
 <p class="options"><span class="opt"><i>1</i>: Были жёлтого цвета</span><span class="opt"><i>2</i>: Пассажиров пристёгивали</span><span class="opt"><i>3</i>: Без окон, обиты войлоком</span></p>
 <p class="question">Вопрос 2: Чем отличается лондонское метро (кроме того, что оно – самое старое)?</p>
 <p class="options"><span class="opt"><i>1</i>: Самое дорогое</span><span class="opt"><i>2</i>: Самое глубокое</span><span class="opt"><i>3</i>: Самое большое по числу станций</span></p>
 <p class="question">Вопрос 3: Чем известен район Ковент-Гарден в Лондоне?</p>
 <p class="options"><span class="opt"><i>1</i>: Там район театров</span><span class="opt"><i>2</i>: Живёт королева Елизавета</span><span class="opt"><i>3</i>: Проходит Гринвичский меридиан</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span></div></div></div>
 
-<div class="episode-card" id="ep-11-01-2017"><div class="episode-header"><h3>11.01.2017: Дамир, Башкирия (50 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-11-01-2017">
+<div class="episode-header">
+
+<h3>11.01.2017: Дамир, Башкирия (50 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Почему чёрная дыра называется чёрной?</p>
 <p class="options"><span class="opt"><i>1</i>: Открыл астролог Адольф Шварц</span><span class="opt"><i>2</i>: Всасывает свет и не отражает его</span><span class="opt"><i>3</i>: Обнаружена в созвездии Чёрной медузы</span></p>
 <p class="question">Вопрос 2: Что противоположного в белой дыре по сравнению с чёрной?</p>
 <p class="options"><span class="opt"><i>1</i>: В белую невозможно попасть</span><span class="opt"><i>2</i>: В белую можно попасть только через чёрную</span><span class="opt"><i>3</i>: «Что-то вы гоните»</span></p>
 <p class="question">Вопрос 3: Что может вырваться из чёрной дыры?</p>
 <p class="options"><span class="opt"><i>1</i>: Радиация</span><span class="opt"><i>2</i>: Звук</span><span class="opt"><i>3</i>: Квант</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span></div></div></div>
 
 <div class="episode-card" id="ep-12-01-2017">
 <div class="episode-header">
+
 <h3>12.01.2017: Роман, Петрозаводск (53 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1004,9 +1113,11 @@
 <span>Правильные ответы: <i>3</i>, <i>3</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-13-01-2017">
 <div class="episode-header">
+
 <h3>13.01.2017: Елена, Пенза (57 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1033,9 +1144,11 @@
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-16-01-2017">
 <div class="episode-header">
+
 <h3>16.01.2017: Дмитрий, Домодедово (60 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1060,6 +1173,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span>
 <span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span>
+</div>
 </div>
 </div>
 
@@ -1092,9 +1206,13 @@
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-20-01-2017">
-<div class="episode-header"><h3>20.01.2017: Анастасия, Луховицы (73 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>20.01.2017: Анастасия, Луховицы (73 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="guest-line">Гость эфира — Александр Петров</p>
 <p class="question">Вопрос 1: Как переводится «гуманоид» с латинского?</p>
@@ -1105,9 +1223,11 @@
 <p class="options"><span class="opt"><i>1</i>: Фантасмагория</span><span class="opt"><i>2</i>: Научно-фантастическая антиутопия</span><span class="opt"><i>3</i>: Постапокалиптика</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-23-01-2017">
 <div class="episode-header">
+
 <h3>23.01.2017: Юлия, Урай (77 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1134,9 +1254,11 @@
 <span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-25-01-2017">
 <div class="episode-header">
+
 <h3>25.01.2017: Оксана, Санкт-Петербург (83 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1163,9 +1285,11 @@
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-26-01-2017">
 <div class="episode-header">
+
 <h3>26.01.2017: Галина, Невинномысск (3 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1192,9 +1316,11 @@
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-27-01-2017">
 <div class="episode-header">
+
 <h3>27.01.2017: Вилена, Санкт-Петербург (3 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1221,9 +1347,11 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-30-01-2017">
 <div class="episode-header">
+
 <h3>30.01.2017: Андрей, Горно-Алтайск (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1248,6 +1376,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>1</i>, <i>2</i>, <i>2</i></span>
 <span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span>
+</div>
 </div>
 </div>
 
@@ -1280,6 +1409,7 @@
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-01-02-2017">
 <div class="episode-header">
@@ -1310,36 +1440,55 @@
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-03-02-2017"><div class="episode-header"><h3>03.02.2017: Виталий, Нижний Новгород (20 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-03-02-2017">
+<div class="episode-header">
+
+<h3>03.02.2017: Виталий, Нижний Новгород (20 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Как ещё называют цветок мимозу?</p>
 <p class="options"><span class="opt"><i>1</i>: Бояка</span><span class="opt"><i>2</i>: Щекотуха</span><span class="opt"><i>3</i>: Недотрога</span></p>
 <p class="question">Вопрос 2: Символ и национальный цветок Таиланда?</p>
 <p class="options"><span class="opt"><i>1</i>: Лилия</span><span class="opt"><i>2</i>: Лотос</span><span class="opt"><i>3</i>: Хризантема</span></p>
 <p class="question">Вопрос 3: Как называется чашечка орхидеи, образованная лепестками?</p>
 <p class="options"><span class="opt"><i>1</i>: Губа</span><span class="opt"><i>2</i>: Ложбинка</span><span class="opt"><i>3</i>: Колыбель</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span></div></div></div>
 
-<div class="episode-card" id="ep-06-02-2017"><div class="episode-header"><h3>06.02.2017: Диля, Казань (23 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-06-02-2017">
+<div class="episode-header">
+
+<h3>06.02.2017: Диля, Казань (23 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: По какому вкусу узнают Амаретто в коктейлях?</p>
 <p class="options"><span class="opt"><i>1</i>: Миндаля</span><span class="opt"><i>2</i>: Мяты</span><span class="opt"><i>3</i>: Кофе</span></p>
 <p class="question">Вопрос 2: Что такое флейринг?</p>
 <p class="options"><span class="opt"><i>1</i>: Приготовление коктейлей с жонглированием</span><span class="opt"><i>2</i>: Название женщин-барменов</span><span class="opt"><i>3</i>: Танцы на барной стойке</span></p>
 <p class="question">Вопрос 3: С чем смешивают апельсиновый сок в коктейле «Мимоза»?</p>
 <p class="options"><span class="opt"><i>1</i>: С шампанским</span><span class="opt"><i>2</i>: С пивом</span><span class="opt"><i>3</i>: С кофе</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span></div></div></div>
 
-<div class="episode-card" id="ep-07-02-2017"><div class="episode-header"><h3>07.02.2017: Евгений, Москва (27 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-07-02-2017">
+<div class="episode-header">
+
+<h3>07.02.2017: Евгений, Москва (27 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: На каком острове находится Саппоро?</p>
 <p class="options"><span class="opt"><i>1</i>: Кунашир</span><span class="opt"><i>2</i>: Шикотан</span><span class="opt"><i>3</i>: Хоккайдо</span></p>
 <p class="question">Вопрос 2: С какого животного срисовали Пикачу?</p>
 <p class="options"><span class="opt"><i>1</i>: Напуганная утка</span><span class="opt"><i>2</i>: Чихающий хомяк</span><span class="opt"><i>3</i>: Плачущий кролик</span></p>
 <p class="question">Вопрос 3: Что такое Сусукино в Саппоро?</p>
 <p class="options"><span class="opt"><i>1</i>: Район, где проходит фестиваль</span><span class="opt"><i>2</i>: Один из покемонов-фигур</span><span class="opt"><i>3</i>: Инструмент для выпиливания фигур</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span></div></div></div>
 
 <div class="episode-card" id="ep-20-02-2017">
-<div class="episode-header"><h3>20.02.2017: Герман, Тверь (57 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>20.02.2017: Герман, Тверь (57 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: У какой рыбы белая икра?</p>
 <p class="options"><span class="opt"><i>1</i>: Белый осётр</span><span class="opt"><i>2</i>: Белый лосось</span><span class="opt"><i>3</i>: Белая белуга</span></p>
@@ -1349,9 +1498,13 @@
 <p class="options"><span class="opt"><i>1</i>: Сырная неделя</span><span class="opt"><i>2</i>: Блинные хлопоты</span><span class="opt"><i>3</i>: Кружевные проводы</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-21-02-2017">
-<div class="episode-header"><h3>21.02.2017: Екатерина, Йошкар-Ола (60 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>21.02.2017: Екатерина, Йошкар-Ола (60 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Где штат Табаско (деревня Аяпа)?</p>
 <p class="options"><span class="opt"><i>1</i>: Мексика</span><span class="opt"><i>2</i>: Америка</span><span class="opt"><i>3</i>: Индия</span></p>
@@ -1361,9 +1514,11 @@
 <p class="options"><span class="opt"><i>1</i>: Неприятности</span><span class="opt"><i>2</i>: Домашний очаг</span><span class="opt"><i>3</i>: Публичный дом</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-22-02-2017">
 <div class="episode-header">
+
 <h3>22.02.2017: Дмитрий, Санкт-Петербург (63 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1390,9 +1545,11 @@
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-27-02-2017">
 <div class="episode-header">
+
 <h3>27.02.2017: Виктория, Ставрополь (67 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1419,9 +1576,11 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-28-02-2017">
 <div class="episode-header">
+
 <h3>28.02.2017: Наталья, Санкт-Петербург (70 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1449,45 +1608,67 @@
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-01-03-2017"><div class="episode-header"><h3>01.03.2017: Евгений, Новосибирск (73 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-01-03-2017">
+<div class="episode-header">
+
+<h3>01.03.2017: Евгений, Новосибирск (73 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Какой цветок — символ Кубы?</p>
 <p class="options"><span class="opt"><i>1</i>: Марипоса</span><span class="opt"><i>2</i>: Капакунги</span><span class="opt"><i>3</i>: Голубого Лизаблюда</span></p>
 <p class="question">Вопрос 2: Как переводится название «грейпфрут»?</p>
 <p class="options"><span class="opt"><i>1</i>: Кокосовый фрукт</span><span class="opt"><i>2</i>: Виноградный фрукт</span><span class="opt"><i>3</i>: Томатный фрукт</span></p>
 <p class="question">Вопрос 3: Апельсин и что скрестили, чтобы получить грейпфрут?</p>
 <p class="options"><span class="opt"><i>1</i>: Лайм</span><span class="opt"><i>2</i>: Мандарин</span><span class="opt"><i>3</i>: Помело</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span></div></div></div>
 
-<div class="episode-card" id="ep-02-03-2017"><div class="episode-header"><h3>02.03.2017: Андрей, Волгоград (77 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-02-03-2017">
+<div class="episode-header">
+
+<h3>02.03.2017: Андрей, Волгоград (77 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Как ещё называется лыжное двоеборье?</p>
 <p class="options"><span class="opt"><i>1</i>: Северное сияние</span><span class="opt"><i>2</i>: Северная комбинация</span><span class="opt"><i>3</i>: Снежная королева</span></p>
 <p class="question">Вопрос 2: Что такое гонка пасьют?</p>
 <p class="options"><span class="opt"><i>1</i>: Гонка преследования</span><span class="opt"><i>2</i>: Эстафета</span><span class="opt"><i>3</i>: Гонка по пересечённой местности</span></p>
 <p class="question">Вопрос 3: Какой должна быть трасса лыжных гонок по правилам?</p>
 <p class="options"><span class="opt"><i>1</i>: Вокруг озера</span><span class="opt"><i>2</i>: Через лес</span><span class="opt"><i>3</i>: В форме бесконечности</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span></div></div></div>
 
-<div class="episode-card" id="ep-06-03-2017"><div class="episode-header"><h3>06.03.2017: Дмитрий, Санкт-Петербург (83 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-06-03-2017">
+<div class="episode-header">
+
+<h3>06.03.2017: Дмитрий, Санкт-Петербург (83 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Кто такой Роджер Федерер?</p>
 <p class="options"><span class="opt"><i>1</i>: Гонщик Формулы-1</span><span class="opt"><i>2</i>: Футболист</span><span class="opt"><i>3</i>: Теннисист</span></p>
 <p class="question">Вопрос 2: Что делают люди Ваги на карнавале Фаснахт в Базеле?</p>
 <p class="options"><span class="opt"><i>1</i>: Бросают цветы и сладости в толпу</span><span class="opt"><i>2</i>: Ходят на ходулях</span><span class="opt"><i>3</i>: Напиваются и засыпают</span></p>
 <p class="question">Вопрос 3: Как называется руководитель военного оркестра на марше?</p>
 <p class="options"><span class="opt"><i>1</i>: Тумблер-минор</span><span class="opt"><i>2</i>: Тамбур-мажор</span><span class="opt"><i>3</i>: Рамблер-бекар</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span></div></div></div>
 
-<div class="episode-card" id="ep-07-03-2017"><div class="episode-header"><h3>07.03.2017: Александр, Санкт-Петербург (87 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-07-03-2017">
+<div class="episode-header">
+
+<h3>07.03.2017: Александр, Санкт-Петербург (87 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Кому принадлежит остров Борнео?</p>
 <p class="options"><span class="opt"><i>1</i>: Австралии</span><span class="opt"><i>2</i>: Кубе</span><span class="opt"><i>3</i>: Разделён между Индонезией, Малайзией и Брунеем</span></p>
 <p class="question">Вопрос 2: Какой цветок ценили в Китае (цветок двадцати дней)?</p>
 <p class="options"><span class="opt"><i>1</i>: Пион</span><span class="opt"><i>2</i>: Хризантема</span><span class="opt"><i>3</i>: Тюльпан</span></p>
 <p class="question">Вопрос 3: Под каким названием мы знаем цветок миозотис?</p>
 <p class="options"><span class="opt"><i>1</i>: Незабудка</span><span class="opt"><i>2</i>: Мимоза</span><span class="opt"><i>3</i>: Сирень</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span></div></div></div>
 
 <div class="episode-card" id="ep-14-03-2017">
 <div class="episode-header">
+
 <h3>14.03.2017: Евгений, Калининград (100 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1514,9 +1695,11 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-15-03-2017">
 <div class="episode-header">
+
 <h3>15.03.2017: Ирина, Пятигорск (103 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1543,9 +1726,11 @@
 <span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-16-03-2017">
 <div class="episode-header">
+
 <h3>16.03.2017: Екатерина, Семёнов (107 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1572,9 +1757,13 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-20-03-2017">
-<div class="episode-header"><h3>20.03.2017: Дмитрий, Санкт-Петербург (113 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>20.03.2017: Дмитрий, Санкт-Петербург (113 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: На каком острове французский — официальный язык?</p>
 <p class="options"><span class="opt"><i>1</i>: Суматра</span><span class="opt"><i>2</i>: Куба</span><span class="opt"><i>3</i>: Мадагаскар</span></p>
@@ -1584,9 +1773,11 @@
 <p class="options"><span class="opt"><i>1</i>: Великобритания</span><span class="opt"><i>2</i>: Ирландия</span><span class="opt"><i>3</i>: Индия</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>3</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-22-03-2017">
 <div class="episode-header">
+
 <h3>22.03.2017: Дмитрий, Москва (3 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1613,9 +1804,11 @@
 <span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-23-03-2017">
 <div class="episode-header">
+
 <h3>23.03.2017: Рита, Луховицы (3 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1642,9 +1835,11 @@
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-24-03-2017">
 <div class="episode-header">
+
 <h3>24.03.2017: Евгения, Ярославль (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1672,9 +1867,11 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-27-03-2017">
 <div class="episode-header">
+
 <h3>27.03.2017: Любовь, Череповец (3 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1701,9 +1898,11 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-28-03-2017">
 <div class="episode-header">
+
 <h3>28.03.2017: Андрей, Волгоград (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1730,9 +1929,11 @@
 <span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-29-03-2017">
 <div class="episode-header">
+
 <h3>29.03.2017: Евгений, Ачинск (10 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1757,6 +1958,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
+</div>
 </div>
 </div>
 
@@ -1787,6 +1989,7 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
 <span>Правильные ответы: <i>2</i>, <i>3</i>, <i>1</i></span>
+</div>
 </div>
 </div>
 
@@ -1820,34 +2023,55 @@
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-03-04-2017"><div class="episode-header"><h3>03.04.2017: Людмила, Череповец (20 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-03-04-2017">
+<div class="episode-header">
+
+<h3>03.04.2017: Людмила, Череповец (20 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Что такое проект Gorgon City?</p>
 <p class="options"><span class="opt"><i>1</i>: Псевдоним Swanky Tunes</span><span class="opt"><i>2</i>: Бойсбэнд из пяти человек</span><span class="opt"><i>3</i>: Дуэт из двух диджеев</span></p>
 <p class="question">Вопрос 2: Кто автор картины с «потёкшими часами»?</p>
 <p class="options"><span class="opt"><i>1</i>: Дали</span><span class="opt"><i>2</i>: Пикассо</span><span class="opt"><i>3</i>: Гауди</span></p>
 Игра прекращена из-за разрыва связи.
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, —, —</span><span>Правильные ответы: <i>3</i>, <i>1</i>, —</span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, —, —</span><span>Правильные ответы: <i>3</i>, <i>1</i>, —</span></div></div></div>
 
-<div class="episode-card" id="ep-05-04-2017"><div class="episode-header"><h3>05.04.2017: Анатолий, Ярцево (23 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-05-04-2017">
+<div class="episode-header">
+
+<h3>05.04.2017: Анатолий, Ярцево (23 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Из чего делают самый дорогой суп в мире?</p>
 <p class="options"><span class="opt"><i>1</i>: Ласточкины гнёзда</span><span class="opt"><i>2</i>: Жёлтые шмели</span><span class="opt"><i>3</i>: Глаза гадюки</span></p>
 <p class="question">Вопрос 2: Что добавляют к японскому супу сируко?</p>
 <p class="options"><span class="opt"><i>1</i>: Холодный кофе</span><span class="opt"><i>2</i>: Апельсиновый сок</span><span class="opt"><i>3</i>: Сгущённое молоко</span></p>
 <p class="question">Вопрос 3: Королём какой страны был Эдуард III, в честь сражения с ним назван суп?</p>
 <p class="options"><span class="opt"><i>1</i>: Англии</span><span class="opt"><i>2</i>: Бельгии</span><span class="opt"><i>3</i>: Германии</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span></div></div></div>
 
-<div class="episode-card" id="ep-06-04-2017"><div class="episode-header"><h3>06.04.2017: Александр, Сергиев Посад (27 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-06-04-2017">
+<div class="episode-header">
+
+<h3>06.04.2017: Александр, Сергиев Посад (27 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: На что линия Уоллеса делит Бали?</p>
 <p class="options"><span class="opt"><i>1</i>: Флору и фауну на азиатскую и австралийскую</span><span class="opt"><i>2</i>: Население на мужское и женское</span><span class="opt"><i>3</i>: Земли богатых и бедных балийцев</span></p>
 <p class="question">Вопрос 2: Что такое глиптика на Бали?</p>
 <p class="options"><span class="opt"><i>1</i>: Хоровое пение</span><span class="opt"><i>2</i>: Массаж ступней</span><span class="opt"><i>3</i>: Искусство вырезания из камня</span></p>
 <p class="question">Вопрос 3: Какой праздник балийцы отмечают в полной тишине?</p>
 <p class="options"><span class="opt"><i>1</i>: День рождения императора</span><span class="opt"><i>2</i>: Новый год</span><span class="opt"><i>3</i>: День рыбака</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span></div></div></div>
 
-<div class="episode-card" id="ep-07-04-2017"><div class="episode-header"><h3>07.04.2017: Ольга, Карелия (3 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-07-04-2017">
+<div class="episode-header">
+
+<h3>07.04.2017: Ольга, Карелия (3 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="guest-line">Звёздный гость: Анастасия Задорина</p>
 <p class="question">Вопрос 1: Где пройдут следующие зимние Олимпийские игры?</p>
 <p class="options"><span class="opt"><i>1</i>: Япония</span><span class="opt"><i>2</i>: Корея</span><span class="opt"><i>3</i>: Китай</span></p>
@@ -1855,28 +2079,39 @@
 <p class="options"><span class="opt"><i>1</i>: Спущенная с плеч верхняя одежда</span><span class="opt"><i>2</i>: Дамская сумочка под цвет глаз</span><span class="opt"><i>3</i>: Двойное нижнее бельё</span></p>
 <p class="question">Вопрос 3: Где вокал Фаррела Уильямса?</p>
 <p class="options"><span class="opt"><i>1</i>: Вариант 1</span><span class="opt"><i>2</i>: Вариант 2</span><span class="opt"><i>3</i>: Вариант 3</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span></div></div></div>
 
-<div class="episode-card" id="ep-10-04-2017"><div class="episode-header"><h3>10.04.2017: Олеся (7 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-10-04-2017">
+<div class="episode-header">
+
+<h3>10.04.2017: Олеся (7 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Чем является Вьетнам политически?</p>
 <p class="options"><span class="opt"><i>1</i>: Вьетнамская Федерация</span><span class="opt"><i>2</i>: Королевство Вьетнам</span><span class="opt"><i>3</i>: Вьетнамская Социалистическая Республика</span></p>
 <p class="question">Вопрос 2: Как охраняется ЮНЕСКО город Хойан?</p>
 <p class="options"><span class="opt"><i>1</i>: Город тысячи озёр</span><span class="opt"><i>2</i>: Город-музей под открытым небом</span><span class="opt"><i>3</i>: Город вымирающих наций</span></p>
 <p class="question">Вопрос 3: Что такое Динь Ли Чан во Вьетнаме?</p>
 <p class="options"><span class="opt"><i>1</i>: Пельмешки</span><span class="opt"><i>2</i>: Правящие династии</span><span class="opt"><i>3</i>: Хойанские драконы</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span></div></div></div>
 
-<div class="episode-card" id="ep-11-04-2017"><div class="episode-header"><h3>11.04.2017: Рауль, Челябинск (3 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-11-04-2017">
+<div class="episode-header">
+
+<h3>11.04.2017: Рауль, Челябинск (3 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Как называется популярная еврейская песня?</p>
 <p class="options"><span class="opt"><i>1</i>: Тумбалалайка</span><span class="opt"><i>2</i>: Хава нагила</span><span class="opt"><i>3</i>: 7:40</span></p>
 <p class="question">Вопрос 2: Чего в Израиле больше всего на душу населения?</p>
 <p class="options"><span class="opt"><i>1</i>: Нобелевских премий</span><span class="opt"><i>2</i>: Золотых Bentley</span><span class="opt"><i>3</i>: Секс-шопов</span></p>
 <p class="question">Вопрос 3: Кто такие эректусы?</p>
 <p class="options"><span class="opt"><i>1</i>: Быстро размножающиеся</span><span class="opt"><i>2</i>: Больше голодный</span><span class="opt"><i>3</i>: Прямоходящий</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span></div></div></div>
 
 <div class="episode-card" id="ep-12-04-2017">
 <div class="episode-header">
+
 <h3>12.04.2017: Денис, Ярославль (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1903,9 +2138,11 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-13-04-2017">
 <div class="episode-header">
+
 <h3>13.04.2017: Екатерина, Омск (10 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1932,9 +2169,11 @@
 <span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-14-04-2017">
 <div class="episode-header">
+
 <h3>14.04.2017: Александр, Челябинск (13 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -1961,9 +2200,13 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-17-04-2017">
-<div class="episode-header"><h3>17.04.2017: Дмитрий, Череповец (17 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>17.04.2017: Дмитрий, Череповец (17 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как переводится имя Сфинкса Абульхол?</p>
 <p class="options"><span class="opt"><i>1</i>: Отец ужаса</span><span class="opt"><i>2</i>: Мать земли</span><span class="opt"><i>3</i>: Блудный сын</span></p>
@@ -1973,9 +2216,13 @@
 <p class="options"><span class="opt"><i>1</i>: Солнца</span><span class="opt"><i>2</i>: Кошек</span><span class="opt"><i>3</i>: Пирамид</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-18-04-2017">
-<div class="episode-header"><h3>18.04.2017: Роман, Ростов-на-Дону (20 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>18.04.2017: Роман, Ростов-на-Дону (20 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: На какой купюре памятник Муравьёву-Амурскому?</p>
 <p class="options"><span class="opt"><i>1</i>: Сотке</span><span class="opt"><i>2</i>: Пятисотке</span><span class="opt"><i>3</i>: Пятитысячной</span></p>
@@ -1985,9 +2232,13 @@
 <p class="options"><span class="opt"><i>1</i>: Юрьевич</span><span class="opt"><i>2</i>: Михайлович</span><span class="opt"><i>3</i>: Афанасьевич</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>1</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-19-04-2017">
-<div class="episode-header"><h3>19.04.2017: Николай, Ярославль (23 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>19.04.2017: Николай, Ярославль (23 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что такое высокая альбедо у астероида?</p>
 <p class="options"><span class="opt"><i>1</i>: Отражательная способность поверхности</span><span class="opt"><i>2</i>: Скорость вращения</span><span class="opt"><i>3</i>: Риск сгорания в атмосфере</span></p>
@@ -1997,9 +2248,13 @@
 <p class="options"><span class="opt"><i>1</i>: Композитором</span><span class="opt"><i>2</i>: Художником</span><span class="opt"><i>3</i>: Аквалангистом</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-20-04-2017">
-<div class="episode-header"><h3>20.04.2017: Ксения, Иваново (27 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>20.04.2017: Ксения, Иваново (27 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что использовали ранние исландцы для строительства домов?</p>
 <p class="options"><span class="opt"><i>1</i>: Речной песок</span><span class="opt"><i>2</i>: Рыбью икру</span><span class="opt"><i>3</i>: Дёрн</span></p>
@@ -2009,9 +2264,11 @@
 <p class="options"><span class="opt"><i>1</i>: Невидимка</span><span class="opt"><i>2</i>: Сияющий</span><span class="opt"><i>3</i>: Счастье</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>3</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-24-04-2017">
 <div class="episode-header">
+
 <h3>24.04.2017: Любовь, Сортавала (33 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2038,9 +2295,11 @@
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-25-04-2017">
 <div class="episode-header">
+
 <h3>25.04.2017: Ренат, Ульяновск (37 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2067,9 +2326,11 @@
 <span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-27-04-2017">
 <div class="episode-header">
+
 <h3>27.04.2017: Руслан, Магнитогорск (43 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2096,27 +2357,39 @@
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-10-05-2017"><div class="episode-header"><h3>10.05.2017: Лёша, Санкт-Петербург (3 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-10-05-2017">
+<div class="episode-header">
+
+<h3>10.05.2017: Лёша, Санкт-Петербург (3 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: На каком море находится Азербайджан?</p>
 <p class="options"><span class="opt"><i>1</i>: Азовском</span><span class="opt"><i>2</i>: Чёрном</span><span class="opt"><i>3</i>: Каспийском</span></p>
 <p class="question">Вопрос 2: По количеству чего Азербайджан №1 в мире?</p>
 <p class="options"><span class="opt"><i>1</i>: Изумрудных пещер</span><span class="opt"><i>2</i>: Грязевых вулканов</span><span class="opt"><i>3</i>: Солёных озёр</span></p>
 <p class="question">Вопрос 3: Что символизирует плодородие в Азербайджане?</p>
 <p class="options"><span class="opt"><i>1</i>: Гранат</span><span class="opt"><i>2</i>: Виноград</span><span class="opt"><i>3</i>: Персик</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>3</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>3</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span></div></div></div>
 
-<div class="episode-card" id="ep-11-05-2017"><div class="episode-header"><h3>11.05.2017: Роман, Краснодар (7 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-11-05-2017">
+<div class="episode-header">
+
+<h3>11.05.2017: Роман, Краснодар (7 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Кому принадлежит код региона 01?</p>
 <p class="options"><span class="opt"><i>1</i>: Республика Адыгея</span><span class="opt"><i>2</i>: Астраханская область</span><span class="opt"><i>3</i>: Абаканский полуостров</span></p>
 <p class="question">Вопрос 2: Где проживает 11,4 миллиона человек (как слушателей Europa Plus)?</p>
 <p class="options"><span class="opt"><i>1</i>: Куба</span><span class="opt"><i>2</i>: Канада</span><span class="opt"><i>3</i>: Кения</span></p>
 <p class="question">Вопрос 3: На каком ещё инструменте играет Кэти Перри?</p>
 <p class="options"><span class="opt"><i>1</i>: Саксофон</span><span class="opt"><i>2</i>: Фортепиано</span><span class="opt"><i>3</i>: Металлофон</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span></div></div></div>
 
 <div class="episode-card" id="ep-12-05-2017">
 <div class="episode-header">
+
 <h3>12.05.2017: Анна, Новочеркасск (3 000 рублей)</h3>
 </div>
 <p class="guest-line">Звёздный гость: Роман Попов</p>
@@ -2144,9 +2417,11 @@
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-15-05-2017">
 <div class="episode-header">
+
 <h3>15.05.2017: Александр, Кузбасс (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2173,9 +2448,13 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-19-05-2017">
-<div class="episode-header"><h3>19.05.2017: Георгий, Краснодар (7 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>19.05.2017: Георгий, Краснодар (7 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="guest-line">Гость эфира — Алексей Сорокин (гендиректор оргкомитета Россия-2018)</p>
 <p class="question">Вопрос 1: Основной элемент эмблемы Кубка Конфедераций 2017?</p>
@@ -2186,9 +2465,11 @@
 <p class="options"><span class="opt"><i>1</i>: Португалия</span><span class="opt"><i>2</i>: Германия</span><span class="opt"><i>3</i>: Камерун</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-23-05-2017">
 <div class="episode-header">
+
 <h3>23.05.2017: Евгений, Нижний Новгород (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2215,9 +2496,11 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-24-05-2017">
 <div class="episode-header">
+
 <h3>24.05.2017: Сергей, Днепровград (10 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2244,9 +2527,11 @@
 <span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-26-05-2017">
 <div class="episode-header">
+
 <h3>26.05.2017: Юрий, Самара (17 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2273,17 +2558,28 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
-<div class="episode-card" id="ep-01-06-2017"><div class="episode-header"><h3>01.06.2017: Марат, Ноябрьск (13 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-01-06-2017">
+<div class="episode-header">
+
+<h3>01.06.2017: Марат, Ноябрьск (13 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Как в пляжном волейболе называется ситуация, когда мяч идёт между двумя игроками?</p>
 <p class="options"><span class="opt"><i>1</i>: Братья Гримм</span><span class="opt"><i>2</i>: Муж, жена</span><span class="opt"><i>3</i>: Водород, кислород</span></p>
 <p class="question">Вопрос 2: Чем пляжный мяч отличается от классического?</p>
 <p class="options"><span class="opt"><i>1</i>: Обязательно яркой расцветки</span><span class="opt"><i>2</i>: Внутри грузик</span><span class="opt"><i>3</i>: Ничем не отличается</span></p>
 <p class="question">Вопрос 3: Кто переодевается, если команды пришли в одинаковой форме?</p>
 <p class="options"><span class="opt"><i>1</i>: Команда-хозяйка</span><span class="opt"><i>2</i>: Кто пришёл вторым</span><span class="opt"><i>3</i>: Как решит жребий</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>1</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>1</i>, <i>3</i></span><span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span></div></div></div>
 
-<div class="episode-card" id="ep-02-06-2017"><div class="episode-header"><h3>02.06.2017: Света, Санкт-Петербург (17 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-02-06-2017">
+<div class="episode-header">
+
+<h3>02.06.2017: Света, Санкт-Петербург (17 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="guest-line">Звёздный гость: Дмитрий Глуховский</p>
 <p class="question">Вопрос 1: Любимое произведение Дмитрия Глуховского от Владимира Сорокина?</p>
 <p class="options"><span class="opt"><i>1</i>: «День опричника»</span><span class="opt"><i>2</i>: «Ночь пограничника»</span><span class="opt"><i>3</i>: «10 минут Ивана Денисовича»</span></p>
@@ -2291,37 +2587,53 @@
 <p class="options"><span class="opt"><i>1</i>: «Евгений Онегин»</span><span class="opt"><i>2</i>: «Мёртвые души»</span><span class="opt"><i>3</i>: «Война и мир»</span></p>
 <p class="question">Вопрос 3: Лобня — это в какой области?</p>
 <p class="options"><span class="opt"><i>1</i>: Ленинградская</span><span class="opt"><i>2</i>: Московская</span><span class="opt"><i>3</i>: Ивановская</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>1</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>1</i>, <i>2</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span></div></div></div>
 
-<div class="episode-card" id="ep-06-06-2017"><div class="episode-header"><h3>06.06.2017: Никита, Липецк (23 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-06-06-2017">
+<div class="episode-header">
+
+<h3>06.06.2017: Никита, Липецк (23 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Зачем Пушкин брал в поездку золотой напёрсток?</p>
 <p class="options"><span class="opt"><i>1</i>: Чтобы экономить алкоголь</span><span class="opt"><i>2</i>: Чтобы вышивать</span><span class="opt"><i>3</i>: Чтобы не сломать ноготь</span></p>
 <p class="question">Вопрос 2: Откуда строки «У лукоморья дуб зелёный»?</p>
 <p class="options"><span class="opt"><i>1</i>: «Сказка о царе Салтане»</span><span class="opt"><i>2</i>: «Руслан и Людмила»</span><span class="opt"><i>3</i>: «Конёк-горбунок»</span></p>
 <p class="question">Вопрос 3: В каком монастыре похоронен Пушкин?</p>
 <p class="options"><span class="opt"><i>1</i>: Ленинградская область</span><span class="opt"><i>2</i>: Псковская область</span><span class="opt"><i>3</i>: Московская область</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span><span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span></div></div></div>
 
-<div class="episode-card" id="ep-07-06-2017"><div class="episode-header"><h3>07.06.2017: Елена, Ставропольский край (3 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-07-06-2017">
+<div class="episode-header">
+
+<h3>07.06.2017: Елена, Ставропольский край (3 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Что означает «халео» во фламенко?</p>
 <p class="options"><span class="opt"><i>1</i>: Шум</span><span class="opt"><i>2</i>: Страсть</span><span class="opt"><i>3</i>: Тональность</span></p>
 <p class="question">Вопрос 2: Кто из футболистов испанец?</p>
 <p class="options"><span class="opt"><i>1</i>: Джанлуиджи Буффон</span><span class="opt"><i>2</i>: Жерар Пике</span><span class="opt"><i>3</i>: Неймар</span></p>
 <p class="question">Вопрос 3: Какой пролив отделяет Испанию от Африки?</p>
 <p class="options"><span class="opt"><i>1</i>: Лабрадор</span><span class="opt"><i>2</i>: Гибралтар</span><span class="opt"><i>3</i>: Ла-Манш</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span></div></div></div>
 
-<div class="episode-card" id="ep-08-06-2017"><div class="episode-header"><h3>08.06.2017: Павел, Омск (7 000 рублей)</h3></div><div class="episode-body">
+<div class="episode-card" id="ep-08-06-2017">
+<div class="episode-header">
+
+<h3>08.06.2017: Павел, Омск (7 000 рублей)</h3>
+</div>
+<div class="episode-body">
 <p class="question">Вопрос 1: Самый глубокий океан?</p>
 <p class="options"><span class="opt"><i>1</i>: Тихий</span><span class="opt"><i>2</i>: Индийский</span><span class="opt"><i>3</i>: Атлантический</span></p>
 <p class="question">Вопрос 2: В какой цвет окрашивается море у берегов Флориды?</p>
 <p class="options"><span class="opt"><i>1</i>: Чёрный</span><span class="opt"><i>2</i>: Красный</span><span class="opt"><i>3</i>: Белый</span></p>
 <p class="question">Вопрос 3: Какой океан самый большой по площади?</p>
 <p class="options"><span class="opt"><i>1</i>: Тихий</span><span class="opt"><i>2</i>: Атлантический</span><span class="opt"><i>3</i>: Индийский</span></p>
-<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span></div></div>
+<div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span></div></div></div>
 
 <div class="episode-card" id="ep-13-06-2017">
 <div class="episode-header">
+
 <h3>13.06.2017: Александр, Санкт-Петербург (7 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2348,9 +2660,13 @@
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-18-06-2017">
-<div class="episode-header"><h3>18.06.2017: Александр, Самара (3 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>18.06.2017: Александр, Самара (3 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком фильме снималась Новая Зеландия?</p>
 <p class="options"><span class="opt"><i>1</i>: «Звёздные войны»</span><span class="opt"><i>2</i>: «Игра престолов»</span><span class="opt"><i>3</i>: «Властелин колец»</span></p>
@@ -2360,9 +2676,13 @@
 <p class="options"><span class="opt"><i>1</i>: Фёдор</span><span class="opt"><i>2</i>: Пётр</span><span class="opt"><i>3</i>: Павел</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>3</i>, <i>1</i>, <i>1</i></span><span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-20-06-2017">
-<div class="episode-header"><h3>20.06.2017: Дмитрий, Казань (7 000 рублей)</h3></div>
+<div class="episode-header">
+
+<h3>20.06.2017: Дмитрий, Казань (7 000 рублей)</h3>
+</div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что на макушке посоха на гербе Аргентины?</p>
 <p class="options"><span class="opt"><i>1</i>: Красный колпак</span><span class="opt"><i>2</i>: Чёрный скворец</span><span class="opt"><i>3</i>: Жёлтое солнце</span></p>
@@ -2372,9 +2692,11 @@
 <p class="options"><span class="opt"><i>1</i>: Bandera</span><span class="opt"><i>2</i>: Fanera</span><span class="opt"><i>3</i>: Espadrilla</span></p>
 <div class="episode-footer"><span>Ответы участника: <i>1</i>, <i>1</i>, <i>1</i></span><span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span></div>
 </div>
+</div>
 
 <div class="episode-card" id="ep-21-06-2017">
 <div class="episode-header">
+
 <h3>21.06.2017: Александр, Нижний Новгород (3 000 рублей)</h3>
 </div>
 <div class="episode-body">
@@ -2399,5 +2721,6 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
 <span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
+</div>
 </div>
 </div>
