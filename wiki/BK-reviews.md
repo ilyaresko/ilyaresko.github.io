@@ -5,10 +5,10 @@
 
 ## Сезон 2024
 
-<div class="episode-card" id="ep-24-07-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.07.2024: Гульмира, Семей (15 000 тенге)</h3>
+<h3 id="ep-24-07-2024">24.07.2024: Гульмира, Семей (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется специальная нитка, которая помогает флористу быстро связывать стебли цветов между собой?</p>
@@ -36,10 +36,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-07-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.07.2024: Герман, Петропавловск (25 000 тенге)</h3>
+<h3 id="ep-26-07-2024">26.07.2024: Герман, Петропавловск (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой материал наиболее часто используется для изготовления современных парашютов?</p>
@@ -67,10 +67,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-29-07-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>29.07.2024: Лена, Алматы (30 000 тенге)</h3>
+<h3 id="ep-29-07-2024">29.07.2024: Лена, Алматы (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какое из этих утверждений о тиграх является неверным?</p>
@@ -98,10 +98,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-07-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.07.2024: Нариман, Усть-Каменогорск (35 000 тенге)</h3>
+<h3 id="ep-30-07-2024">30.07.2024: Нариман, Усть-Каменогорск (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Без чего невозможно участвовать в снорклинге?</p>
@@ -129,10 +129,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-31-07-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>31.07.2024: Алина, Алматы (40 000 тенге)</h3>
+<h3 id="ep-31-07-2024">31.07.2024: Алина, Алматы (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как зовут Такседо Маска в японской версии комикса «Сейлор Мун»?</p>
@@ -160,10 +160,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-01-08-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>01.08.2024: Аскар, Алматы (45 000 тенге)</h3>
+<h3 id="ep-01-08-2024">01.08.2024: Аскар, Алматы (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кем вдохновился Стэн Ли, когда придумал Человека-паука?</p>
@@ -191,10 +191,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-02-08-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.08.2024: Азиза, Семей (50 000 тенге)</h3>
+<h3 id="ep-02-08-2024">02.08.2024: Азиза, Семей (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как звучит слоган ВДВ?</p>
@@ -224,10 +224,10 @@
 
 ## Сезон 2024—2025
 
-<div class="episode-card" id="ep-02-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.09.2024: Динара, Алматы (55 000 тенге)</h3>
+<h3 id="ep-02-09-2024">02.09.2024: Динара, Алматы (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой гормон выделяется в организме при объятиях, способствуя улучшению настроения и снижению стресса?</p>
@@ -255,10 +255,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-03-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>03.09.2024: Анастасия, Алматы (5 000 тенге)</h3>
+<h3 id="ep-03-09-2024">03.09.2024: Анастасия, Алматы (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какого цвета пояс должен быть у тхэквондиста, чтобы быть в звании «великий мастер» 9-го дана?</p>
@@ -286,10 +286,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.09.2024: Алтынай, Талдыкорган (10 000 тенге)</h3>
+<h3 id="ep-04-09-2024">04.09.2024: Алтынай, Талдыкорган (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком месте проходила первая съёмка передачи «Что? Где? Когда?»?</p>
@@ -317,10 +317,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.09.2024: Алексей, Семей (15 000 тенге)</h3>
+<h3 id="ep-05-09-2024">05.09.2024: Алексей, Семей (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто является основателем казахского языкознания и литературоведения, в честь которого установлен День языков народов Казахстана?</p>
@@ -348,10 +348,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-06-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>06.09.2024: Александр, Усть-Каменогорск (5 000 тенге)</h3>
+<h3 id="ep-06-09-2024">06.09.2024: Александр, Усть-Каменогорск (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Бека Изи</p>
@@ -380,10 +380,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-09-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>09.09.2024: Аскар, Астана (10 000 тенге)</h3>
+<h3 id="ep-09-09-2024">09.09.2024: Аскар, Астана (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какого числа празднуется День радио в Казахстане?</p>
@@ -411,10 +411,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.09.2024: Игорь, Костанай (15 000 тенге)</h3>
+<h3 id="ep-10-09-2024">10.09.2024: Игорь, Костанай (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране зародилась игра в гольф?</p>
@@ -442,10 +442,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.09.2024: Дамир, Щучинск (5 000 тенге)</h3>
+<h3 id="ep-11-09-2024">11.09.2024: Дамир, Щучинск (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется самое большое число в мире, равное десяти в сотой степени (единица со ста нулями)?</p>
@@ -473,10 +473,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-12-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>12.09.2024: Сергей, Караганда (10 000 тенге)</h3>
+<h3 id="ep-12-09-2024">12.09.2024: Сергей, Караганда (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: На какую должность была принята первая женщина-полицейская в США в 1891 году?</p>
@@ -504,10 +504,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.09.2024: Азамат, Алматы (15 000 тенге)</h3>
+<h3 id="ep-13-09-2024">13.09.2024: Азамат, Алматы (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кого спартанцы сбрасывали в пропасть Апофеты?</p>
@@ -535,10 +535,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-16-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>16.09.2024: Санжар, Актобе (20 000 тенге)</h3>
+<h3 id="ep-16-09-2024">16.09.2024: Санжар, Актобе (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что сделал Эдвард Уилсон, за что его прозвали человеком-муравьем?</p>
@@ -566,10 +566,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.09.2024: Исламбек, Кокшетау (25 000 тенге)</h3>
+<h3 id="ep-17-09-2024">17.09.2024: Исламбек, Кокшетау (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой длины был самый длинный сэндвич в мире, созданный командами из Ливана?</p>
@@ -597,10 +597,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-18-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>18.09.2024: Абиль, Павлодар (30 000 тенге)</h3>
+<h3 id="ep-18-09-2024">18.09.2024: Абиль, Павлодар (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как звали первую любовь Ксении?</p>
@@ -628,10 +628,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-19-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>19.09.2024: Айдана, Павлодар (35 000 тенге)</h3>
+<h3 id="ep-19-09-2024">19.09.2024: Айдана, Павлодар (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране впервые открыли кофе как напиток?</p>
@@ -659,10 +659,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-20-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>20.09.2024: Дамира, Семей (40 000 тенге)</h3>
+<h3 id="ep-20-09-2024">20.09.2024: Дамира, Семей (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Из какого фрукта сделана колбаса в веганской пицце пепперони?</p>
@@ -690,10 +690,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.09.2024: Айгерим, Алматы (45 000 тенге)</h3>
+<h3 id="ep-23-09-2024">23.09.2024: Айгерим, Алматы (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какое созвездие является самым большим на небе Северного полушария?</p>
@@ -721,10 +721,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.09.2024: Владимир, Алматы (50 000 тенге)</h3>
+<h3 id="ep-24-09-2024">24.09.2024: Владимир, Алматы (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: При какой температуре по Фаренгейту замерзает вода?</p>
@@ -752,10 +752,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.09.2024: Никита, Павлодар (55 000 тенге)</h3>
+<h3 id="ep-25-09-2024">25.09.2024: Никита, Павлодар (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кем работала Агата Кристи до того, как стала фармацевтом?</p>
@@ -783,10 +783,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.09.2024: Вадим, Тараз (60 000 тенге)</h3>
+<h3 id="ep-26-09-2024">26.09.2024: Вадим, Тараз (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько официальных языков есть в Европе?</p>
@@ -814,10 +814,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-27-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>27.09.2024: Сергей, Атбасар (5 000 тенге)</h3>
+<h3 id="ep-27-09-2024">27.09.2024: Сергей, Атбасар (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какое второе название у горы Эверест?</p>
@@ -845,10 +845,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-09-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.09.2024: Станислав, Рудный (10 000 тенге)</h3>
+<h3 id="ep-30-09-2024">30.09.2024: Станислав, Рудный (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько лет в Казахстане отмечается День работников юстиции?</p>
@@ -876,10 +876,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-01-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>01.10.2024: Газис, Костанай (15 000 тенге)</h3>
+<h3 id="ep-01-10-2024">01.10.2024: Газис, Костанай (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: К какому стилю относится такое направление музыки, как нейрофанк?</p>
@@ -907,10 +907,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-02-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.10.2024: Руслан, Алматы (20 000 тенге)</h3>
+<h3 id="ep-02-10-2024">02.10.2024: Руслан, Алматы (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько видов енотов существует в мире?</p>
@@ -938,10 +938,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.10.2024: Асель, Астана (30 000 тенге)</h3>
+<h3 id="ep-04-10-2024">04.10.2024: Асель, Астана (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что нужно сделать в праздник Чуньян в Китае?</p>
@@ -969,10 +969,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-07-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>07.10.2024: Ульяна, Караганда (35 000 тенге)</h3>
+<h3 id="ep-07-10-2024">07.10.2024: Ульяна, Караганда (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой новый орган, открытый учеными, помог человеку перейти с четырех конечностей на две?</p>
@@ -1000,10 +1000,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-08-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>08.10.2024: Ерлан, Костанай (5 000 тенге)</h3>
+<h3 id="ep-08-10-2024">08.10.2024: Ерлан, Костанай (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране празднуется день сэндвича Флафернаттер?</p>
@@ -1031,10 +1031,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-09-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>09.10.2024: Лида, Уральск (5 000 тенге)</h3>
+<h3 id="ep-09-10-2024">09.10.2024: Лида, Уральск (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Королевой какой страны была Изабелла, изображенная на первой почтовой марке США в 1893 году?</p>
@@ -1062,10 +1062,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.10.2024: Айнура, Астана (10 000 тенге)</h3>
+<h3 id="ep-10-10-2024">10.10.2024: Айнура, Астана (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько драже содержится в одной пачке конфет тик-так?</p>
@@ -1093,10 +1093,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.10.2024: Салтанат, Астана (15 000 тенге)</h3>
+<h3 id="ep-11-10-2024">11.10.2024: Салтанат, Астана (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что является основным ингредиентом блюда бирьяни?</p>
@@ -1124,10 +1124,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-14-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>14.10.2024: Айнура, Конаев (20 000 тенге)</h3>
+<h3 id="ep-14-10-2024">14.10.2024: Айнура, Конаев (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой день Винни-Пух отмечает день рождения?</p>
@@ -1155,10 +1155,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-15-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>15.10.2024: Нина, Павлодар (5 000 тенге)</h3>
+<h3 id="ep-15-10-2024">15.10.2024: Нина, Павлодар (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком городе находится самый большой в мире швейный магазин The Saving Room?</p>
@@ -1186,10 +1186,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-16-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>16.10.2024: Зарина, Павлодар (10 000 тенге)</h3>
+<h3 id="ep-16-10-2024">16.10.2024: Зарина, Павлодар (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: группа «Мураками»</p>
@@ -1218,10 +1218,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.10.2024: Сангат, Астана (15 000 тенге)</h3>
+<h3 id="ep-17-10-2024">17.10.2024: Сангат, Астана (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называются детеныши альпаки?</p>
@@ -1249,10 +1249,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-18-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>18.10.2024: Ануар, Астана (20 000 тенге)</h3>
+<h3 id="ep-18-10-2024">18.10.2024: Ануар, Астана (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране впервые упоминается гитара в 16 веке?</p>
@@ -1280,10 +1280,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-21-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>21.10.2024: Санжар, Астана (25 000 тенге)</h3>
+<h3 id="ep-21-10-2024">21.10.2024: Санжар, Астана (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется кухня на корабле?</p>
@@ -1311,10 +1311,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-22-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>22.10.2024: Азамат, Павлодар (30 000 тенге)</h3>
+<h3 id="ep-22-10-2024">22.10.2024: Азамат, Павлодар (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране находится самый длинный лабиринт в мире, длиной 3 километра и высотой более 3 метров?</p>
@@ -1342,10 +1342,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.10.2024: Жанар, Алматы (35 000 тенге)</h3>
+<h3 id="ep-23-10-2024">23.10.2024: Жанар, Алматы (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что не умеют делать снежные барсы в отличие от других кошачьих?</p>
@@ -1373,10 +1373,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.10.2024: Салтанат, Алматы (40 000 тенге)</h3>
+<h3 id="ep-24-10-2024">24.10.2024: Салтанат, Алматы (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой диаметр у стандартного бильярдного шара?</p>
@@ -1404,10 +1404,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-28-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>28.10.2024: Антон, Костанай (45 000 тенге)</h3>
+<h3 id="ep-28-10-2024">28.10.2024: Антон, Костанай (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: На какой части тела героев мультфильмов анимационные студии сэкономили, часто не рисуя её?</p>
@@ -1435,10 +1435,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-29-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>29.10.2024: Варвара, Алматы (50 000 тенге)</h3>
+<h3 id="ep-29-10-2024">29.10.2024: Варвара, Алматы (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как сейчас молодежь называет девушек в облегающей одежде?</p>
@@ -1466,10 +1466,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.10.2024: Светлана, Алматы (55 000 тенге)</h3>
+<h3 id="ep-30-10-2024">30.10.2024: Светлана, Алматы (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какого цвета подложка у карих глаз?</p>
@@ -1497,10 +1497,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-31-10-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>31.10.2024: Станислав, Алматы (60 000 тенге)</h3>
+<h3 id="ep-31-10-2024">31.10.2024: Станислав, Алматы (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что праздновали кельты в праздник Самайн, который лег в основу Хэллоуина?</p>
@@ -1528,10 +1528,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-01-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>01.11.2024: Арман, Алматы (65 000 тенге)</h3>
+<h3 id="ep-01-11-2024">01.11.2024: Арман, Алматы (65 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется универсальная позиция в хореографии, когда пятка правой ноги приставлена к середине левой стопы, носки разведены в стороны?</p>
@@ -1559,10 +1559,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.11.2024: Бек, Семей (70 000 тенге)</h3>
+<h3 id="ep-04-11-2024">04.11.2024: Бек, Семей (70 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком городе была основана организация ЮНЕСКО 4 ноября 1946 года?</p>
@@ -1590,10 +1590,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.11.2024: Ирина, пос. Осакаровка, Карагандинская обл. (5 000 тенге)</h3>
+<h3 id="ep-05-11-2024">05.11.2024: Ирина, пос. Осакаровка, Карагандинская обл. (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что из себя представляет блюдо манкуша?</p>
@@ -1621,10 +1621,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-06-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>06.11.2024: Избасар, Атырау (10 000 тенге)</h3>
+<h3 id="ep-06-11-2024">06.11.2024: Избасар, Атырау (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой псевдоним выбрал для себя изобретатель саксофона Антуан Жозеф?</p>
@@ -1652,10 +1652,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-07-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>07.11.2024: Айгуль, Алматы (15 000 тенге)</h3>
+<h3 id="ep-07-11-2024">07.11.2024: Айгуль, Алматы (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране была подписана первая декларация о правах женщин, ставшая поворотным пунктом в истории феминизма?</p>
@@ -1683,10 +1683,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-08-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>08.11.2024: Шолпан, Астана (20 000 тенге)</h3>
+<h3 id="ep-08-11-2024">08.11.2024: Шолпан, Астана (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране зародился пейнтбол, когда военные начали стрелять шариками с краской для экономии патронов?</p>
@@ -1714,10 +1714,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.11.2024: Карина, Астана (25 000 тенге)</h3>
+<h3 id="ep-11-11-2024">11.11.2024: Карина, Астана (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой фильм, снятый в 1950 году, получил признание за цветовую эстетику и атмосферу, несмотря на черно-белую съемку?</p>
@@ -1745,10 +1745,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-12-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>12.11.2024: Гульнура, Актау (30 000 тенге)</h3>
+<h3 id="ep-12-11-2024">12.11.2024: Гульнура, Актау (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком году в Западной Европе и Северной Америке наблюдалась необычайно холодная погода, включая заморозки летом?</p>
@@ -1776,10 +1776,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.11.2024: Адиль, Алматы (35 000 тенге)</h3>
+<h3 id="ep-13-11-2024">13.11.2024: Адиль, Алматы (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой планеты стала первым искусственным спутником автоматическая станция «Маринер-9» в 1971 году?</p>
@@ -1807,10 +1807,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-14-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>14.11.2024: Дархан, Астана (40 000 тенге)</h3>
+<h3 id="ep-14-11-2024">14.11.2024: Дархан, Астана (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется неспособность читать, являющаяся диагнозом, который встречается редко и успешно лечится?</p>
@@ -1838,10 +1838,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-15-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>15.11.2024: Кымбат, Астана (45 000 тенге)</h3>
+<h3 id="ep-15-11-2024">15.11.2024: Кымбат, Астана (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране преобладают вина из винограда сорта Зинфандель?</p>
@@ -1869,10 +1869,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-18-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>18.11.2024: Диас, Караганда (50 000 тенге)</h3>
+<h3 id="ep-18-11-2024">18.11.2024: Диас, Караганда (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько лет сегодня исполнилось Деду Морозу?</p>
@@ -1900,10 +1900,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-19-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>19.11.2024: Анастасия, Алматы (55 000 тенге)</h3>
+<h3 id="ep-19-11-2024">19.11.2024: Анастасия, Алматы (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как в конце 1980-х годов называлась произведённая в СССР игра-клон «Монополии»?</p>
@@ -1931,10 +1931,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-20-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>20.11.2024: Александр, Усть-Каменогорск (60 000 тенге)</h3>
+<h3 id="ep-20-11-2024">20.11.2024: Александр, Усть-Каменогорск (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каких городах Казахстана из перечисленных есть трамвайные сообщения?</p>
@@ -1962,10 +1962,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-21-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>21.11.2024: Евгений, Алматы (65 000 тенге)</h3>
+<h3 id="ep-21-11-2024">21.11.2024: Евгений, Алматы (65 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой носитель использовался для воспроизведения звука на фонографе, изобретенном в 1877 году Томасом Эдисоном?</p>
@@ -1993,10 +1993,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-22-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>22.11.2024: Данияр, Уральск (70 000 тенге)</h3>
+<h3 id="ep-22-11-2024">22.11.2024: Данияр, Уральск (70 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называются словари, в которых можно найти значение новых слов?</p>
@@ -2024,10 +2024,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.11.2024: Айдос, Алматы (75 000 тенге)</h3>
+<h3 id="ep-25-11-2024">25.11.2024: Айдос, Алматы (75 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как буквально переводится латинское название понедельника *dies lunae*?</p>
@@ -2055,10 +2055,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.11.2024: Илья, Шымкент (80 000 тенге)</h3>
+<h3 id="ep-26-11-2024">26.11.2024: Илья, Шымкент (80 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какое другое название носит денежное дерево?</p>
@@ -2086,10 +2086,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-27-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>27.11.2024: Анвар, Алматы (85 000 тенге)</h3>
+<h3 id="ep-27-11-2024">27.11.2024: Анвар, Алматы (85 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая компания изобрела гитарный медиатор?</p>
@@ -2117,10 +2117,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-28-11-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>28.11.2024: Егор, Алматы (90 000 тенге)</h3>
+<h3 id="ep-28-11-2024">28.11.2024: Егор, Алматы (90 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто из рок-звёзд работал бухгалтером до достижения успеха в музыке?</p>
@@ -2148,10 +2148,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-02-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.12.2024: Александр, Усть-Каменогорск (95 000 тенге)</h3>
+<h3 id="ep-02-12-2024">02.12.2024: Александр, Усть-Каменогорск (95 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В 1925 году Уолт Дисней женился на своей сотруднице, несмотря на то, что он сам лично выпустил приказ, запрещавший личные отношения между сотрудниками компании. На какой должности работала его избранница?</p>
@@ -2179,10 +2179,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-03-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>03.12.2024: Андрей, Алматы (100 000 тенге)</h3>
+<h3 id="ep-03-12-2024">03.12.2024: Андрей, Алматы (100 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: 3 декабря 1992 года было отправлено первое короткое текстовое сообщение на мобильник. В какой стране это произошло?</p>
@@ -2210,10 +2210,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.12.2024: Куаныш, Талдыкорган (105 000 тенге)</h3>
+<h3 id="ep-04-12-2024">04.12.2024: Куаныш, Талдыкорган (105 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране носки символизируют достаток, если их дарят?</p>
@@ -2241,10 +2241,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.12.2024: Вадим, Алматы (110 000 тенге)</h3>
+<h3 id="ep-05-12-2024">05.12.2024: Вадим, Алматы (110 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая картина была самой дорогой из когда-либо проданных в аукционном доме Кристис?</p>
@@ -2272,10 +2272,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-06-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>06.12.2024: Мадина, Жезказган (115 000 тенге)</h3>
+<h3 id="ep-06-12-2024">06.12.2024: Мадина, Жезказган (115 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране находится домик у моря мистера и миссис Клаус?</p>
@@ -2303,10 +2303,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-09-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>09.12.2024: Кристина, Каскелен (120 000 тенге)</h3>
+<h3 id="ep-09-12-2024">09.12.2024: Кристина, Каскелен (120 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком городе в 1968 году на конференции по вычислительной технике была представлена первая компьютерная мышь?</p>
@@ -2334,10 +2334,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.12.2024: Бибигуль, Петропавловск (5 000 тенге)</h3>
+<h3 id="ep-10-12-2024">10.12.2024: Бибигуль, Петропавловск (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называют обывателей, которые приходят на футбол с пивом и семечками, при этом не болеют ни за одну команду?</p>
@@ -2365,10 +2365,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.12.2024: Карина, Караганда (10 000 тенге)</h3>
+<h3 id="ep-11-12-2024">11.12.2024: Карина, Караганда (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая из этих гор выше?</p>
@@ -2396,10 +2396,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-12-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>12.12.2024: Айгерим, Алматы (5 000 тенге)</h3>
+<h3 id="ep-12-12-2024">12.12.2024: Айгерим, Алматы (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как изначально называлась группа Motorhead, пока продюсеры не заставили сменить название?</p>
@@ -2427,10 +2427,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.12.2024: Арай, Алматы (10 000 тенге)</h3>
+<h3 id="ep-13-12-2024">13.12.2024: Арай, Алматы (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется фобия, связанная с боязнью числа 13?</p>
@@ -2458,10 +2458,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.12.2024: Альмира, Астана (15 000 тенге)</h3>
+<h3 id="ep-17-12-2024">17.12.2024: Альмира, Астана (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько часов уйдет на непрерывный просмотр всех серий мультсериала «Симпсоны»?</p>
@@ -2489,10 +2489,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-18-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>18.12.2024: Нияз, Аксай (20 000 тенге)</h3>
+<h3 id="ep-18-12-2024">18.12.2024: Нияз, Аксай (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какого цвета (кроме белого) бывают снежинки в арктических и горных районах?</p>
@@ -2520,10 +2520,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-19-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>19.12.2024: Борис, Алматы (25 000 тенге)</h3>
+<h3 id="ep-19-12-2024">19.12.2024: Борис, Алматы (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как звучит полное имя олимпийского мишки — талисмана Олимпийских игр 1980 года в Москве?</p>
@@ -2551,10 +2551,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-20-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>20.12.2024: Вагиз, Алматы (30 000 тенге)</h3>
+<h3 id="ep-20-12-2024">20.12.2024: Вагиз, Алматы (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется игра, где нужно искать предателя среди команды?</p>
@@ -2582,10 +2582,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.12.2024: Алексей, Семей (35 000 тенге)</h3>
+<h3 id="ep-23-12-2024">23.12.2024: Алексей, Семей (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Приглашённый гость: Luina</p>
@@ -2614,10 +2614,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.12.2024: Татьяна, Караганда (40 000 тенге)</h3>
+<h3 id="ep-24-12-2024">24.12.2024: Татьяна, Караганда (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком городе в 1510 году впервые была украшена рождественская ель?</p>
@@ -2645,10 +2645,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.12.2024: Олжас, Алматы (45 000 тенге)</h3>
+<h3 id="ep-25-12-2024">25.12.2024: Олжас, Алматы (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой из перечисленных алфавитов самый короткий?</p>
@@ -2676,10 +2676,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.12.2024: Арман, Алматы (50 000 тенге)</h3>
+<h3 id="ep-26-12-2024">26.12.2024: Арман, Алматы (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что из перечисленного нельзя дарить замужним француженкам?</p>
@@ -2707,10 +2707,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-27-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>27.12.2024: Берик, Талдыкорган (55 000 тенге)</h3>
+<h3 id="ep-27-12-2024">27.12.2024: Берик, Талдыкорган (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Где снимали фильм «Титаник»?</p>
@@ -2739,10 +2739,10 @@
 </div>
 
 
-<div class="episode-card" id="ep-30-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.12.2024: Ерлан, Астана (5 000 тенге)</h3>
+<h3 id="ep-30-12-2024">30.12.2024: Ерлан, Астана (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране находится самый длинный лабиринт в мире?</p>
@@ -2770,10 +2770,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-31-12-2024">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>31.12.2024: Асель, Павлодар (10 000 тенге)</h3>
+<h3 id="ep-31-12-2024">31.12.2024: Асель, Павлодар (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком месяце отмечает день рождения Снегурочка?</p>
@@ -2801,10 +2801,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-01-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.01.2025: Жанна, Астана (15 000 тенге)</h3>
+<h3 id="ep-13-01-2025">13.01.2025: Жанна, Астана (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называют человека, у которого два гражданства?</p>
@@ -2832,10 +2832,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-14-01-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>14.01.2025: Алибек, Кокшетау (20 000 тенге)</h3>
+<h3 id="ep-14-01-2025">14.01.2025: Алибек, Кокшетау (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как назывался первый в мире сборочный конвейер 1104 года?</p>
@@ -2863,10 +2863,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-15-01-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>15.01.2025: Айсулу, Каскелен (25 000 тенге)</h3>
+<h3 id="ep-15-01-2025">15.01.2025: Айсулу, Каскелен (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько лет исполнилось Википедии?</p>
@@ -2894,10 +2894,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-16-01-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>16.01.2025: Шахсинем, с. Шелек (30 000 тенге)</h3>
+<h3 id="ep-16-01-2025">16.01.2025: Шахсинем, с. Шелек (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что принято делать в день Цикнопемпти во время Апокриатического карнавала в Греции?</p>
@@ -2925,10 +2925,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-01-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.01.2025: Наталья, Талдыкорган (35 000 тенге)</h3>
+<h3 id="ep-17-01-2025">17.01.2025: Наталья, Талдыкорган (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Дима Бродяга (блогер)</p>
@@ -2957,10 +2957,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-02-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.02.2025: Татьяна, Алматы (15 000 тенге)</h3>
+<h3 id="ep-04-02-2025">04.02.2025: Татьяна, Алматы (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой фильм попал в Книгу рекордов Гиннеса как фильм с самым дорогим реквизитом?</p>
@@ -2988,10 +2988,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-02-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.02.2025: Бахытжан, Алматы (35 000 тенге)</h3>
+<h3 id="ep-10-02-2025">10.02.2025: Бахытжан, Алматы (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как по-другому зовут домовых?</p>
@@ -3019,10 +3019,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-02-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.02.2025: Сулейман, Астана (40 000 тенге)</h3>
+<h3 id="ep-11-02-2025">11.02.2025: Сулейман, Астана (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая актриса из сериала «Друзья» играла Рэйчел Грин и отмечает день рождения 11 февраля?</p>
@@ -3050,10 +3050,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-12-02-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>12.02.2025: Айжан, Фабричный (45 000 тенге)</h3>
+<h3 id="ep-12-02-2025">12.02.2025: Айжан, Фабричный (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Марсель</p>
@@ -3082,10 +3082,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-02-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.02.2025: Рустам, Риддер (50 000 тенге)</h3>
+<h3 id="ep-13-02-2025">13.02.2025: Рустам, Риддер (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как изначально расшифровывалась аббревиатура НС в названии Радио НС?</p>
@@ -3113,10 +3113,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-14-02-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>14.02.2025: Жанат, Петропавловск (55 000 тенге)</h3>
+<h3 id="ep-14-02-2025">14.02.2025: Жанат, Петропавловск (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой праздник отмечается в Финляндии 14 февраля помимо Дня влюблённых?</p>
@@ -3144,10 +3144,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-19-02-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>19.02.2025: Евгений, Усть-Каменогорск (10 000 тенге)</h3>
+<h3 id="ep-19-02-2025">19.02.2025: Евгений, Усть-Каменогорск (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется любительская орнитология — наблюдение за птицами?</p>
@@ -3175,10 +3175,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-03-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.03.2025: Айгуль, Астана (60 000 тенге)</h3>
+<h3 id="ep-05-03-2025">05.03.2025: Айгуль, Астана (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Диана Шарапова и Роман Миронов</p>
@@ -3207,10 +3207,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-06-03-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>06.03.2025: Асель, Уральск (65 000 тенге)</h3>
+<h3 id="ep-06-03-2025">06.03.2025: Асель, Уральск (65 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: братья Шангиреевы</p>
@@ -3239,10 +3239,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-21-04-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>21.04.2025: Алла, Павлодар (15 000 тенге)</h3>
+<h3 id="ep-21-04-2025">21.04.2025: Алла, Павлодар (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какому существу принадлежит ДНК, максимально схожая с ДНК человека?</p>
@@ -3270,10 +3270,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-22-04-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>22.04.2025: Газиз, Алматы (20 000 тенге)</h3>
+<h3 id="ep-22-04-2025">22.04.2025: Газиз, Алматы (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком немецком городе Ханс Ригель работал и создал мишек Харибо?</p>
@@ -3301,10 +3301,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-04-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.04.2025: Александра, Астана (25 000 тенге)</h3>
+<h3 id="ep-23-04-2025">23.04.2025: Александра, Астана (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько букв содержит английский алфавит?</p>
@@ -3332,10 +3332,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-04-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.04.2025: Даулет, Астана (30 000 тенге)</h3>
+<h3 id="ep-24-04-2025">24.04.2025: Даулет, Астана (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто создал сатуратор — аппарат для насыщения воды углекислыми пузырьками?</p>
@@ -3363,10 +3363,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-04-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.04.2025: Маржан, Астана (35 000 тенге)</h3>
+<h3 id="ep-25-04-2025">25.04.2025: Маржан, Астана (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько лет дочерям ведущих шоу «Беш» — Полине и Адине?</p>
@@ -3394,10 +3394,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-28-04-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>28.04.2025: Азина, Астана (40 000 тенге)</h3>
+<h3 id="ep-28-04-2025">28.04.2025: Азина, Астана (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какого цвета был бантик на новом хвосте Ослика Иа в мультфильме «Винни-Пух»?</p>
@@ -3425,10 +3425,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-02-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.05.2025: Кажымухан, Астана (50 000 тенге)</h3>
+<h3 id="ep-02-05-2025">02.05.2025: Кажымухан, Астана (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется восьмая (последняя) книга о Гарри Поттере?</p>
@@ -3456,10 +3456,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.05.2025: Анара, Кокшетау (55 000 тенге)</h3>
+<h3 id="ep-05-05-2025">05.05.2025: Анара, Кокшетау (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Из какого мультфильма принцесса Мерида — рыжая девушка с луком?</p>
@@ -3487,10 +3487,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-06-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>06.05.2025: Айнаш, Талдыкорган (60 000 тенге)</h3>
+<h3 id="ep-06-05-2025">06.05.2025: Айнаш, Талдыкорган (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой кофе считается самым дорогим в мире?</p>
@@ -3518,10 +3518,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-08-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>08.05.2025: Марина, Актобе (5 000 тенге)</h3>
+<h3 id="ep-08-05-2025">08.05.2025: Марина, Актобе (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Ердин Телемисов</p>
@@ -3550,10 +3550,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.05.2025: Вагиф, Астана (10 000 тенге)</h3>
+<h3 id="ep-13-05-2025">13.05.2025: Вагиф, Астана (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Чем занимаются в День одуванчиков в городе Вайне (США)?</p>
@@ -3581,10 +3581,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-14-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>14.05.2025: Руслан, Караганда (15 000 тенге)</h3>
+<h3 id="ep-14-05-2025">14.05.2025: Руслан, Караганда (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: доктор Айганым</p>
@@ -3613,10 +3613,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-15-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>15.05.2025: Шалкар, Шымкент (20 000 тенге)</h3>
+<h3 id="ep-15-05-2025">15.05.2025: Шалкар, Шымкент (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какова общая протяжённость ветки метро в Алматы?</p>
@@ -3644,10 +3644,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-16-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>16.05.2025: Мухтар, Алматы (25 000 тенге)</h3>
+<h3 id="ep-16-05-2025">16.05.2025: Мухтар, Алматы (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: За что журнал «Мурзилка» попал в Книгу рекордов Гиннеса?</p>
@@ -3675,10 +3675,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-20-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>20.05.2025: Жулдыз, Семей (5 000 тенге)</h3>
+<h3 id="ep-20-05-2025">20.05.2025: Жулдыз, Семей (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Дастан Ибрагимов (дирижёр)</p>
@@ -3707,10 +3707,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-22-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>22.05.2025: Забида (15 000 тенге)</h3>
+<h3 id="ep-22-05-2025">22.05.2025: Забида (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Зоя из группы Ленинград</p>
@@ -3739,10 +3739,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.05.2025: Манас, Алматы (20 000 тенге)</h3>
+<h3 id="ep-23-05-2025">23.05.2025: Манас, Алматы (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая черепаха считается самой тяжёлой в мире?</p>
@@ -3770,10 +3770,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.05.2025: Рафаэль, Караганда (25 000 тенге)</h3>
+<h3 id="ep-26-05-2025">26.05.2025: Рафаэль, Караганда (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется маска, которая автоматически подстраивается под яркость сварки?</p>
@@ -3801,10 +3801,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-28-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>28.05.2025: Айгуль, Астана (30 000 тенге)</h3>
+<h3 id="ep-28-05-2025">28.05.2025: Айгуль, Астана (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая группа исполняет легендарную песню «Поворот» и была основана 27 мая 1969 года?</p>
@@ -3832,10 +3832,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-29-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>29.05.2025: Артём, Караганда (35 000 тенге)</h3>
+<h3 id="ep-29-05-2025">29.05.2025: Артём, Караганда (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Почему Международный день Эвереста отмечают 29 мая?</p>
@@ -3863,10 +3863,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-05-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.05.2025: Константин, Алматы (40 000 тенге)</h3>
+<h3 id="ep-30-05-2025">30.05.2025: Константин, Алматы (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Где в мире установлен самый большой памятник картофелю?</p>
@@ -3894,10 +3894,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-02-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.06.2025: Азим, Тараз (45 000 тенге)</h3>
+<h3 id="ep-02-06-2025">02.06.2025: Азим, Тараз (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: доктор Айганым</p>
@@ -3926,10 +3926,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-03-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>03.06.2025: Дмитрий, Алматы (50 000 тенге)</h3>
+<h3 id="ep-03-06-2025">03.06.2025: Дмитрий, Алматы (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой самый известный международный велозаезд длится более трёх недель?</p>
@@ -3957,10 +3957,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.06.2025: Канат, Караганда (55 000 тенге)</h3>
+<h3 id="ep-04-06-2025">04.06.2025: Канат, Караганда (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком году утвердили государственные символы Казахстана?</p>
@@ -3988,10 +3988,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.06.2025: Маша, Астана (60 000 тенге)</h3>
+<h3 id="ep-05-06-2025">05.06.2025: Маша, Астана (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком году в Казахстане был учреждён День эколога?</p>
@@ -4019,10 +4019,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.06.2025: Жулдыс, Астана (75 000 тенге)</h3>
+<h3 id="ep-11-06-2025">11.06.2025: Жулдыс, Астана (75 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какие цвета символизирует пицца Маргарита?</p>
@@ -4050,10 +4050,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-12-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>12.06.2025: Юрий, Астана (80 000 тенге)</h3>
+<h3 id="ep-12-06-2025">12.06.2025: Юрий, Астана (80 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто считается изобретателем первого действующего противогаза?</p>
@@ -4081,10 +4081,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.06.2025: Зарина, Алматы (85 000 тенге)</h3>
+<h3 id="ep-13-06-2025">13.06.2025: Зарина, Алматы (85 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какое из перечисленных растений является близким родственником хрена?</p>
@@ -4112,10 +4112,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-16-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>16.06.2025: Тимур, Алматы (90 000 тенге)</h3>
+<h3 id="ep-16-06-2025">16.06.2025: Тимур, Алматы (90 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каком году была зарегистрирована торговая марка Pepsi-Cola?</p>
@@ -4143,10 +4143,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.06.2025: Диас, Караганда (95 000 тенге)</h3>
+<h3 id="ep-17-06-2025">17.06.2025: Диас, Караганда (95 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как крокодил охлаждается в жару?</p>
@@ -4174,10 +4174,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-19-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>19.06.2025: Аслан, Астана (105 000 тенге)</h3>
+<h3 id="ep-19-06-2025">19.06.2025: Аслан, Астана (105 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что больше всего любит кот Гарфилд?</p>
@@ -4205,10 +4205,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-20-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>20.06.2025: Жанболат, Астана (110 000 тенге)</h3>
+<h3 id="ep-20-06-2025">20.06.2025: Жанболат, Астана (110 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой символ изображён на флаге Аргентины?</p>
@@ -4236,10 +4236,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.06.2025: Галина, Щучинск (115 000 тенге)</h3>
+<h3 id="ep-23-06-2025">23.06.2025: Галина, Щучинск (115 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что означало древнерусское слово «бал», от которого произошло слово «балалайка»?</p>
@@ -4267,10 +4267,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.06.2025: Юля, Алматы (120 000 тенге)</h3>
+<h3 id="ep-24-06-2025">24.06.2025: Юля, Алматы (120 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как визажисты называют эффект сияющей, как будто влажной кожи в макияже?</p>
@@ -4298,10 +4298,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.06.2025: Татьяна, Алматы (125 000 тенге)</h3>
+<h3 id="ep-25-06-2025">25.06.2025: Татьяна, Алматы (125 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что означает слово «аттестат» в переводе с латинского?</p>
@@ -4329,10 +4329,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.06.2025: Дастан, Астана (130 000 тенге)</h3>
+<h3 id="ep-26-06-2025">26.06.2025: Дастан, Астана (130 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какую зубную щётку используют большинство астронавтов в космосе?</p>
@@ -4360,10 +4360,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-27-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>27.06.2025: Николай, Уральск (135 000 тенге)</h3>
+<h3 id="ep-27-06-2025">27.06.2025: Николай, Уральск (135 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая рыба умеет ходить по суше, двигаясь при помощи грудных плавников?</p>
@@ -4391,10 +4391,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-06-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.06.2025: Анвар, Актобе (5 000 тенге)</h3>
+<h3 id="ep-30-06-2025">30.06.2025: Анвар, Актобе (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как зовут главного мужского персонажа «Сейлор Мун» (Такседо Маска) в японской версии?</p>
@@ -4422,10 +4422,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-01-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>01.07.2025: Ардак, Алматы (5 000 тенге)</h3>
+<h3 id="ep-01-07-2025">01.07.2025: Ардак, Алматы (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой режиссёр снял самый кассовый фильм в истории кино?</p>
@@ -4453,10 +4453,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-02-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.07.2025: Ержан, Кокшетау (10 000 тенге)</h3>
+<h3 id="ep-02-07-2025">02.07.2025: Ержан, Кокшетау (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая собака прославилась за спасение людей в Арктике и стала героем мультфильма?</p>
@@ -4484,10 +4484,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-03-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>03.07.2025: Айбар, Астана (15 000 тенге)</h3>
+<h3 id="ep-03-07-2025">03.07.2025: Айбар, Астана (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется женская юбка в Мьянме?</p>
@@ -4515,10 +4515,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.07.2025: Даурен, Атырау (20 000 тенге)</h3>
+<h3 id="ep-04-07-2025">04.07.2025: Даурен, Атырау (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как звали реальную девочку, которой Льюис Кэрролл посвятил «Алису в Стране чудес»?</p>
@@ -4546,10 +4546,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-09-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>09.07.2025: Владислав, Павлодар (10 000 тенге)</h3>
+<h3 id="ep-09-07-2025">09.07.2025: Владислав, Павлодар (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой казахстанский дизайнер первым представил коллекции на Парижской неделе моды?</p>
@@ -4577,10 +4577,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.07.2025: Юлия, Актау (5 000 тенге)</h3>
+<h3 id="ep-10-07-2025">10.07.2025: Юлия, Актау (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что обязательно должно быть в составе настоящей Пина Колады?</p>
@@ -4608,10 +4608,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-15-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>15.07.2025: Алина, Алматы (20 000 тенге)</h3>
+<h3 id="ep-15-07-2025">15.07.2025: Алина, Алматы (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой древний врач считается отцом гинекологии?</p>
@@ -4639,10 +4639,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.07.2025: Александра, Алматы (25 000 тенге)</h3>
+<h3 id="ep-17-07-2025">17.07.2025: Александра, Алматы (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая страна признала татуировки искусством на государственном уровне?</p>
@@ -4670,10 +4670,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-18-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>18.07.2025: Аклбек, Павлодар (30 000 тенге)</h3>
+<h3 id="ep-18-07-2025">18.07.2025: Аклбек, Павлодар (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько длился самый длительный дождь в мире по Книге рекордов Гиннесса?</p>
@@ -4701,10 +4701,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-21-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>21.07.2025: Ержан, Кокшетау (35 000 тенге)</h3>
+<h3 id="ep-21-07-2025">21.07.2025: Ержан, Кокшетау (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране впервые начали отмечать Международный день тортиков?</p>
@@ -4732,10 +4732,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.07.2025: Виталий, Боровое (45 000 тенге)</h3>
+<h3 id="ep-23-07-2025">23.07.2025: Виталий, Боровое (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой из необычных вкусов мороженого действительно существует?</p>
@@ -4763,10 +4763,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.07.2025: Данияр, Уральск (50 000 тенге)</h3>
+<h3 id="ep-24-07-2025">24.07.2025: Данияр, Уральск (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется японское искусство составления цветочных композиций?</p>
@@ -4794,10 +4794,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.07.2025: Арай, Алматы (55 000 тенге)</h3>
+<h3 id="ep-25-07-2025">25.07.2025: Арай, Алматы (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кого называют отцом современной стоматологии?</p>
@@ -4825,10 +4825,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-28-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>28.07.2025: Толеген, Астана (60 000 тенге)</h3>
+<h3 id="ep-28-07-2025">28.07.2025: Толеген, Астана (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой статус получил Лондон 28 июля 1847 года?</p>
@@ -4856,10 +4856,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-29-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>29.07.2025: Вячеслав, Астана (65 000 тенге)</h3>
+<h3 id="ep-29-07-2025">29.07.2025: Вячеслав, Астана (65 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой тигр считается самым крупным в мире?</p>
@@ -4887,10 +4887,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.07.2025: Галина, Костанай (70 000 тенге)</h3>
+<h3 id="ep-30-07-2025">30.07.2025: Галина, Костанай (70 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто из перечисленных актёров снимался в сериале «Санта-Барбара»?</p>
@@ -4918,10 +4918,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-31-07-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>31.07.2025: Галия, Тараз (75 000 тенге)</h3>
+<h3 id="ep-31-07-2025">31.07.2025: Галия, Тараз (75 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой факультет распределяющая шляпа отправила Джоан Роулинг?</p>
@@ -4949,10 +4949,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-01-08-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>01.08.2025: Раушан, Алматы (80 000 тенге)</h3>
+<h3 id="ep-01-08-2025">01.08.2025: Раушан, Алматы (80 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто первым сыграл Человека-паука в полнометражном фильме?</p>
@@ -4982,10 +4982,10 @@
 
 ## Сезон 2025–2026
 
-<div class="episode-card" id="ep-02-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.09.2025: Александр, Костанай (85 000 тенге)</h3>
+<h3 id="ep-02-09-2025">02.09.2025: Александр, Костанай (85 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В каких городах Ксения оставалась с ночёвкой во время отпуска?</p>
@@ -5013,10 +5013,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-03-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>03.09.2025: Таир, Алматы (5 000 тенге)</h3>
+<h3 id="ep-03-09-2025">03.09.2025: Таир, Алматы (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько этажей было в первом небоскрёбе, построенном в Чикаго в 1885 году?</p>
@@ -5044,10 +5044,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.09.2025: Александр, Петропавловск (10 000 тенге)</h3>
+<h3 id="ep-04-09-2025">04.09.2025: Александр, Петропавловск (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какие две семьи участвовали в первой игре «Что? Где? Когда?» 50 лет назад?</p>
@@ -5075,10 +5075,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.09.2025: Бауыржан, Павлодар (15 000 тенге)</h3>
+<h3 id="ep-05-09-2025">05.09.2025: Бауыржан, Павлодар (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая необычная традиция существует в индийских школах в День учителя?</p>
@@ -5106,10 +5106,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-08-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>08.09.2025: Илья, Астана (20 000 тенге)</h3>
+<h3 id="ep-08-09-2025">08.09.2025: Илья, Астана (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Карина Сыздыкова, блогер</p>
@@ -5138,10 +5138,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-09-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>09.09.2025: Аскар, Алматы (25 000 тенге)</h3>
+<h3 id="ep-09-09-2025">09.09.2025: Аскар, Алматы (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется пятый спутник Юпитера?</p>
@@ -5169,10 +5169,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.09.2025: Алексей, Алматы (30 000 тенге)</h3>
+<h3 id="ep-10-09-2025">10.09.2025: Алексей, Алматы (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой запрос стал самым первым в Google в 1998 году?</p>
@@ -5200,10 +5200,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.09.2025: Татьяна, Алтай (35 000 тенге)</h3>
+<h3 id="ep-11-09-2025">11.09.2025: Татьяна, Алтай (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что означает слово «Манахата», от которого произошло название Манхэттен?</p>
@@ -5231,10 +5231,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-12-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>12.09.2025: Ролан, Алматы (40 000 тенге)</h3>
+<h3 id="ep-12-09-2025">12.09.2025: Ролан, Алматы (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как зовут бэк-вокалистку Дженнифер Лопес, восторгавшуюся казахстанским шоколадом?</p>
@@ -5262,10 +5262,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-15-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>15.09.2025: Денис, Астана (45 000 тенге)</h3>
+<h3 id="ep-15-09-2025">15.09.2025: Денис, Астана (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какого числа отмечают Международный день семьи во всём мире?</p>
@@ -5293,10 +5293,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-16-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>16.09.2025: Айтуар, Караганда (50 000 тенге)</h3>
+<h3 id="ep-16-09-2025">16.09.2025: Айтуар, Караганда (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько дней длилась история любви Ромео и Джульетты?</p>
@@ -5324,10 +5324,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.09.2025: Ержан, Кокшетау (55 000 тенге)</h3>
+<h3 id="ep-17-09-2025">17.09.2025: Ержан, Кокшетау (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто считается изобретателем первого банкомата?</p>
@@ -5355,10 +5355,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-18-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>18.09.2025: Александр, Астана (60 000 тенге)</h3>
+<h3 id="ep-18-09-2025">18.09.2025: Александр, Астана (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Где вышел дебютный альбом группы Backstreet Boys?</p>
@@ -5386,10 +5386,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-19-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>19.09.2025: Андрей, Щучинск (65 000 тенге)</h3>
+<h3 id="ep-19-09-2025">19.09.2025: Андрей, Щучинск (65 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто придумал первые текстовые смайлики из двоеточия, дефиса и скобки?</p>
@@ -5417,10 +5417,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-22-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>22.09.2025: Арман, Усть-Каменогорск (70 000 тенге)</h3>
+<h3 id="ep-22-09-2025">22.09.2025: Арман, Усть-Каменогорск (70 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что запретил закон в Швеции 22 сентября 1951 года в общественных местах?</p>
@@ -5448,10 +5448,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.09.2025: Сабит, Кокшетау (5 000 тенге)</h3>
+<h3 id="ep-23-09-2025">23.09.2025: Сабит, Кокшетау (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: У какого государства жестовый язык признан официальным?</p>
@@ -5479,10 +5479,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.09.2025: Жанторе, Алматы (10 000 тенге)</h3>
+<h3 id="ep-24-09-2025">24.09.2025: Жанторе, Алматы (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что означает слово «пунктуация» в переводе с латинского?</p>
@@ -5510,10 +5510,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.09.2025: Газиз, Костанай (15 000 тенге)</h3>
+<h3 id="ep-25-09-2025">25.09.2025: Газиз, Костанай (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая организация впервые предложила отмечать Всемирный день моря?</p>
@@ -5541,10 +5541,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.09.2025: Риза, Павлодар (20 000 тенге)</h3>
+<h3 id="ep-26-09-2025">26.09.2025: Риза, Павлодар (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране отмечают День пельменей как официальный праздник?</p>
@@ -5572,10 +5572,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-29-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>29.09.2025: Владимир, Актобе (25 000 тенге)</h3>
+<h3 id="ep-29-09-2025">29.09.2025: Владимир, Актобе (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Жазира Сербаева</p>
@@ -5604,10 +5604,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-09-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.09.2025: Адлет, Астана (30 000 тенге)</h3>
+<h3 id="ep-30-09-2025">30.09.2025: Адлет, Астана (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: блогер Диас Амамбаев</p>
@@ -5636,10 +5636,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-01-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>01.10.2025: Гульмира, Усть-Каменогорск (35 000 тенге)</h3>
+<h3 id="ep-01-10-2025">01.10.2025: Гульмира, Усть-Каменогорск (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой город считается столицей первой в мире кофейни?</p>
@@ -5667,10 +5667,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-02-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.10.2025: Игорь, Тараз (40 000 тенге)</h3>
+<h3 id="ep-02-10-2025">02.10.2025: Игорь, Тараз (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая видеоигра занесена в Книгу рекордов Гиннесса как самая долго выпускаемая серия?</p>
@@ -5698,10 +5698,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-03-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>03.10.2025: Сергей, Алматы (45 000 тенге)</h3>
+<h3 id="ep-03-10-2025">03.10.2025: Сергей, Алматы (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называлось самое первое телешоу, начавшееся в 1948 году?</p>
@@ -5729,10 +5729,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-06-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>06.10.2025: Жибек, Астана (50 000 тенге)</h3>
+<h3 id="ep-06-10-2025">06.10.2025: Жибек, Астана (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой символ чаще всего используют для обозначения врачей во всём мире?</p>
@@ -5760,10 +5760,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-07-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>07.10.2025: Колдыбек, Орда (55 000 тенге)</h3>
+<h3 id="ep-07-10-2025">07.10.2025: Колдыбек, Орда (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: доктор Айганым</p>
@@ -5792,10 +5792,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-08-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>08.10.2025: Наталья, Павлодар (60 000 тенге)</h3>
+<h3 id="ep-08-10-2025">08.10.2025: Наталья, Павлодар (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой орган тела изучает подиатр?</p>
@@ -5823,10 +5823,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-09-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>09.10.2025: Надежда, Астана (5 000 тенге)</h3>
+<h3 id="ep-09-10-2025">09.10.2025: Надежда, Астана (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько букв в южнокорейском алфавите?</p>
@@ -5854,10 +5854,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.10.2025: Анна, Павлодар (5 000 тенге)</h3>
+<h3 id="ep-10-10-2025">10.10.2025: Анна, Павлодар (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой была первая запись ВКонтакте, сделанная Павлом Дуровым?</p>
@@ -5885,10 +5885,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.10.2025: Александр, Усть-Каменогорск (10 000 тенге)</h3>
+<h3 id="ep-13-10-2025">13.10.2025: Александр, Усть-Каменогорск (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Виктор Гусарь</p>
@@ -5917,10 +5917,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-14-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>14.10.2025: Канат, Уральск (15 000 тенге)</h3>
+<h3 id="ep-14-10-2025">14.10.2025: Канат, Уральск (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Нора</p>
@@ -5949,10 +5949,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-15-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>15.10.2025: Юрий, Алматы (20 000 тенге)</h3>
+<h3 id="ep-15-10-2025">15.10.2025: Юрий, Алматы (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто из участников Metallica написал большинство текстов песен?</p>
@@ -5980,10 +5980,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-20-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>20.10.2025: Жазира, Астана (25 000 тенге)</h3>
+<h3 id="ep-20-10-2025">20.10.2025: Жазира, Астана (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Когда отмечается Международный день студента?</p>
@@ -6011,10 +6011,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-21-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>21.10.2025: Айжан, Астана (5 000 тенге)</h3>
+<h3 id="ep-21-10-2025">21.10.2025: Айжан, Астана (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране зонт считается символом власти?</p>
@@ -6042,10 +6042,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-22-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>22.10.2025: Айгерим, Усть-Каменогорск (10 000 тенге)</h3>
+<h3 id="ep-22-10-2025">22.10.2025: Айгерим, Усть-Каменогорск (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто изобрёл технологию ксерокопирования?</p>
@@ -6073,10 +6073,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.10.2025: Максим, Алматы (15 000 тенге)</h3>
+<h3 id="ep-23-10-2025">23.10.2025: Максим, Алматы (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: На что была проведена первая в Европе пластическая операция в 1814 году?</p>
@@ -6104,10 +6104,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.10.2025: Руслан, Алматы (20 000 тенге)</h3>
+<h3 id="ep-24-10-2025">24.10.2025: Руслан, Алматы (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как называется удар в бильярде, при котором шар сначала ударяется о борт, а затем попадает в лузу?</p>
@@ -6135,10 +6135,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-29-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>29.10.2025: Гулиман, Астана (5 000 тенге)</h3>
+<h3 id="ep-29-10-2025">29.10.2025: Гулиман, Астана (5 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: Тодд Кернс и Алекс</p>
@@ -6167,10 +6167,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.10.2025: Данияр, Астана (10 000 тенге)</h3>
+<h3 id="ep-30-10-2025">30.10.2025: Данияр, Астана (10 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: актёр Куанда Абдемади</p>
@@ -6199,10 +6199,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-31-10-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>31.10.2025: Дмитрий, Алматы (15 000 тенге)</h3>
+<h3 id="ep-31-10-2025">31.10.2025: Дмитрий, Алматы (15 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой город называют столицей Хэллоуина?</p>
@@ -6230,10 +6230,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-03-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>03.11.2025: Елена, Рудный (20 000 тенге)</h3>
+<h3 id="ep-03-11-2025">03.11.2025: Елена, Рудный (20 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: доктор Айганым</p>
@@ -6262,10 +6262,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.11.2025: Мерхат, Семей (25 000 тенге)</h3>
+<h3 id="ep-04-11-2025">04.11.2025: Мерхат, Семей (25 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Из какой страны сорт вина Ксиномавро?</p>
@@ -6293,10 +6293,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.11.2025: Азамат, Астана (30 000 тенге)</h3>
+<h3 id="ep-05-11-2025">05.11.2025: Азамат, Астана (30 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какова высота Останкинской башни?</p>
@@ -6324,10 +6324,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-06-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>06.11.2025: Настя, Актобе (35 000 тенге)</h3>
+<h3 id="ep-06-11-2025">06.11.2025: Настя, Актобе (35 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как стали звать изобретателя саксофона Антуана Жозефа?</p>
@@ -6355,10 +6355,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-07-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>07.11.2025: Дмитрий, Астана (40 000 тенге)</h3>
+<h3 id="ep-07-11-2025">07.11.2025: Дмитрий, Астана (40 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране зародился пейнтбол?</p>
@@ -6386,10 +6386,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.11.2025: Сергей, Караганда (45 000 тенге)</h3>
+<h3 id="ep-10-11-2025">10.11.2025: Сергей, Караганда (45 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто считается отцом бухгалтерии?</p>
@@ -6417,10 +6417,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.11.2025: Талгат, Алматы (50 000 тенге)</h3>
+<h3 id="ep-11-11-2025">11.11.2025: Талгат, Алматы (50 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто был главным тренером Дуэйна Скалы Джонсона?</p>
@@ -6448,10 +6448,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-12-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>12.11.2025: Ажар, Алматы (55 000 тенге)</h3>
+<h3 id="ep-12-11-2025">12.11.2025: Ажар, Алматы (55 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: адвокаты Лесбек и Айгерим</p>
@@ -6480,10 +6480,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-13-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>13.11.2025: Руслан, Караганда (60 000 тенге)</h3>
+<h3 id="ep-13-11-2025">13.11.2025: Руслан, Караганда (60 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой рекорд установила канадская курица Лейси в 2024 году?</p>
@@ -6511,10 +6511,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-14-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>14.11.2025: Наталья, Алматы (65 000 тенге)</h3>
+<h3 id="ep-14-11-2025">14.11.2025: Наталья, Алматы (65 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой гормон отвечает за ощущение сытости после еды?</p>
@@ -6542,10 +6542,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.11.2025: Ярослав, Семей (70 000 тенге)</h3>
+<h3 id="ep-17-11-2025">17.11.2025: Ярослав, Семей (70 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто руководил командой художников, разработавших дизайн первых казахстанских тенге?</p>
@@ -6573,10 +6573,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-18-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>18.11.2025: Альбина, Аркалык (75 000 тенге)</h3>
+<h3 id="ep-18-11-2025">18.11.2025: Альбина, Аркалык (75 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Когда отмечается день рождения Санта-Клауса?</p>
@@ -6604,10 +6604,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.11.2025: Катя, Алматы (80 000 тенге)</h3>
+<h3 id="ep-24-11-2025">24.11.2025: Катя, Алматы (80 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько букв в современном албанском алфавите?</p>
@@ -6635,10 +6635,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.11.2025: Иван, Риддер (85 000 тенге)</h3>
+<h3 id="ep-25-11-2025">25.11.2025: Иван, Риддер (85 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как буквально переводится латинское название вторника Dies Martis?</p>
@@ -6666,10 +6666,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.11.2025: Самат, Семей (90 000 тенге)</h3>
+<h3 id="ep-26-11-2025">26.11.2025: Самат, Семей (90 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Где по фэн-шуй лучше всего ставить денежное дерево?</p>
@@ -6697,10 +6697,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-27-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>27.11.2025: Рустем, Алматы (95 000 тенге)</h3>
+<h3 id="ep-27-11-2025">27.11.2025: Рустем, Алматы (95 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько дней длился полёт «Зонда-5» с черепахами вокруг Луны?</p>
@@ -6728,10 +6728,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-28-11-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>28.11.2025: Айгерим, Алматы (100 000 тенге)</h3>
+<h3 id="ep-28-11-2025">28.11.2025: Айгерим, Алматы (100 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что изображено на флаге Албании?</p>
@@ -6759,10 +6759,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-01-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>01.12.2025: Асем, Семей (105 000 тенге)</h3>
+<h3 id="ep-01-12-2025">01.12.2025: Асем, Семей (105 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какое животное первым стало популярным персонажем студии Уолта Диснея?</p>
@@ -6790,10 +6790,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-02-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>02.12.2025: Мурат, Талдыкорган (110 000 тенге)</h3>
+<h3 id="ep-02-12-2025">02.12.2025: Мурат, Талдыкорган (110 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько лет было Наполеону, когда он стал императором Франции?</p>
@@ -6821,10 +6821,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-03-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>03.12.2025: Мария, Кокшетау (115 000 тенге)</h3>
+<h3 id="ep-03-12-2025">03.12.2025: Мария, Кокшетау (115 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="guest-line">Звёздный гость: доктор Айганым</p>
@@ -6853,10 +6853,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-04-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>04.12.2025: Каба, Алматы (120 000 тенге)</h3>
+<h3 id="ep-04-12-2025">04.12.2025: Каба, Алматы (120 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Символом какого бренда является гепард по имени Честер?</p>
@@ -6884,10 +6884,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-05-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>05.12.2025: Николай, Караганда (125 000 тенге)</h3>
+<h3 id="ep-05-12-2025">05.12.2025: Николай, Караганда (125 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой обуви ниндзя передвигались почти бесшумно?</p>
@@ -6915,10 +6915,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-08-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>08.12.2025: Наталья, Павлодар (130 000 тенге)</h3>
+<h3 id="ep-08-12-2025">08.12.2025: Наталья, Павлодар (130 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая техника рисования создана Леонардо да Винчи?</p>
@@ -6946,10 +6946,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-09-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>09.12.2025: Берик, Талдыкорган (135 000 тенге)</h3>
+<h3 id="ep-09-12-2025">09.12.2025: Берик, Талдыкорган (135 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько кнопок изначально хотели сделать на первой компьютерной мышке?</p>
@@ -6977,10 +6977,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-10-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>10.12.2025: Татьяна, Актобе (140 000 тенге)</h3>
+<h3 id="ep-10-12-2025">10.12.2025: Татьяна, Актобе (140 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто является рекордсменом по голам за сборную Казахстана по футболу?</p>
@@ -7008,10 +7008,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-11-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>11.12.2025: Зульфия, Тараз (145 000 тенге)</h3>
+<h3 id="ep-11-12-2025">11.12.2025: Зульфия, Тараз (145 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой инструмент чаще всего ассоциируют с танго?</p>
@@ -7039,10 +7039,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-12-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>12.12.2025: Семён, Караганда (150 000 тенге)</h3>
+<h3 id="ep-12-12-2025">12.12.2025: Семён, Караганда (150 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая группа считается родоначальником хэви-метала?</p>
@@ -7070,10 +7070,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-15-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>15.12.2025: Ерлан, Алматы (155 000 тенге)</h3>
+<h3 id="ep-15-12-2025">15.12.2025: Ерлан, Алматы (155 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какой чай считается самым дорогим в мире?</p>
@@ -7101,10 +7101,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-17-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>17.12.2025: Алжас, Павлодар (160 000 тенге)</h3>
+<h3 id="ep-17-12-2025">17.12.2025: Алжас, Павлодар (160 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что по легенде сказал гонец Фидиппид, добежав от Марафона до Афин?</p>
@@ -7132,10 +7132,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-18-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>18.12.2025: Татьяна, Алматы (165 000 тенге)</h3>
+<h3 id="ep-18-12-2025">18.12.2025: Татьяна, Алматы (165 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Почему День арабского языка отмечается 18 декабря?</p>
@@ -7163,10 +7163,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-19-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>19.12.2025: Алим, Алматы (170 000 тенге)</h3>
+<h3 id="ep-19-12-2025">19.12.2025: Алим, Алматы (170 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Сколько «Оскаров» получил фильм «Титаник»?</p>
@@ -7194,10 +7194,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-22-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>22.12.2025: Ахан, Астана (175 000 тенге)</h3>
+<h3 id="ep-22-12-2025">22.12.2025: Ахан, Астана (175 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Какая видеоигра первой побывала в космосе?</p>
@@ -7225,10 +7225,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-23-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>23.12.2025: Зарина, Алматы (180 000 тенге)</h3>
+<h3 id="ep-23-12-2025">23.12.2025: Зарина, Алматы (180 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Как назывался первый сноуборд в истории?</p>
@@ -7256,10 +7256,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-24-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>24.12.2025: Сабит, Кокшетау (185 000 тенге)</h3>
+<h3 id="ep-24-12-2025">24.12.2025: Сабит, Кокшетау (185 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Где впервые начали украшать рождественскую ёлку?</p>
@@ -7287,10 +7287,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-25-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>25.12.2025: Татьяна, Караганда (190 000 тенге)</h3>
+<h3 id="ep-25-12-2025">25.12.2025: Татьяна, Караганда (190 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что означает название праздника Наурдуган?</p>
@@ -7318,10 +7318,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-26-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>26.12.2025: Фархад, Алматы (195 000 тенге)</h3>
+<h3 id="ep-26-12-2025">26.12.2025: Фархад, Алматы (195 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: В какой стране была создана самая большая открытка в мире?</p>
@@ -7349,10 +7349,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-29-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>29.12.2025: Ербол, Астана (200 000 тенге)</h3>
+<h3 id="ep-29-12-2025">29.12.2025: Ербол, Астана (200 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Где построили самую высокую башню из конструктора Лего?</p>
@@ -7380,10 +7380,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-30-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>30.12.2025: Ислам, Караганда (205 000 тенге)</h3>
+<h3 id="ep-30-12-2025">30.12.2025: Ислам, Караганда (205 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Кто стал инициатором строительства первого метро в Токио?</p>
@@ -7411,10 +7411,10 @@
 </div>
 </div>
 
-<div class="episode-card" id="ep-31-12-2025">
+<div class="episode-card">
 <div class="episode-header">
 
-<h3>31.12.2025: Римма, Кокшетау (210 000 тенге)</h3>
+<h3 id="ep-31-12-2025">31.12.2025: Римма, Кокшетау (210 000 тенге)</h3>
 </div>
 <div class="episode-body">
 <p class="question">Вопрос 1: Что в переводе с латинского означает слово «кампания», от которого произошло название «шампанское»?</p>
