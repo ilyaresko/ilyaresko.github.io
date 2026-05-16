@@ -698,3 +698,87 @@ ol.references li {
   font-size: 1.15rem;
   font-weight: 600;
 }
+
+
+/* --------------------------------------------------------------------------
+   11. Season Summary Panel & Winners List
+   -------------------------------------------------------------------------- */
+
+.season-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.75rem 0 1rem;
+  font-size: 0.9rem;
+}
+
+.season-summary .ss-stat {
+  background: var(--card-bg-alt);
+  border: 1px solid var(--card-border);
+  border-radius: 14px;
+  padding: 0.3rem 0.85rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.season-summary .ss-stat strong {
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
+details.season-wins {
+  margin: 0.5rem 0 1.5rem;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--card-bg-alt);
+}
+
+details.season-wins > summary {
+  padding: 0.5rem 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  user-select: none;
+  color: var(--text-primary);
+  list-style: none;
+}
+
+details.season-wins > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.season-wins > summary::before {
+  content: "▶ ";
+  font-size: 0.75em;
+  display: inline-block;
+  margin-right: 0.35em;
+  transition: transform 0.15s ease;
+}
+
+details.season-wins[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+details.season-wins ul {
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0 0.5rem;
+}
+
+details.season-wins li {
+  padding: 0.3rem 0.85rem;
+  border-top: 1px solid var(--divider);
+}
+
+details.season-wins li:first-child {
+  border-top: none;
+}
+
+details.season-wins a {
+  text-decoration: none;
+  color: var(--link-color);
+}
+
+details.season-wins a:hover {
+  text-decoration: underline;
+}

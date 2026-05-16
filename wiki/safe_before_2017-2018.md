@@ -7,6 +7,20 @@
 
 ## Сезон 2009-2010
 
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>3</strong> эпизода</span>
+<span class="ss-stat">🏆 <strong>1</strong> победа</span>
+<span class="ss-stat">💰 <strong>3 000</strong> рублей выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
+
+<details class="season-wins">
+<summary>Победители сезона (1)</summary>
+<ul>
+<li><a href="#/safe_before_2017-2018?id=ep-04-06-2010">04.06.2010 — Людмила (3 000 рублей)</a></li>
+</ul>
+</details>
+
 <div class="episode-card">
 <div class="episode-header">
 
@@ -88,6 +102,13 @@
 
 ## Сезон 2010-2011
 
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>1</strong> эпизод</span>
+<span class="ss-stat">🏆 <strong>0</strong> побед</span>
+<span class="ss-stat">💰 <strong>0</strong> рублей выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
+
 <div class="episode-card">
 <div class="episode-header">
 
@@ -122,6 +143,20 @@
 
 ## Сезон 2011-2012
 
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>1</strong> эпизод</span>
+<span class="ss-stat">🏆 <strong>1</strong> победа</span>
+<span class="ss-stat">💰 <strong>20 000</strong> рублей выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
+
+<details class="season-wins">
+<summary>Победители сезона (1)</summary>
+<ul>
+<li><a href="#/safe_before_2017-2018?id=ep-23-01-2012">23.01.2012 — Андрей, Челябинск (20 000 рублей)</a></li>
+</ul>
+</details>
+
 <div class="episode-card">
 <div class="episode-header">
 
@@ -155,6 +190,13 @@
 </div>
 
 ## Сезон 2012-2013
+
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>2</strong> эпизода</span>
+<span class="ss-stat">🏆 <strong>0</strong> побед</span>
+<span class="ss-stat">💰 <strong>0</strong> рублей выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
 
 <div class="episode-card">
 <div class="episode-header">
@@ -221,6 +263,13 @@
 </div>
 
 ## Сезон 2013-2014
+
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>4</strong> эпизода</span>
+<span class="ss-stat">🏆 <strong>0</strong> побед</span>
+<span class="ss-stat">💰 <strong>0</strong> рублей выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
 
 <div class="episode-card">
 <div class="episode-header">
@@ -360,6 +409,21 @@
 
 ## Сезон 2014-2015
 
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>5</strong> эпизодов</span>
+<span class="ss-stat">🏆 <strong>2</strong> победы</span>
+<span class="ss-stat">💰 <strong>90 000</strong> рублей выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
+
+<details class="season-wins">
+<summary>Победители сезона (2)</summary>
+<ul>
+<li><a href="#/safe_before_2017-2018?id=ep-19-08-2014">19.08.2014 — Владимир, Анапа (83 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-22-09-2014">22.09.2014 — Дмитрий (7 000 рублей)</a></li>
+</ul>
+</details>
+
 <div class="episode-card">
 <div class="episode-header">
 
@@ -489,6 +553,23 @@
 </div>
 
 ## Сезон 2015-2016
+
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>11</strong> эпизодов</span>
+<span class="ss-stat">🏆 <strong>4</strong> победы</span>
+<span class="ss-stat">💰 <strong>150 000</strong> рублей выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
+
+<details class="season-wins">
+<summary>Победители сезона (4)</summary>
+<ul>
+<li><a href="#/safe_before_2017-2018?id=ep-23-12-2015">23.12.2015 — Андрей, Киров (7 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-21-01-2016">21.01.2016 — Павел, Собинка (17 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-04-03-2016">04.03.2016 — Кирилл, Ярославль (93 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-19-05-2016">19.05.2016 — Дмитрий, Ставрополь (33 000 рублей)</a></li>
+</ul>
+</details>
 
 <div class="episode-card">
 <div class="episode-header">
@@ -768,6 +849,37 @@
 </div>
 
 ## Сезон 2016-2017
+
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>83</strong> эпизода</span>
+<span class="ss-stat">🏆 <strong>18</strong> побед</span>
+<span class="ss-stat">💰 <strong>424 000</strong> рублей выиграно</span>
+<span class="ss-stat">⭐ <strong>9</strong> гостей</span>
+</div>
+
+<details class="season-wins">
+<summary>Победители сезона (18)</summary>
+<ul>
+<li><a href="#/safe_before_2017-2018?id=ep-21-07-2016">21.07.2016 — Андрей, Брянск (90 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-02-08-2016">02.08.2016 — Мира, Смоленск (10 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-13-09-2016">13.09.2016 — Анна, Вологда (3 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-08-11-2016">08.11.2016 — Лада, Кострома (87 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-22-11-2016">22.11.2016 — Айгуль, Набережные Челны (33 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-09-12-2016">09.12.2016 — Игорь, Луга (3 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-25-01-2017">25.01.2017 — Оксана, Санкт-Петербург (83 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-26-01-2017">26.01.2017 — Галина, Невинномысск (3 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-22-03-2017">22.03.2017 — Дмитрий, Москва (3 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-24-03-2017">24.03.2017 — Евгения, Ярославль (7 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-06-04-2017">06.04.2017 — Александр, Сергиев Посад (27 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-10-04-2017">10.04.2017 — Олеся (7 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-11-05-2017">11.05.2017 — Роман, Краснодар (7 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-19-05-2017">19.05.2017 — Георгий, Краснодар (7 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-26-05-2017">26.05.2017 — Юрий, Самара (17 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-06-06-2017">06.06.2017 — Никита, Липецк (23 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-08-06-2017">08.06.2017 — Павел, Омск (7 000 рублей)</a></li>
+<li><a href="#/safe_before_2017-2018?id=ep-20-06-2017">20.06.2017 — Дмитрий, Казань (7 000 рублей)</a></li>
+</ul>
+</details>
 
 <div class="episode-card">
 <div class="episode-header">

@@ -5,6 +5,13 @@
 
 ## Сезон 2024
 
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>7</strong> эпизодов</span>
+<span class="ss-stat">🏆 <strong>0</strong> побед</span>
+<span class="ss-stat">💰 <strong>0</strong> тенге выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
+
 <div class="episode-card">
 <div class="episode-header">
 
@@ -230,6 +237,36 @@
 </div>
 
 ## Сезон 2024—2025
+
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>153</strong> эпизода</span>
+<span class="ss-stat">🏆 <strong>17</strong> побед</span>
+<span class="ss-stat">💰 <strong>695 000</strong> тенге выиграно</span>
+<span class="ss-stat">⭐ <strong>12</strong> гостей</span>
+</div>
+
+<details class="season-wins">
+<summary>Победители сезона (17)</summary>
+<ul>
+<li><a href="#/BK-reviews?id=ep-02-09-2024">02.09.2024 — Динара, Алматы (55 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-05-09-2024">05.09.2024 — Алексей, Семей (15 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-10-09-2024">10.09.2024 — Игорь, Костанай (15 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-26-09-2024">26.09.2024 — Вадим, Тараз (60 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-07-10-2024">07.10.2024 — Ульяна, Караганда (35 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-08-10-2024">08.10.2024 — Ерлан, Костанай (5 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-14-10-2024">14.10.2024 — Айнура, Конаев (20 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-04-11-2024">04.11.2024 — Бек, Семей (70 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-09-12-2024">09.12.2024 — Кристина, Каскелен (120 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-11-12-2024">11.12.2024 — Карина, Караганда (10 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-27-12-2024">27.12.2024 — Берик, Талдыкорган (55 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-06-05-2025">06.05.2025 — Айнаш, Талдыкорган (60 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-08-05-2025">08.05.2025 — Марина, Актобе (5 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-27-06-2025">27.06.2025 — Николай, Уральск (135 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-30-06-2025">30.06.2025 — Анвар, Актобе (5 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-04-07-2025">04.07.2025 — Даурен, Атырау (20 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-09-07-2025">09.07.2025 — Владислав, Павлодар (10 000 тенге)</a></li>
+</ul>
+</details>
 
 <div class="episode-card">
 <div class="episode-header">
@@ -5141,6 +5178,32 @@
 </div>
 
 ## Сезон 2025–2026
+
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>149</strong> эпизодов</span>
+<span class="ss-stat">🏆 <strong>13</strong> побед</span>
+<span class="ss-stat">💰 <strong>840 000</strong> тенге выиграно</span>
+<span class="ss-stat">⭐ <strong>15</strong> гостей</span>
+</div>
+
+<details class="season-wins">
+<summary>Победители сезона (13)</summary>
+<ul>
+<li><a href="#/BK-reviews?id=ep-02-09-2025">02.09.2025 — Александр, Костанай (85 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-22-09-2025">22.09.2025 — Арман, Усть-Каменогорск (70 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-08-10-2025">08.10.2025 — Наталья, Павлодар (60 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-09-10-2025">09.10.2025 — Надежда, Астана (5 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-20-10-2025">20.10.2025 — Жазира, Астана (25 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-24-10-2025">24.10.2025 — Руслан, Алматы (20 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-19-01-2026">19.01.2026 — Виктория, Алматы (215 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-10-02-2026">10.02.2026 — Николай, Астана (75 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-26-02-2026">26.02.2026 — Мирам, Костанай (60 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-02-03-2026">02.03.2026 — Евгений, Костанай (10 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-11-03-2026">11.03.2026 — Олжас, Астана (15 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-16-04-2026">16.04.2026 — Даулет, Кокшетау (110 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-15-05-2026">15.05.2026 — Наталья, Астана (90 000 тенге)</a></li>
+</ul>
+</details>
 
 <div class="episode-card">
 <div class="episode-header">
