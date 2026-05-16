@@ -7681,6 +7681,2250 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 19.01.2026: Виктория, Алматы (215 000 тенге) :id=ep-19-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как дословно переводится с английского слово «попкорн»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Взорвавшаяся кукуруза</span>
+<span class="opt"><i>2</i>: Хлопающее зерно</span>
+<span class="opt"><i>3</i>: Жареная кукуруза</span>
+</p>
+<p class="question">Вопрос 2: Кто изобрел микроволновую печь благодаря попкорну?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Томас Эдисон</span>
+<span class="opt"><i>2</i>: Перси Спенсер</span>
+<span class="opt"><i>3</i>: Чарльз Таунс</span>
+</p>
+<p class="question">Вопрос 3: В каком году попкорн появился в Казахстане?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 1980 году</span>
+<span class="opt"><i>2</i>: В 1990 году</span>
+<span class="opt"><i>3</i>: В 2002 году</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 20.01.2026: Константин, Петропавловск (5 000 тенге) :id=ep-20-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто считается одним из первых знаменитых диджеев в США?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кул Герк</span>
+<span class="opt"><i>2</i>: Дэвид Гетта</span>
+<span class="opt"><i>3</i>: Фрэнки Наклз</span>
+</p>
+<p class="question">Вопрос 2: Какой современный американский диджей известен своими эффектными шоу с тортами и пиротехникой на сцене?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Стив Аоки</span>
+<span class="opt"><i>2</i>: Дипло</span>
+<span class="opt"><i>3</i>: Deadmau5</span>
+</p>
+<p class="question">Вопрос 3: Какой контроллер считается первым диджейским контроллером в современном понимании?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Pioneer DDJ-400</span>
+<span class="opt"><i>2</i>: Vestax VCI-100</span>
+<span class="opt"><i>3</i>: Hercules DJ Console</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 21.01.2026: Малик, Караганда (10 000 тенге) :id=ep-21-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: 21 января 1985 года впервые выступила музыкальная группа, идею названия которой предложила не сами участники, а их секретарша. Свой прощальный концерт группа дала 21 июня 2003 года в Берлине. О ком идет речь?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Pet Shop Boys</span>
+<span class="opt"><i>2</i>: Modern Talking</span>
+<span class="opt"><i>3</i>: Bon Jovi</span>
+</p>
+<p class="question">Вопрос 2: Сколько раз в день нужно обниматься, чтобы укрепить иммунитет, снизить стресс и улучшить самочувствие?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 4</span>
+<span class="opt"><i>2</i>: 8</span>
+<span class="opt"><i>3</i>: 12</span>
+</p>
+<p class="question">Вопрос 3: Сколько лет исполнилось норвежской принцессе Ингрид Александре?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 22 года</span>
+<span class="opt"><i>2</i>: 25 лет</span>
+<span class="opt"><i>3</i>: 30 лет</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 22.01.2026: Дархан, Кызылорда (15 000 тенге) :id=ep-22-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая птица считается национальным символом в Великобритании?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Орёл</span>
+<span class="opt"><i>2</i>: Малиновка</span>
+<span class="opt"><i>3</i>: Лебедь</span>
+</p>
+<p class="question">Вопрос 2: Какая птица может летать выше всех?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Африканский сип</span>
+<span class="opt"><i>2</i>: Гриф</span>
+<span class="opt"><i>3</i>: Журавль</span>
+</p>
+<p class="question">Вопрос 3: Какая из перечисленных птиц занесена в Красную книгу Казахстана?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кумай</span>
+<span class="opt"><i>2</i>: Кряква</span>
+<span class="opt"><i>3</i>: Чёрный жаворонок</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 23.01.2026: Александра, Павлодар (20 000 тенге) :id=ep-23-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В какой стране появился первый зафиксированный рецепт пирога?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В Египте</span>
+<span class="opt"><i>2</i>: Во Франции</span>
+<span class="opt"><i>3</i>: В Великобритании</span>
+</p>
+<p class="question">Вопрос 2: Какой цвет вместо зелёного использовали в ранних светофорах в Японии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Белый</span>
+<span class="opt"><i>2</i>: Синий</span>
+<span class="opt"><i>3</i>: Оранжевый</span>
+</p>
+<p class="question">Вопрос 3: В каком городе находится улица шириной 70 сантиметров со светофором для пешеходов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Амстердам</span>
+<span class="opt"><i>2</i>: Прага</span>
+<span class="opt"><i>3</i>: Лондон</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 26.01.2026: Андрей, Петропавловск (25 000 тенге) :id=ep-26-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какое событие связано с Днём Австралии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Основание Сиднея</span>
+<span class="opt"><i>2</i>: Провозглашение независимости</span>
+<span class="opt"><i>3</i>: Прибытие первого флота в Сиднейскую бухту</span>
+</p>
+<p class="question">Вопрос 2: Какая птица считается национальным символом Австралии и часто появляется на мероприятиях Дня Австралии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Лирохвост</span>
+<span class="opt"><i>2</i>: Какаду</span>
+<span class="opt"><i>3</i>: Кукабарра</span>
+</p>
+<p class="question">Вопрос 3: Какая из этих певиц родом из Австралии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Элли Голдинг</span>
+<span class="opt"><i>2</i>: Лана Дель Рей</span>
+<span class="opt"><i>3</i>: Натали Имбрулья</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 27.01.2026: Айдар, Алматы (30 000 тенге) :id=ep-27-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что, согласно распространённому мнению, изобрёл британский водопроводчик Томас Крэппер?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ванна</span>
+<span class="opt"><i>2</i>: Унитаз</span>
+<span class="opt"><i>3</i>: Раковина</span>
+</p>
+<p class="question">Вопрос 2: Сколько стоил один из первых бытовых катушечных магнитофонов Ampex Model 200, продажи которого начались в США 27 января 1948 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 50 долларов</span>
+<span class="opt"><i>2</i>: 150 долларов</span>
+<span class="opt"><i>3</i>: 500 долларов</span>
+</p>
+<p class="question">Вопрос 3: В каком районе Тбилиси находится памятник Святой Нино?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Дигоми</span>
+<span class="opt"><i>2</i>: Авлабари</span>
+<span class="opt"><i>3</i>: Дидубе</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 28.01.2026: Надежда, Костанай (35 000 тенге) :id=ep-28-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой был первый набор LEGO, выпущенный для продажи?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Соединяющиеся кирпичики</span>
+<span class="opt"><i>2</i>: Замок LEGO</span>
+<span class="opt"><i>3</i>: Мини-фигурка LEGO</span>
+</p>
+<p class="question">Вопрос 2: Кто считается главным символом поп-арта?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Энди Уорхол</span>
+<span class="opt"><i>2</i>: Джефф Кунс</span>
+<span class="opt"><i>3</i>: Бэнкси</span>
+</p>
+<p class="question">Вопрос 3: В каком году появилось понятие «шелфи» в библиотечном контексте?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 2016 году</span>
+<span class="opt"><i>2</i>: В 2019 году</span>
+<span class="opt"><i>3</i>: В 2014 году</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 29.01.2026: Максут, Астана (40 000 тенге) :id=ep-29-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как назывался автомобиль, запатентованный в Германии 29 января 1886 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Daimler Reitwagen</span>
+<span class="opt"><i>2</i>: Benz Victoria</span>
+<span class="opt"><i>3</i>: Benz Patent-Motorwagen</span>
+</p>
+<p class="question">Вопрос 2: Как называется самая южная точка Южной Америки, открытая 29 января 1616 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мыс Фроуард</span>
+<span class="opt"><i>2</i>: Мыс Горн</span>
+<span class="opt"><i>3</i>: Мыс Магеллана</span>
+</p>
+<p class="question">Вопрос 3: Кому из перечисленных артистов сегодня исполняется 44 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сергею Лазареву</span>
+<span class="opt"><i>2</i>: Адаму Ламберту</span>
+<span class="opt"><i>3</i>: Себастьяну Стэну</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 30.01.2026: Гульмира, Усть-Каменогорск (45 000 тенге) :id=ep-30-01-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Когда отмечается день рождения Снегурочки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 4 февраля</span>
+<span class="opt"><i>2</i>: 4 марта</span>
+<span class="opt"><i>3</i>: 4 апреля</span>
+</p>
+<p class="question">Вопрос 2: Кто создал самый широкий парик в мире (3,65 метра), попавший в Книгу рекордов Гиннесса в 2024 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Лаверн Джонсон</span>
+<span class="opt"><i>2</i>: Ченеду Океке</span>
+<span class="opt"><i>3</i>: Хелен Уильямс</span>
+</p>
+<p class="question">Вопрос 3: Как назывались австрийские рогалики XIII века в форме полумесяца, ставшие прообразом круассана?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кипфель</span>
+<span class="opt"><i>2</i>: Бриошь</span>
+<span class="opt"><i>3</i>: Кайзерброд</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 02.02.2026: Рафик, Алматы (50 000 тенге) :id=ep-02-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: На каком острове, согласно книге, жил Робинзон Крузо?</p>
+<p class="options">
+<span class="opt"><i>1</i>: На Карибском острове, где раньше прятались пираты</span>
+<span class="opt"><i>2</i>: На острове Тортуга у берегов Гаити</span>
+<span class="opt"><i>3</i>: На необитаемом острове у берегов Америки, близ устья реки Ориноко</span>
+</p>
+<p class="question">Вопрос 2: Какой музыкальный инструмент часто используется в гавайском танце хула?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Гитара</span>
+<span class="opt"><i>2</i>: Ипу</span>
+<span class="opt"><i>3</i>: Пуили</span>
+</p>
+<p class="question">Вопрос 3: Каким животным в США и Канаде заменили ежа в День ежа?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Бобр</span>
+<span class="opt"><i>2</i>: Сурок</span>
+<span class="opt"><i>3</i>: Енот</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 03.02.2026: Наталья, Астана (55 000 тенге) :id=ep-03-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой известный художник использовал баклажан в своих натюрмортах?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Поль Сезанн</span>
+<span class="opt"><i>2</i>: Пабло Пикассо</span>
+<span class="opt"><i>3</i>: Джорджо Моранди</span>
+</p>
+<p class="question">Вопрос 2: Кто считается первой женщиной-врачом в современной истории?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Флоренс Найтингейл</span>
+<span class="opt"><i>2</i>: Элизабет Блэквелл</span>
+<span class="opt"><i>3</i>: Лейла Денмарк</span>
+</p>
+<p class="question">Вопрос 3: Кому принадлежало самое маленькое обручальное кольцо в мире?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Марии Стюарт</span>
+<span class="opt"><i>2</i>: Эмили Дэвис</span>
+<span class="opt"><i>3</i>: Шарлотте Уилсон</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 04.02.2026: Дмитрий, Павлодар (60 000 тенге) :id=ep-04-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как звучал самый первый пост в Facebook?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Данные о первом посте потеряны со временем</span>
+<span class="opt"><i>2</i>: Hello world</span>
+<span class="opt"><i>3</i>: Welcome to Facebook</span>
+</p>
+<p class="question">Вопрос 2: Как называлась программа Марка Цукерберга, которая анализировала музыкальные предпочтения пользователей?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Music Mind</span>
+<span class="opt"><i>2</i>: Synapse</span>
+<span class="opt"><i>3</i>: Sound Map</span>
+</p>
+<p class="question">Вопрос 3: Голос какого актёра звучит в электронном дворецком в доме Марка Цукерберга?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Роберт Дауни-младший</span>
+<span class="opt"><i>2</i>: Том Хэнкс</span>
+<span class="opt"><i>3</i>: Морган Фримен</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 06.02.2026: Анжелика, Караганда (65 000 тенге) :id=ep-06-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кого называют отцом миксологии и первым звёздным барменом в истории?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мартин Перес</span>
+<span class="opt"><i>2</i>: Феличи Капаса</span>
+<span class="opt"><i>3</i>: Джерри Томас</span>
+</p>
+<p class="question">Вопрос 2: Где жевательная резинка официально запрещена к продаже?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В Китае</span>
+<span class="opt"><i>2</i>: В Сингапуре</span>
+<span class="opt"><i>3</i>: В Индонезии</span>
+</p>
+<p class="question">Вопрос 3: Какой объём двигателя в кубических сантиметрах у автомобиля ведущей?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 1600</span>
+<span class="opt"><i>2</i>: 1780</span>
+<span class="opt"><i>3</i>: 1480</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 09.02.2026: Руслан, Астана (70 000 тенге) :id=ep-09-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как изначально назывался волейбол?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Эйрбол</span>
+<span class="opt"><i>2</i>: Минтонет</span>
+<span class="opt"><i>3</i>: Нетбол</span>
+</p>
+<p class="question">Вопрос 2: В каком году волейбол стал олимпийским видом спорта?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 1952 году</span>
+<span class="opt"><i>2</i>: В 1964 году</span>
+<span class="opt"><i>3</i>: В 1972 году</span>
+</p>
+<p class="question">Вопрос 3: Кто из глав США настолько заморачивался, что каждый день приказывал осматривать и чистить зубы своим животным?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джон Адамс</span>
+<span class="opt"><i>2</i>: Джордж Вашингтон</span>
+<span class="opt"><i>3</i>: Авраам Линкольн</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 10.02.2026: Николай, Астана (75 000 тенге) :id=ep-10-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Слово «утюг» состоит из двух древнетюркских слов: «ут» (огонь) и «юг». Как переводится «юг»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Положить</span>
+<span class="opt"><i>2</i>: Нагревать</span>
+<span class="opt"><i>3</i>: Гладить</span>
+</p>
+<p class="question">Вопрос 2: Как называлась первая серия культового американского мультфильма «Том и Джерри», вышедшая 10 февраля 1940 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кот на миллион</span>
+<span class="opt"><i>2</i>: Пугливый кот</span>
+<span class="opt"><i>3</i>: Кот получает пинка</span>
+</p>
+<p class="question">Вопрос 3: Сколько карт используется в карточной игре крибидж?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 36</span>
+<span class="opt"><i>2</i>: 52</span>
+<span class="opt"><i>3</i>: 54</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 12.02.2026: Влад, Уральск (10 000 тенге) :id=ep-12-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто подтолкнул Чарльза Дарвина опубликовать свою теорию?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Его жена Эмма Веджвуд</span>
+<span class="opt"><i>2</i>: Другой учёный Альфред Рассел Уоллес</span>
+<span class="opt"><i>3</i>: Королева Великобритании Виктория</span>
+</p>
+<p class="question">Вопрос 2: Какой ещё праздник отмечается 12 февраля, в день рождения Дарвина?</p>
+<p class="options">
+<span class="opt"><i>1</i>: День эволюции</span>
+<span class="opt"><i>2</i>: День науки и гуманизма</span>
+<span class="opt"><i>3</i>: День биологии</span>
+</p>
+<p class="question">Вопрос 3: Сколько детей было у Чарльза Дарвина?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 6</span>
+<span class="opt"><i>2</i>: 8</span>
+<span class="opt"><i>3</i>: 10</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 13.02.2026: Александр, Астана (15 000 тенге) :id=ep-13-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что в переводе с турецкого означает слово «донер»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Острый</span>
+<span class="opt"><i>2</i>: Завёрнутый</span>
+<span class="opt"><i>3</i>: Вращающийся</span>
+</p>
+<p class="question">Вопрос 2: Какой фильм братья Люмьер показали первым, запатентовав кинематограф 13 февраля 1895 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Прибытие поезда на вокзал Ла-Сьота</span>
+<span class="opt"><i>2</i>: Человек с киноаппаратом</span>
+<span class="opt"><i>3</i>: Большой аттракцион</span>
+</p>
+<p class="question">Вопрос 3: Кто считается одним из изобретателей радио?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Гульельмо Маркони</span>
+<span class="opt"><i>2</i>: Александр Грэхем Белл</span>
+<span class="opt"><i>3</i>: Томас Эдисон</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 16.02.2026: Максим, Алматы (20 000 тенге) :id=ep-16-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называлась крепость, с которой началась история города Верного (ныне Алматы)?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Семиреченская крепость</span>
+<span class="opt"><i>2</i>: Заилийское укрепление</span>
+<span class="opt"><i>3</i>: Вернинское укрепление</span>
+</p>
+<p class="question">Вопрос 2: Что нужно делать с ананасом, чтобы ускорить его созревание?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Хранить в холоде и темноте</span>
+<span class="opt"><i>2</i>: Держать рядом с другими фруктами</span>
+<span class="opt"><i>3</i>: Поливать водой с сахаром</span>
+</p>
+<p class="question">Вопрос 3: В каком регионе Франции впервые начали выращивать сорт винограда Сира?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Бордо</span>
+<span class="opt"><i>2</i>: Шампань</span>
+<span class="opt"><i>3</i>: Рона</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 17.02.2026: Самрат, Алматы (25 000 тенге) :id=ep-17-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется китайская традиция дарить детям красные конверты с деньгами на Новый год?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Хунбао</span>
+<span class="opt"><i>2</i>: Чуньюнь</span>
+<span class="opt"><i>3</i>: Лондань</span>
+</p>
+<p class="question">Вопрос 2: Кому принадлежит мировой рекорд по высоте подбрасывания блина на сковороде?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Доминик Кузакри</span>
+<span class="opt"><i>2</i>: Ральф Лауэ</span>
+<span class="opt"><i>3</i>: Андрей Смирнов</span>
+</p>
+<p class="question">Вопрос 3: С чем капуста входит в одно семейство?</p>
+<p class="options">
+<span class="opt"><i>1</i>: С горчицей</span>
+<span class="opt"><i>2</i>: С сельдереем</span>
+<span class="opt"><i>3</i>: С руколой</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 18.02.2026: Ислам, Астана (30 000 тенге) :id=ep-18-02-2026
+
+</div>
+<div class="episode-body">
+<p class="guest">Звёздный гость: <i>Алишер Егембердиев</i></p>
+<p class="question">Вопрос 1: От какого языка произошло слово «пельмень»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: От китайского</span>
+<span class="opt"><i>2</i>: От татарского</span>
+<span class="opt"><i>3</i>: От удмуртского</span>
+</p>
+<p class="question">Вопрос 2: Кто придумал слово «батарея» для обозначения источника тока?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Алессандро Вольта</span>
+<span class="opt"><i>2</i>: Томас Эдисон</span>
+<span class="opt"><i>3</i>: Бенджамин Франклин</span>
+</p>
+<p class="question">Вопрос 3: Сколько струн у классической гитары?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 4</span>
+<span class="opt"><i>2</i>: 6</span>
+<span class="opt"><i>3</i>: 8</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 19.02.2026: Айнаш, Алматы (35 000 тенге) :id=ep-19-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется боязнь определённого цвета?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Хромофобия</span>
+<span class="opt"><i>2</i>: Пигментофобия</span>
+<span class="opt"><i>3</i>: Колоритофобия</span>
+</p>
+<p class="question">Вопрос 2: В каком городе впервые был публично продемонстрирован фонограф Томаса Эдисона?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В Нью-Йорке</span>
+<span class="opt"><i>2</i>: В Менло-Парке</span>
+<span class="opt"><i>3</i>: В Чикаго</span>
+</p>
+<p class="question">Вопрос 3: Какую фразу Томас Эдисон впервые записал на фонограф?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Hello, world</span>
+<span class="opt"><i>2</i>: Mary had a little lamb</span>
+<span class="opt"><i>3</i>: God save the Queen</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 20.02.2026: Нурлабек, Караганда (40 000 тенге) :id=ep-20-02-2026
+
+</div>
+<div class="episode-body">
+<p class="guest">Звёздный гость: <i>Луина</i></p>
+<p class="question">Вопрос 1: В каком городе 20 февраля 1988 года состоялся первый концерт рок-группы «Агата Кристи»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В Краснодаре</span>
+<span class="opt"><i>2</i>: В Свердловске</span>
+<span class="opt"><i>3</i>: В Уфе</span>
+</p>
+<p class="question">Вопрос 2: Кто из этих знаменитостей отмечает день рождения 20 февраля?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Рианна</span>
+<span class="opt"><i>2</i>: Дрю Бэрримор</span>
+<span class="opt"><i>3</i>: Ева Лонгория</span>
+</p>
+<p class="question">Вопрос 3: Как зовут собак певицы Луины?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Принц и Буш</span>
+<span class="opt"><i>2</i>: Джордж и Луи</span>
+<span class="opt"><i>3</i>: Кайрат и Нуртас</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 23.02.2026: Виталий, Павлодар (45 000 тенге) :id=ep-23-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: С каким счётом Елена Рыбакина обыграла Арину Соболенко в финале Australian Open?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 4-6, 6-4, 4-6</span>
+<span class="opt"><i>2</i>: 6-4, 4-6, 4-6</span>
+<span class="opt"><i>3</i>: 6-4, 4-6, 6-4</span>
+</p>
+<p class="question">Вопрос 2: Как раньше называлась арена Australian Open?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сидней-парк</span>
+<span class="opt"><i>2</i>: Флиндерс-парк</span>
+<span class="opt"><i>3</i>: Виктория-арена</span>
+</p>
+<p class="question">Вопрос 3: Кто стал самым первым победителем Чемпионата Австралазии в 1905 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Норман Брукс</span>
+<span class="opt"><i>2</i>: Родни Хит</span>
+<span class="opt"><i>3</i>: Энтони Уолдинг</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 24.02.2026: Жадра, Уральск (50 000 тенге) :id=ep-24-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто организовал первую европейскую лотерею?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Луиджи Медичи</span>
+<span class="opt"><i>2</i>: Маргарет Ван Эйк</span>
+<span class="opt"><i>3</i>: Анна Бургундская</span>
+</p>
+<p class="question">Вопрос 2: Почему на флаге Мексики орёл сидит на кактусе?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Это символ пустыни</span>
+<span class="opt"><i>2</i>: Это древняя ацтекская легенда</span>
+<span class="opt"><i>3</i>: Это национальная птица</span>
+</p>
+<p class="question">Вопрос 3: Как называется герб в центре флага Мексики?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сентра Агила Империал</span>
+<span class="opt"><i>2</i>: Эскудо Насьональ</span>
+<span class="opt"><i>3</i>: Орден де ла Серпьенте Ацтека</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 25.02.2026: Милан, Астана (55 000 тенге) :id=ep-25-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как переводится латинское слово «spiritus», от которого произошло слово «спирт»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Пламя</span>
+<span class="opt"><i>2</i>: Пар</span>
+<span class="opt"><i>3</i>: Дух</span>
+</p>
+<p class="question">Вопрос 2: Какой цветок изображён в центре флага Республики Башкортостан?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Курай</span>
+<span class="opt"><i>2</i>: Соцветие таволги</span>
+<span class="opt"><i>3</i>: Азалия</span>
+</p>
+<p class="question">Вопрос 3: Какая казахстанская актриса, снимавшаяся в «Рекетире», отмечает сегодня день рождения?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Асель Сагатова</span>
+<span class="opt"><i>2</i>: Жанар Дугалова</span>
+<span class="opt"><i>3</i>: Аружан Джазильбекова</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 26.02.2026: Мирам, Костанай (60 000 тенге) :id=ep-26-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как переводится немецкое слово «шлос», от которого произошло слово «слесарь»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Замок</span>
+<span class="opt"><i>2</i>: Ключ</span>
+<span class="opt"><i>3</i>: Дверь</span>
+</p>
+<p class="question">Вопрос 2: Как официально называется профессия стекломойщика небоскрёбов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Техник по обслуживанию фасадов зданий</span>
+<span class="opt"><i>2</i>: Промышленный альпинист</span>
+<span class="opt"><i>3</i>: Монтажник фасадов</span>
+</p>
+<p class="question">Вопрос 3: Какой из этих рекордов, связанных с фисташками, действительно зарегистрирован в Книге рекордов Гиннесса?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Рекорд по самой большой фисташковой скульптуре</span>
+<span class="opt"><i>2</i>: Рекорд по сбору фисташек</span>
+<span class="opt"><i>3</i>: Рекорд по скоростному поеданию фисташек</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 27.02.2026: Габид, [НЕ РАСПОЗНАНО] (5 000 тенге) :id=ep-27-02-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: [НЕ РАСПОЗНАНО]?</p>
+<p class="options">
+<span class="opt"><i>1</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>3</i>: [НЕ РАСПОЗНАНО]</span>
+</p>
+<p class="question">Вопрос 2: [НЕ РАСПОЗНАНО]?</p>
+<p class="options">
+<span class="opt"><i>1</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>3</i>: [НЕ РАСПОЗНАНО]</span>
+</p>
+<p class="question">Вопрос 3: [НЕ РАСПОЗНАНО]?</p>
+<p class="options">
+<span class="opt"><i>1</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>3</i>: [НЕ РАСПОЗНАНО]</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>?</i>, <i>?</i>, <i>?</i></span>
+<span>Правильные ответы: <i>?</i>, <i>?</i>, <i>?</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 02.03.2026: Евгений, Костанай (10 000 тенге) :id=ep-02-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В какой стране впервые начали отмечать Всемирный день комплимента?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Франция</span>
+<span class="opt"><i>2</i>: Италия</span>
+<span class="opt"><i>3</i>: Нидерланды</span>
+</p>
+<p class="question">Вопрос 2: Из какого дерева чаще всего делают современные спички?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Осина</span>
+<span class="opt"><i>2</i>: Дуб</span>
+<span class="opt"><i>3</i>: Сосна</span>
+</p>
+<p class="question">Вопрос 3: Альбом какой группы был записан на первом в мире коммерческом компакт-диске, выпущенном 17 августа 1982 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: ABBA</span>
+<span class="opt"><i>2</i>: Queen</span>
+<span class="opt"><i>3</i>: a-ha</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 03.03.2026: Аман, Павлодар (5 000 тенге) :id=ep-03-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как расшифровывается аббревиатура PEN в названии Международного PEN-клуба?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Poetry, Essay, Novel</span>
+<span class="opt"><i>2</i>: People, Education, Nature</span>
+<span class="opt"><i>3</i>: Peace, Equality, Nation</span>
+</p>
+<p class="question">Вопрос 2: Сколько лучей у солнца на флаге Кыргызстана?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 30</span>
+<span class="opt"><i>2</i>: 40</span>
+<span class="opt"><i>3</i>: 50</span>
+</p>
+<p class="question">Вопрос 3: Что делают с куклами Хинанингё после японского праздника девочек Хинамацури?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Убирают сразу</span>
+<span class="opt"><i>2</i>: Дарят родственникам</span>
+<span class="opt"><i>3</i>: Выставляют на улицу</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 04.03.2026: Асель, Усть-Каменогорск (10 000 тенге) :id=ep-04-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой микрофон чаще всего используют в студиях на радио?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Конденсаторный</span>
+<span class="opt"><i>2</i>: Динамический гиперкардиоидный</span>
+<span class="opt"><i>3</i>: Электретный микрофон с мембраной</span>
+</p>
+<p class="question">Вопрос 2: В какой стране появились самые первые очки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В Китае</span>
+<span class="opt"><i>2</i>: В Италии</span>
+<span class="opt"><i>3</i>: Во Франции</span>
+</p>
+<p class="question">Вопрос 3: Как называются очки, которые держатся на носу с помощью зажимающей пружинки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Лорнет</span>
+<span class="opt"><i>2</i>: Монокль</span>
+<span class="opt"><i>3</i>: Пенсне</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 06.03.2026: Игорь, Костанай (5 000 тенге) :id=ep-06-03-2026
+
+</div>
+<div class="episode-body">
+<p class="guest">Звёздный гость: <i>Аида и Макс (группа «Тупик Фурманова»)</i></p>
+<p class="question">Вопрос 1: Как изначально назывался трек Мадины Садвакасовой «Гравитация», который слушатели Радио НС переименовали в прямом эфире?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Космос</span>
+<span class="opt"><i>2</i>: Galaxy</span>
+<span class="opt"><i>3</i>: Планета любви</span>
+</p>
+<p class="question">Вопрос 2: Сколько женщин работает на радиостанции Радио НС в Алматы?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 6</span>
+<span class="opt"><i>2</i>: 9</span>
+<span class="opt"><i>3</i>: 373</span>
+</p>
+<p class="question">Вопрос 3: Почему Международный день стоматолога отмечают именно 6 марта?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В этот день изобрели зубную пасту</span>
+<span class="opt"><i>2</i>: В этот день впервые применили анестезию</span>
+<span class="opt"><i>3</i>: В этот день запатентовали бормашину</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 10.03.2026: Гаухар, Алматы (10 000 тенге) :id=ep-10-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В какой древней стране волынка появилась раньше всего?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В Древнем Риме</span>
+<span class="opt"><i>2</i>: В Древнем Египте</span>
+<span class="opt"><i>3</i>: В Персии</span>
+</p>
+<p class="question">Вопрос 2: В какой стране появились первые в мире бумажные деньги?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В США</span>
+<span class="opt"><i>2</i>: В Китае</span>
+<span class="opt"><i>3</i>: Во Франции</span>
+</p>
+<p class="question">Вопрос 3: Какая страна первой в Европе начала официально печатать бумажные деньги?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Швеция</span>
+<span class="opt"><i>2</i>: Германия</span>
+<span class="opt"><i>3</i>: Италия</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 11.03.2026: Олжас, Астана (15 000 тенге) :id=ep-11-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется семья Ромео в трагедии Шекспира?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Лоренцо</span>
+<span class="opt"><i>2</i>: Капулетти</span>
+<span class="opt"><i>3</i>: Монтекки</span>
+</p>
+<p class="question">Вопрос 2: Какой персонаж служит источником юмора в трагедии «Ромео и Джульетта»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Бенволио</span>
+<span class="opt"><i>2</i>: Слуга Григорио</span>
+<span class="opt"><i>3</i>: Меркуцио</span>
+</p>
+<p class="question">Вопрос 3: Кем был Шекспир по профессии, кроме писателя?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Художником</span>
+<span class="opt"><i>2</i>: Актёром</span>
+<span class="opt"><i>3</i>: Музыкантом</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 12.03.2026: Степан, Семей (5 000 тенге) :id=ep-12-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что делали с ананасом в Европе в XVIII веке, когда он был большой роскошью?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Использовали как лекарство</span>
+<span class="opt"><i>2</i>: Сдавали в аренду</span>
+<span class="opt"><i>3</i>: Хранили только в королевских дворцах</span>
+</p>
+<p class="question">Вопрос 2: Кто исполнитель вирусной песни 2016 года «Pen-Pineapple-Apple-Pen»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Юки Оно</span>
+<span class="opt"><i>2</i>: Кенжи Ямамото</span>
+<span class="opt"><i>3</i>: Даймао Касака</span>
+</p>
+<p class="question">Вопрос 3: Какой известный певец отметил видео «Pen-Pineapple-Apple-Pen» и сделал его мировым хитом?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Снуп Догг</span>
+<span class="opt"><i>2</i>: Джастин Бибер</span>
+<span class="opt"><i>3</i>: 50 Cent</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 13.03.2026: Игорь, Актау (10 000 тенге) :id=ep-13-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется состояние кратковременной остановки дыхания во сне?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Апноэ</span>
+<span class="opt"><i>2</i>: Инсомния</span>
+<span class="opt"><i>3</i>: Нарколепсия</span>
+</p>
+<p class="question">Вопрос 2: Какой метод чаще всего используют для исследования сна?</p>
+<p class="options">
+<span class="opt"><i>1</i>: ЭЭГ</span>
+<span class="opt"><i>2</i>: ПСГ</span>
+<span class="opt"><i>3</i>: МСГ</span>
+</p>
+<p class="question">Вопрос 3: Какая фаза сна считается самой глубокой и восстанавливающей?</p>
+<p class="options">
+<span class="opt"><i>1</i>: NREM</span>
+<span class="opt"><i>2</i>: N1/N2</span>
+<span class="opt"><i>3</i>: REM</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 16.03.2026: Санжар, Актобе (15 000 тенге) :id=ep-16-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой бренд выпустил первые массовые цветные карандаши для художников?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Faber-Castell</span>
+<span class="opt"><i>2</i>: Crayola</span>
+<span class="opt"><i>3</i>: Stabilo</span>
+</p>
+<p class="question">Вопрос 2: Какой бренд туши использует слоган «Драма для ваших ресниц»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Maybelline</span>
+<span class="opt"><i>2</i>: Dior</span>
+<span class="opt"><i>3</i>: Lancôme</span>
+</p>
+<p class="question">Вопрос 3: В каком году слово «селфи» официально добавили в Оксфордский словарь?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 2010</span>
+<span class="opt"><i>2</i>: В 2013</span>
+<span class="opt"><i>3</i>: В 2016</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 17.03.2026: Дмитрий, Караганда (20 000 тенге) :id=ep-17-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется устройство на подводной лодке, через которое можно наблюдать за поверхностью воды?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Радар</span>
+<span class="opt"><i>2</i>: Перископ</span>
+<span class="opt"><i>3</i>: Подводный обзорный телескоп</span>
+</p>
+<p class="question">Вопрос 2: Какое количество зрителей СТК «Сокол» может принять единовременно?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 50 тысяч человек</span>
+<span class="opt"><i>2</i>: 15 тысяч человек</span>
+<span class="opt"><i>3</i>: 110 тысяч человек</span>
+</p>
+<p class="question">Вопрос 3: Какой транспорт считается одним из самых популярных на Филиппинах?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Рикша</span>
+<span class="opt"><i>2</i>: Джипни</span>
+<span class="opt"><i>3</i>: Гондола</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 18.03.2026: Адилет, Боровое (25 000 тенге) :id=ep-18-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Когда отмечается Наадам, главный праздник в Монголии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В июле</span>
+<span class="opt"><i>2</i>: В сентябре</span>
+<span class="opt"><i>3</i>: В декабре</span>
+</p>
+<p class="question">Вопрос 2: Кто изобрёл первую электрическую бритву?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Александр Белл</span>
+<span class="opt"><i>2</i>: Элмер Сперри</span>
+<span class="opt"><i>3</i>: Джейкоб Шик</span>
+</p>
+<p class="question">Вопрос 3: Что испекли в ЮАР 18 марта 1988 года весом более тонны и попало в Книгу рекордов Гиннесса?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Буханку хлеба</span>
+<span class="opt"><i>2</i>: Торт</span>
+<span class="opt"><i>3</i>: Пиццу</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 26.03.2026: Даурен, Уральск (40 000 тенге) :id=ep-26-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Сколько ногтей нарастили за 4 часа во время рекорда по самому быстрому коллективному наращиванию ногтей в Дубае?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 158</span>
+<span class="opt"><i>2</i>: 182</span>
+<span class="opt"><i>3</i>: 206</span>
+</p>
+<p class="question">Вопрос 2: Кто привёз вафли в Америку и сделал их популярными?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Томас Джефферсон</span>
+<span class="opt"><i>2</i>: Авраам Линкольн</span>
+<span class="opt"><i>3</i>: Джордж Вашингтон</span>
+</p>
+<p class="question">Вопрос 3: Сколько машин и людей было в компании ведущей, поехавшей отдыхать на природу?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 29 машин и 130 человек</span>
+<span class="opt"><i>2</i>: 30 машин и 120 человек</span>
+<span class="opt"><i>3</i>: 29 машин и 145 человек</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 27.03.2026: Виктор, Уральск (45 000 тенге) :id=ep-27-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что говорят актёры театра друг другу перед выходом на сцену вместо прямого пожелания удачи?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ни пуха, ни пера</span>
+<span class="opt"><i>2</i>: Удачи</span>
+<span class="opt"><i>3</i>: Ни слова об удаче</span>
+</p>
+<p class="question">Вопрос 2: Что означает слово «театр» в переводе с греческого?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Игра</span>
+<span class="opt"><i>2</i>: История</span>
+<span class="opt"><i>3</i>: Зрелище</span>
+</p>
+<p class="question">Вопрос 3: Какой цвет традиционно считается опасным в театре?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Зелёный</span>
+<span class="opt"><i>2</i>: Чёрный</span>
+<span class="opt"><i>3</i>: Жёлтый</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 30.03.2026: Бауржан, Астана (50 000 тенге) :id=ep-30-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая компания первой выпустила полностью автоматическую стиральную машину с электрическим приводом?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Whirlpool</span>
+<span class="opt"><i>2</i>: Bendix</span>
+<span class="opt"><i>3</i>: Bosch</span>
+</p>
+<p class="question">Вопрос 2: Кто считается изобретателем современного фортепиано?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Антонио де Торрес</span>
+<span class="opt"><i>2</i>: Бартоломео Кристофори</span>
+<span class="opt"><i>3</i>: Уильям Ф. Людвиг</span>
+</p>
+<p class="question">Вопрос 3: В какой стране популярно блюдо идли — паровые лепёшки из ферментированного риса и чёрного маша?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Таиланд</span>
+<span class="opt"><i>2</i>: Индия</span>
+<span class="opt"><i>3</i>: Малайзия</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 31.03.2026: Людмила, Караганда (55 000 тенге) :id=ep-31-03-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Почему первый автомобиль марки «Мерседес-Бенц» получил название «Мерседес»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В честь жены конструктора</span>
+<span class="opt"><i>2</i>: В честь дочери дилера</span>
+<span class="opt"><i>3</i>: Это название города</span>
+</p>
+<p class="question">Вопрос 2: Кто совершил первую дальнюю поездку на автомобиле?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Карл Бенц</span>
+<span class="opt"><i>2</i>: Друг Карла, инженер</span>
+<span class="opt"><i>3</i>: Жена Карла</span>
+</p>
+<p class="question">Вопрос 3: Кто пытался продать Эйфелеву башню?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Виктор Люстиг</span>
+<span class="opt"><i>2</i>: Гюстав Эйфель</span>
+<span class="opt"><i>3</i>: Франсуа Пьер</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 01.04.2026: Сулейман, Астана (60 000 тенге) :id=ep-01-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Почему доллар называют «бакс»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В честь банкира</span>
+<span class="opt"><i>2</i>: Из-за мешков с деньгами</span>
+<span class="opt"><i>3</i>: Из-за оленьих шкур</span>
+</p>
+<p class="question">Вопрос 2: Что означает символ $ по одной из самых популярных версий?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Перекрещённые монеты</span>
+<span class="opt"><i>2</i>: Слияние букв U и S</span>
+<span class="opt"><i>3</i>: Аббревиатура PS (песо)</span>
+</p>
+<p class="question">Вопрос 3: Какая из перечисленных птиц может спать прямо в полёте?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Орёл</span>
+<span class="opt"><i>2</i>: Стриж</span>
+<span class="opt"><i>3</i>: Голубь</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 02.04.2026: Амангали, Алматы (65 000 тенге) :id=ep-02-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Почему Международный день детской книги отмечается именно 2 апреля?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В честь первой напечатанной сказки</span>
+<span class="opt"><i>2</i>: В день рождения Ханса Кристиана Андерсена</span>
+<span class="opt"><i>3</i>: В день открытия первой детской библиотеки</span>
+</p>
+<p class="question">Вопрос 2: Какая собака была самой тяжёлой в истории?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Английский мастиф Зорба</span>
+<span class="opt"><i>2</i>: Немецкая овчарка Барон</span>
+<span class="opt"><i>3</i>: Датский дог Шамгрет</span>
+</p>
+<p class="question">Вопрос 3: Кто из перечисленных красоток по знаку зодиака является Овном?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кристен Стюарт</span>
+<span class="opt"><i>2</i>: Натали Портман</span>
+<span class="opt"><i>3</i>: Наталия Рейра</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 03.04.2026: Алмат, Кызылорда (70 000 тенге) :id=ep-03-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто получил первый патент на кофемолку в Европе?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Французский изобретатель Абрахам Бакстон</span>
+<span class="opt"><i>2</i>: Немецкий мастер Фридрих Вильгельм</span>
+<span class="opt"><i>3</i>: Швейцарский инженер Иоганн Нойер</span>
+</p>
+<p class="question">Вопрос 2: Кому позвонил инженер Motorola Мартин Купер 3 апреля 1973 года, сделав первый в истории звонок по мобильному телефону?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Жене</span>
+<span class="opt"><i>2</i>: Бывшему начальнику</span>
+<span class="opt"><i>3</i>: Конкуренту</span>
+</p>
+<p class="question">Вопрос 3: Почему ткань «твид» получила такое название?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В честь города</span>
+<span class="opt"><i>2</i>: Это фамилия дизайнера</span>
+<span class="opt"><i>3</i>: Из-за ошибки в написании</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 06.04.2026: Айгерим, Кокшетау (75 000 тенге) :id=ep-06-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой знаменитый олимпийский девиз отражает идею Международного дня спорта на благо развития и мира?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Играй честно</span>
+<span class="opt"><i>2</i>: Быстрее, выше, сильнее</span>
+<span class="opt"><i>3</i>: Победа любой ценой</span>
+</p>
+<p class="question">Вопрос 2: В какой стране впервые были выведены сиамские кошки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Таиланд</span>
+<span class="opt"><i>2</i>: Китай</span>
+<span class="opt"><i>3</i>: Индия</span>
+</p>
+<p class="question">Вопрос 3: Какая рыба считается символом Дня рыбака в Индонезии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Тунец</span>
+<span class="opt"><i>2</i>: Карась</span>
+<span class="opt"><i>3</i>: Латес</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 07.04.2026: Алимжан, Астана (80 000 тенге) :id=ep-07-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Почему Всемирный день здоровья отмечается именно 7 апреля?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В этот день вступил в силу устав Всемирной организации здравоохранения</span>
+<span class="opt"><i>2</i>: В этот день впервые была изобретена вакцина от опасной болезни</span>
+<span class="opt"><i>3</i>: В этот день прошла первая международная конференция врачей</span>
+</p>
+<p class="question">Вопрос 2: Почему бобра называют бобром?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Из-за звука, который он издаёт</span>
+<span class="opt"><i>2</i>: От древнего индоевропейского слова, связанного со значением «блестящий»</span>
+<span class="opt"><i>3</i>: От праславянского слова «коричневый»</span>
+</p>
+<p class="question">Вопрос 3: Что делает процедура микродермабразии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Отшелушивает верхний слой кожи с помощью кристаллов</span>
+<span class="opt"><i>2</i>: Вводит гиалуроновую кислоту под кожу</span>
+<span class="opt"><i>3</i>: Увлажняет кожу через кислородные маски</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 10.04.2026: Александр, Усть-Каменогорск (95 000 тенге) :id=ep-10-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В каком году впервые в мире начали отмечать День брата и сестры?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 1960 году</span>
+<span class="opt"><i>2</i>: В 1998 году</span>
+<span class="opt"><i>3</i>: В 2007 году</span>
+</p>
+<p class="question">Вопрос 2: Кто изобрёл современную спичку с серной головкой?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джон Уокер</span>
+<span class="opt"><i>2</i>: Томас Эдисон</span>
+<span class="opt"><i>3</i>: Александр Грэхем Белл</span>
+</p>
+<p class="question">Вопрос 3: Какой необычный факт есть о гречке в Японии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Она растёт только в горах</span>
+<span class="opt"><i>2</i>: Из неё делают алкоголь</span>
+<span class="opt"><i>3</i>: Из неё делают бумагу</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 13.04.2026: Татьяна, Петропавловск (100 000 тенге) :id=ep-13-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что означает слово «рок-н-ролл» в разговорном смысле?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Качайся и крутись</span>
+<span class="opt"><i>2</i>: Играть громко</span>
+<span class="opt"><i>3</i>: Бить барабаны</span>
+</p>
+<p class="question">Вопрос 2: Почему именно 13 апреля считают Днём рок-н-ролла?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Это день рождения Элвиса Пресли</span>
+<span class="opt"><i>2</i>: В этот день вышла культовая песня</span>
+<span class="opt"><i>3</i>: В этот день провели первый рок-н-ролл-концерт</span>
+</p>
+<p class="question">Вопрос 3: Что делают люди на тайский Новый год Сонгкран?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Запускают фонарики</span>
+<span class="opt"><i>2</i>: Обливаются водой</span>
+<span class="opt"><i>3</i>: Разжигают костры</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 14.04.2026: Валентин, Петропавловск (105 000 тенге) :id=ep-14-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какое вещество имеет формулу NH3?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Метан</span>
+<span class="opt"><i>2</i>: Аммиак</span>
+<span class="opt"><i>3</i>: Азотная кислота</span>
+</p>
+<p class="question">Вопрос 2: Какая страна имеет наибольшее количество часовых поясов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: США</span>
+<span class="opt"><i>2</i>: Австралия</span>
+<span class="opt"><i>3</i>: Франция</span>
+</p>
+<p class="question">Вопрос 3: Какая цивилизация построила Мачу-Пикчу?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Майя</span>
+<span class="opt"><i>2</i>: Инки</span>
+<span class="opt"><i>3</i>: Ацтеки</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 16.04.2026: Даулет, Кокшетау (110 000 тенге) :id=ep-16-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что ещё делал Чарли Чаплин для своих фильмов, кроме того, что был актёром?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Писал музыку</span>
+<span class="opt"><i>2</i>: Строил декорации сам</span>
+<span class="opt"><i>3</i>: Делал костюмы</span>
+</p>
+<p class="question">Вопрос 2: Почему у персонажа Чарли Чаплина всегда маленькие усы?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Это была мода</span>
+<span class="opt"><i>2</i>: Для мимики</span>
+<span class="opt"><i>3</i>: Он не мог отрастить большие</span>
+</p>
+<p class="question">Вопрос 3: Сколько длились первые фильмы Чарли Чаплина?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Около 10–15 минут</span>
+<span class="opt"><i>2</i>: Около 30 минут</span>
+<span class="opt"><i>3</i>: Более двух часов</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 17.04.2026: Ерлен, Павлодар (5 000 тенге) :id=ep-17-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: О чём чаще всего традиционно пишут в хайку?</p>
+<p class="options">
+<span class="opt"><i>1</i>: О любви</span>
+<span class="opt"><i>2</i>: О природе</span>
+<span class="opt"><i>3</i>: О политике</span>
+</p>
+<p class="question">Вопрос 2: Кто считается самым известным мастером хайку?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мацуо Басё</span>
+<span class="opt"><i>2</i>: Харуки Мураками</span>
+<span class="opt"><i>3</i>: Акутагава Рюноскэ</span>
+</p>
+<p class="question">Вопрос 3: Какой фильм сильно повысил популярность автомобиля Ford Mustang?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Форсаж</span>
+<span class="opt"><i>2</i>: Буллит</span>
+<span class="opt"><i>3</i>: Угнать за 60 секунд</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 20.04.2026: Владимир, Талдыкорган (10 000 тенге) :id=ep-20-04-2026
+
+</div>
+<div class="episode-body">
+<p class="guest">Звёздный гость: <i>Расултан Жигсенбек</i></p>
+<p class="question">Вопрос 1: Почему дата Дня китайского языка выбрана именно на 20 апреля?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Это день основания Китая</span>
+<span class="opt"><i>2</i>: В честь изобретателя иероглифов Цан Цзе</span>
+<span class="opt"><i>3</i>: В день создания первого словаря</span>
+</p>
+<p class="question">Вопрос 2: Какой самый распространённый китайский диалект?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кантонский</span>
+<span class="opt"><i>2</i>: Путунхуа</span>
+<span class="opt"><i>3</i>: Шанхайский</span>
+</p>
+<p class="question">Вопрос 3: Как будет «радио» на китайском?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Дянь Тай</span>
+<span class="opt"><i>2</i>: Гуанбо</span>
+<span class="opt"><i>3</i>: Шэн Ынь</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 21.04.2026: Талгат, Лисаковск (15 000 тенге) :id=ep-21-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто такие альтушки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Девушки, которые работают в IT-сфере и любят технологии</span>
+<span class="opt"><i>2</i>: Девушки, увлекающиеся экстремальными видами спорта</span>
+<span class="opt"><i>3</i>: Девушки, выбирающие альтернативный стиль, чтобы не быть похожими на большинство</span>
+</p>
+<p class="question">Вопрос 2: Кто такой скуф?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Неформальный интернет-термин про мужчину среднего возраста с простым стилем жизни и консервативными взглядами</span>
+<span class="opt"><i>2</i>: Молодой человек, который следит за трендами и активно пользуется социальными сетями</span>
+<span class="opt"><i>3</i>: Подросток, увлекающийся альтернативной музыкой и модой</span>
+</p>
+<p class="question">Вопрос 3: Кто сделал первый чемодан на колёсах?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Дизайнер Луи Виттон</span>
+<span class="opt"><i>2</i>: Пилот Роберт Платт</span>
+<span class="opt"><i>3</i>: Бизнесмен Бернард Садоу</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 22.04.2026: Шалкар, Шымкент (20 000 тенге) :id=ep-22-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Когда впервые появился День секретаря?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 1952 году</span>
+<span class="opt"><i>2</i>: В 1964 году</span>
+<span class="opt"><i>3</i>: В 1980 году</span>
+</p>
+<p class="question">Вопрос 2: В какой стране зародился праздник День секретаря?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Великобритания</span>
+<span class="opt"><i>2</i>: США</span>
+<span class="opt"><i>3</i>: Германия</span>
+</p>
+<p class="question">Вопрос 3: Какой известный человек работал секретарём до своего успеха?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мадонна</span>
+<span class="opt"><i>2</i>: Джоан Роулинг</span>
+<span class="opt"><i>3</i>: Бейонсе</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 23.04.2026: Виктория, Алматы (25 000 тенге) :id=ep-23-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая страна славится традицией дарить книги и розы во Всемирный день книги и авторского права?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Франция</span>
+<span class="opt"><i>2</i>: Испания</span>
+<span class="opt"><i>3</i>: Германия</span>
+</p>
+<p class="question">Вопрос 2: Почему дата Международного дня английского языка выбрана именно на 23 апреля?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Это день основания Оксфорда</span>
+<span class="opt"><i>2</i>: День рождения Шекспира</span>
+<span class="opt"><i>3</i>: В этот день напечатали самую первую книгу на английском языке</span>
+</p>
+<p class="question">Вопрос 3: Какой кактус считается самым высоким в мире?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Эхинопсис Тершикии</span>
+<span class="opt"><i>2</i>: Пахицереус Прингля</span>
+<span class="opt"><i>3</i>: Карнегия гигантская</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 24.04.2026: Ольга, Караганда (30 000 тенге) :id=ep-24-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая страна считается родиной сосиски в тесте?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Германия</span>
+<span class="opt"><i>2</i>: США</span>
+<span class="opt"><i>3</i>: Франция</span>
+</p>
+<p class="question">Вопрос 2: Кто первым изобрёл газированную воду?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джозеф Пристли</span>
+<span class="opt"><i>2</i>: Антуан Лоран Лавуазье</span>
+<span class="opt"><i>3</i>: Карл Вильгельм</span>
+</p>
+<p class="question">Вопрос 3: Кто из перечисленных красоток является Тельцом по знаку зодиака?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Галь Гадот</span>
+<span class="opt"><i>2</i>: Эмма Стоун</span>
+<span class="opt"><i>3</i>: Деми Мур</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 27.04.2026: Санья, Алматы (35 000 тенге) :id=ep-27-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая буква в азбуке Морзе самая короткая?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Е</span>
+<span class="opt"><i>2</i>: А</span>
+<span class="opt"><i>3</i>: Т</span>
+</p>
+<p class="question">Вопрос 2: Что означает название памперсов «Pampers»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Защищать</span>
+<span class="opt"><i>2</i>: Баловать</span>
+<span class="opt"><i>3</i>: Сушить</span>
+</p>
+<p class="question">Вопрос 3: Сколько полос на флаге Того?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Три</span>
+<span class="opt"><i>2</i>: Пять</span>
+<span class="opt"><i>3</i>: Семь</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 28.04.2026: Анастасия, Астана (40 000 тенге) :id=ep-28-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В какой период в Казахстане начали формироваться первые городские станции скорой помощи?</p>
+<p class="options">
+<span class="opt"><i>1</i>: С 1926–1928 года</span>
+<span class="opt"><i>2</i>: С 1940–1942 года</span>
+<span class="opt"><i>3</i>: С 1950–1952 года</span>
+</p>
+<p class="question">Вопрос 2: Как зовут первого космического туриста, который стартовал с космодрома Байконур 28 апреля 2001 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Деннис Тито</span>
+<span class="opt"><i>2</i>: Ричард Брэнсон</span>
+<span class="opt"><i>3</i>: Майкл Коллинз</span>
+</p>
+<p class="question">Вопрос 3: Сколько длился полёт первого космического туриста?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 8 суток</span>
+<span class="opt"><i>2</i>: 10 суток</span>
+<span class="opt"><i>3</i>: 12 суток</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 29.04.2026: Кайрат, Алматы (45 000 тенге) :id=ep-29-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая позиция в балете считается самой закрытой?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Вторая</span>
+<span class="opt"><i>2</i>: Третья</span>
+<span class="opt"><i>3</i>: Пятая</span>
+</p>
+<p class="question">Вопрос 2: Кто считается основателем современного паркура?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Дэвид Белль</span>
+<span class="opt"><i>2</i>: Тони Хоук</span>
+<span class="opt"><i>3</i>: Райан Уильямс</span>
+</p>
+<p class="question">Вопрос 3: Какой город стал предшественником современного Бишкека?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мак</span>
+<span class="opt"><i>2</i>: Карабалта</span>
+<span class="opt"><i>3</i>: Пишпек</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 30.04.2026: Бота, Павлодар (50 000 тенге) :id=ep-30-04-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой легендарный джазмен получил прозвище «Сачмо»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Дюк Эллингтон</span>
+<span class="opt"><i>2</i>: Луи Армстронг</span>
+<span class="opt"><i>3</i>: Фрэнк Синатра</span>
+</p>
+<p class="question">Вопрос 2: Кто был первым джазовым музыкантом, сыгравшим на саксофоне в космосе?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Рональд Макнейр</span>
+<span class="opt"><i>2</i>: Дюк Эллингтон</span>
+<span class="opt"><i>3</i>: Майлз Дэвис</span>
+</p>
+<p class="question">Вопрос 3: Какой джазовый термин означает короткую, повторяющуюся музыкальную фразу?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Бридж</span>
+<span class="opt"><i>2</i>: Хук</span>
+<span class="opt"><i>3</i>: Риф</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 04.05.2026: Архат, Алматы (55 000 тенге) :id=ep-04-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: У кого из нижеперечисленных красавцев невысокий рост?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Том Круз</span>
+<span class="opt"><i>2</i>: Дэнни ДеВито</span>
+<span class="opt"><i>3</i>: Дэниел Рэдклифф</span>
+</p>
+<p class="question">Вопрос 2: Кто считается изобретателем складного зонтика в современном виде?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сэмюэль Фокс</span>
+<span class="opt"><i>2</i>: Ханс Хаупт</span>
+<span class="opt"><i>3</i>: Джонас Хенвей</span>
+</p>
+<p class="question">Вопрос 3: Кто изначально должен был играть роль Хана Соло?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Аль Пачино</span>
+<span class="opt"><i>2</i>: Роберт Де Ниро</span>
+<span class="opt"><i>3</i>: Кит Фергюсон</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 05.05.2026: Наталья, Ридер (60 000 тенге) :id=ep-05-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: О какой принцессе идет речь: она воительница, которая вместо принцессиного платья носит доспехи, переодевается мужчиной и идет на войну вместо отца?</p>
+<p class="options">
+<span class="opt"><i>1</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>3</i>: Мулан</span>
+</p>
+<p class="question">Вопрос 2: Кто считается одним из первых известных профессиональных карикатуристов в истории?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Оноре Домье</span>
+<span class="opt"><i>2</i>: Пьер Леоне Гецци</span>
+<span class="opt"><i>3</i>: Пабло Пикассо</span>
+</p>
+<p class="question">Вопрос 3: Где находится штаб-квартира Международной федерации дзюдо?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В Токио</span>
+<span class="opt"><i>2</i>: В Будапеште</span>
+<span class="opt"><i>3</i>: В Париже</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 06.05.2026: Мирас, Костанай (65 000 тенге) :id=ep-06-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Когда был официально учрежден День защитника Отечества в Казахстане?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 1992 году</span>
+<span class="opt"><i>2</i>: В 2001 году</span>
+<span class="opt"><i>3</i>: В 2012 году</span>
+</p>
+<p class="question">Вопрос 2: Какой из приборов чаще всего используют физики в базовых экспериментах?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Барометр</span>
+<span class="opt"><i>2</i>: Динамометр</span>
+<span class="opt"><i>3</i>: Мультиметр</span>
+</p>
+<p class="question">Вопрос 3: Сколько лет было Попову, когда он изобрел радио?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 29</span>
+<span class="opt"><i>2</i>: 32</span>
+<span class="opt"><i>3</i>: 36</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 08.05.2026: Алексей, Астана (70 000 тенге) :id=ep-08-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Название «Кока-Кола» придумал Фрэнк М. Робинсон. Кем он был?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Аптекарем</span>
+<span class="opt"><i>2</i>: Бухгалтером</span>
+<span class="opt"><i>3</i>: Художником</span>
+</p>
+<p class="question">Вопрос 2: Какая знаменитость стала первым лицом бренда «Кока-Кола»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Хильда Кларк</span>
+<span class="opt"><i>2</i>: Мэри Пикфорд</span>
+<span class="opt"><i>3</i>: Лиллиан Рассел</span>
+</p>
+<p class="question">Вопрос 3: Кто исполняет знаменитую рождественскую песню «Coca-Cola Holidays Are Coming», которая используется в рекламе с 2001 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Энни Леннокс</span>
+<span class="opt"><i>2</i>: Селин Дион</span>
+<span class="opt"><i>3</i>: Мелани Торнтон</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 12.05.2026: Азат, Кокшетау (75 000 тенге) :id=ep-12-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что измеряет одометр?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Угловое ускорение</span>
+<span class="opt"><i>2</i>: Линейную дистанцию</span>
+<span class="opt"><i>3</i>: Крутящий момент</span>
+</p>
+<p class="question">Вопрос 2: Что такое шашмаком?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Традиционное блюдо</span>
+<span class="opt"><i>2</i>: Музыкальный жанр</span>
+<span class="opt"><i>3</i>: Архитектурный стиль</span>
+</p>
+<p class="question">Вопрос 3: В честь кого отмечают Международный день медицинских сестер?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мать Тереза</span>
+<span class="opt"><i>2</i>: Клара Бартон</span>
+<span class="opt"><i>3</i>: Флоренс Найтингейл</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 13.05.2026: Амед, Алматы (80 000 тенге) :id=ep-13-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой вид одуванчиков занесен в Красную книгу Казахстана?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Луговой одуванчик</span>
+<span class="opt"><i>2</i>: Лекарственный</span>
+<span class="opt"><i>3</i>: Кок-сагыз</span>
+</p>
+<p class="question">Вопрос 2: В какой стране одуванчик считается символом счастья?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Япония</span>
+<span class="opt"><i>2</i>: Ирландия</span>
+<span class="opt"><i>3</i>: Китай</span>
+</p>
+<p class="question">Вопрос 3: [НЕ РАСПОЗНАНО]</p>
+<p class="options">
+<span class="opt"><i>1</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>3</i>: [НЕ РАСПОЗНАНО]</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>[НЕ РАСПОЗНАНО]</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>[НЕ РАСПОЗНАНО]</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 14.05.2026: Гульзат, Алматы (85 000 тенге) :id=ep-14-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой гимн считается самым длинным в мире?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Греции</span>
+<span class="opt"><i>2</i>: Италии</span>
+<span class="opt"><i>3</i>: Бразилии</span>
+</p>
+<p class="question">Вопрос 2: Сколько длится самый короткий авиарейс в мире?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 57 секунд</span>
+<span class="opt"><i>2</i>: 10 секунд</span>
+<span class="opt"><i>3</i>: 30 секунд</span>
+</p>
+<p class="question">Вопрос 3: Сколько непрочитанных чатов сейчас у Ксении в личном WhatsApp?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 27</span>
+<span class="opt"><i>2</i>: 13</span>
+<span class="opt"><i>3</i>: 15</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 15.05.2026: Наталья, Астана (90 000 тенге) :id=ep-15-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что означает слово «калейдоскоп»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Красивый вид</span>
+<span class="opt"><i>2</i>: Цветной круг</span>
+<span class="opt"><i>3</i>: Зеркальный свет</span>
+</p>
+<p class="question">Вопрос 2: Как называется эпос осетинского народа?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Довидиани</span>
+<span class="opt"><i>2</i>: Нарты</span>
+<span class="opt"><i>3</i>: Царциата</span>
+</p>
+<p class="question">Вопрос 3: Что означает «Аой» в названии японского фестиваля «Аой Мацури»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Солнце</span>
+<span class="opt"><i>2</i>: Ветер</span>
+<span class="opt"><i>3</i>: Мальва</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
