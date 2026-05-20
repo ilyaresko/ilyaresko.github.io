@@ -9988,6 +9988,102 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 18.05.2026: Зарина, Павлодар (5 000 тенге) :id=ep-18-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Сколько длилась самая первая церемония вручения премии «Оскар»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 15 минут</span>
+<span class="opt"><i>2</i>: 45 минут</span>
+<span class="opt"><i>3</i>: 3 часа</span>
+</p>
+<p class="question">Вопрос 2: Какое слово пытались первым отправить через интернет?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Hello</span>
+<span class="opt"><i>2</i>: Интернет</span>
+<span class="opt"><i>3</i>: Логин</span>
+</p>
+<p class="question">Вопрос 3: Как называется монументальная скульптура перед Музеем искусств в Алматы?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Авильда</span>
+<span class="opt"><i>2</i>: Надес</span>
+<span class="opt"><i>3</i>: Душа Эбра</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 19.05.2026: Евгений, Семей (10 000 тенге) :id=ep-19-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Сколько существует комбинаций у кубика Рубика 3×3?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 43 тысячи</span>
+<span class="opt"><i>2</i>: 43 миллиона</span>
+<span class="opt"><i>3</i>: 43 квинтиллиона</span>
+</p>
+<p class="question">Вопрос 2: Сколько времени понадобилось Эрнё Рубику, чтобы впервые собрать свой кубик?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Пять часов</span>
+<span class="opt"><i>2</i>: Двадцать дней</span>
+<span class="opt"><i>3</i>: Тридцать дней</span>
+</p>
+<p class="question">Вопрос 3: Как называют минимальное число ходов для сборки кубика Рубика?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Формула Рубика</span>
+<span class="opt"><i>2</i>: Формула Куба</span>
+<span class="opt"><i>3</i>: Число Бога</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 20.05.2026: Аскар, Алматы (15 000 тенге) :id=ep-20-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как зовут пчеловода, в честь которого учреждён Всемирный день пчёл?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Антон Янис</span>
+<span class="opt"><i>2</i>: Антон Янша</span>
+<span class="opt"><i>3</i>: Пётр Прокопович</span>
+</p>
+<p class="question">Вопрос 2: Кто сыграл главную роль в знаменитой рекламе Levi's 501?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джеймс Либон</span>
+<span class="opt"><i>2</i>: Джон Кэмерон</span>
+<span class="opt"><i>3</i>: Ник Камен</span>
+</p>
+<p class="question">Вопрос 3: В какой обстановке происходило действие культовой рекламы Levi's 501?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В прачечной</span>
+<span class="opt"><i>2</i>: В ночном клубе</span>
+<span class="opt"><i>3</i>: На фабрике джинсов</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
