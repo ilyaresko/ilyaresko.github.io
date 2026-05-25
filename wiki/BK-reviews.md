@@ -10084,6 +10084,102 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 21.05.2026: Избасар, Атырау (20 000 тенге) :id=ep-21-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Согласно китайской легенде, кем был открыт чай?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Богиня Аньсу</span>
+<span class="opt"><i>2</i>: Сын императора Таньжена</span>
+<span class="opt"><i>3</i>: Культурный герой Шэнь Нун</span>
+</p>
+<p class="question">Вопрос 2: Кого считают отцом чайных пакетиков?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Томас Салливан</span>
+<span class="opt"><i>2</i>: Яков Кристоф Рад</span>
+<span class="opt"><i>3</i>: Томас Липтон</span>
+</p>
+<p class="question">Вопрос 3: Кто придумал английскую традицию Five O'Clock Tea?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Королева Виктория</span>
+<span class="opt"><i>2</i>: Герцогиня Анна Рассел</span>
+<span class="opt"><i>3</i>: Писательница Джейн Остин</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>—</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 22.05.2026: Арман, Караганда (25 000 тенге) :id=ep-22-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Сколько лет было Конану Дойлу, когда он написал «Этюд в багровых тонах»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 27 лет</span>
+<span class="opt"><i>2</i>: 29 лет</span>
+<span class="opt"><i>3</i>: 32 года</span>
+</p>
+<p class="question">Вопрос 2: Какой адрес стал визитной карточкой Шерлока Холмса?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Бейкер-стрит, 221Б</span>
+<span class="opt"><i>2</i>: Пикадилли, 10</span>
+<span class="opt"><i>3</i>: Флит-стрит, 5</span>
+</p>
+<p class="question">Вопрос 3: Сколько раз фраза «Элементарно, Ватсон» встречается в оригинальных книгах Конана Дойла?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ни разу</span>
+<span class="opt"><i>2</i>: 9 раз</span>
+<span class="opt"><i>3</i>: 12 раз</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 25.05.2026: Самигула, Павлодар (30 000 тенге) :id=ep-25-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой знак препинания появился позже остальных?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Многоточие</span>
+<span class="opt"><i>2</i>: Тире</span>
+<span class="opt"><i>3</i>: Кавычки</span>
+</p>
+<p class="question">Вопрос 2: Кто придумал жёлтые и красные карточки в футболе?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кен Астон</span>
+<span class="opt"><i>2</i>: Чарльз Кингсли</span>
+<span class="opt"><i>3</i>: Артур Эллис</span>
+</p>
+<p class="question">Вопрос 3: Почему фанаты фантастики отмечают День полотенца?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В честь джедаев из «Звёздных войн»</span>
+<span class="opt"><i>2</i>: День солидарности с эльфом Добби из «Гарри Поттера»</span>
+<span class="opt"><i>3</i>: В память о Дугласе Адамсе и его книге</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
