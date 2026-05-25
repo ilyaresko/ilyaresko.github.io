@@ -10103,7 +10103,7 @@
 <span class="opt"><i>2</i>: Яков Кристоф Рад</span>
 <span class="opt"><i>3</i>: Томас Липтон</span>
 </p>
-<p class="question">Вопрос 3: Кто придумал английскую традицию Five O'Clock Tea?</p>
+<p class="question">Вопрос 3: Кто придумал английскую традицию Five O'Clock Tea? <em>Участник не дал ответа из-за разорванной связи.</em></p>
 <p class="options">
 <span class="opt"><i>1</i>: Королева Виктория</span>
 <span class="opt"><i>2</i>: Герцогиня Анна Рассел</span>
