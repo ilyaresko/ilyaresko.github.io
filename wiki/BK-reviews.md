@@ -10183,6 +10183,38 @@
 <div class="episode-card">
 <div class="episode-header">
 
+### 26.05.2026: Гульдана, Алматы (35 000 тенге) :id=ep-26-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой ген отвечает за рыжий цвет волос?</p>
+<p class="options">
+<span class="opt"><i>1</i>: BRCA1</span>
+<span class="opt"><i>2</i>: MC1R</span>
+<span class="opt"><i>3</i>: FOXP2</span>
+</p>
+<p class="question">Вопрос 2: В каком городе родился исторический прототип Дракулы Влад Цепеш?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сигишоара</span>
+<span class="opt"><i>2</i>: Бухарест</span>
+<span class="opt"><i>3</i>: Бран</span>
+</p>
+<p class="question">Вопрос 3: От какого танца исторически произошёл линди-хоп?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Вальс</span>
+<span class="opt"><i>2</i>: Танго</span>
+<span class="opt"><i>3</i>: Чарльстон</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
 ### 28.05.2026: Ренат, Астана (40 000 тенге) :id=ep-28-05-2026
 
 </div>
