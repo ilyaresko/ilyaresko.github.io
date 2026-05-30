@@ -944,7 +944,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 01.10.2024: Газис, Костанай (15 000 тенге) :id=ep-01-10-2024
+### 01.10.2024: Газиз, Костанай (15 000 тенге) :id=ep-01-10-2024
 
 </div>
 <div class="episode-body">
@@ -1297,7 +1297,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 17.10.2024: Сангат, Астана (15 000 тенге) :id=ep-17-10-2024
+### 17.10.2024: Сұңғат, Астана (15 000 тенге) :id=ep-17-10-2024
 
 </div>
 <div class="episode-body">
