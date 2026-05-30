@@ -8517,7 +8517,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 24.02.2026: Жадра, Уральск (50 000 тенге) :id=ep-24-02-2026
+### 24.02.2026: Жадыра, Уральск (50 000 тенге) :id=ep-24-02-2026
 
 </div>
 <div class="episode-body">
@@ -8617,27 +8617,27 @@
 
 </div>
 <div class="episode-body">
-<p class="question">Вопрос 1: [НЕ РАСПОЗНАНО]?</p>
+<p class="question">Вопрос 1: Почему у белых медведей под шерстью чёрная кожа?</p>
 <p class="options">
-<span class="opt"><i>1</i>: [НЕ РАСПОЗНАНО]</span>
-<span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span>
-<span class="opt"><i>3</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>1</i>: Для защиты от солнца</span>
+<span class="opt"><i>2</i>: Чтобы поглощать тепло</span>
+<span class="opt"><i>3</i>: Чтобы сохранять цвет шерсти</span>
 </p>
-<p class="question">Вопрос 2: [НЕ РАСПОЗНАНО]?</p>
+<p class="question">Вопрос 2: Кто является создателем покемонов?</p>
 <p class="options">
-<span class="opt"><i>1</i>: [НЕ РАСПОЗНАНО]</span>
-<span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span>
-<span class="opt"><i>3</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>1</i>: Сатоси Такамори</span>
+<span class="opt"><i>2</i>: Сатоси Тадзири</span>
+<span class="opt"><i>3</i>: Хаяо Миядзаки</span>
 </p>
-<p class="question">Вопрос 3: [НЕ РАСПОЗНАНО]?</p>
+<p class="question">Вопрос 3: Сколько букв в алфавите языка маратхи?</p>
 <p class="options">
-<span class="opt"><i>1</i>: [НЕ РАСПОЗНАНО]</span>
-<span class="opt"><i>2</i>: [НЕ РАСПОЗНАНО]</span>
-<span class="opt"><i>3</i>: [НЕ РАСПОЗНАНО]</span>
+<span class="opt"><i>1</i>: 36</span>
+<span class="opt"><i>2</i>: 46</span>
+<span class="opt"><i>3</i>: 56</span>
 </p>
 <div class="episode-footer">
-<span>Ответы участника: <i>?</i>, <i>?</i>, <i>?</i></span>
-<span>Правильные ответы: <i>?</i>, <i>?</i>, <i>?</i></span>
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
 </div>
 </div>
 </div>
@@ -9607,7 +9607,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 27.04.2026: Санья, Алматы (35 000 тенге) :id=ep-27-04-2026
+### 27.04.2026: Сания, Алматы (35 000 тенге) :id=ep-27-04-2026
 
 </div>
 <div class="episode-body">
