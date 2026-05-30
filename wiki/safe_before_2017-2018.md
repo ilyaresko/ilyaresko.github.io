@@ -1869,7 +1869,7 @@
 </p>
 <div class="episode-footer">
 <span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span>
-<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
 </div>
 </div>
 </div>
