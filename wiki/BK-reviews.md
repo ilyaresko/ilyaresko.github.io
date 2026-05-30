@@ -10180,6 +10180,70 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 28.05.2026: Ренат, Астана (40 000 тенге) :id=ep-28-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой пигмент делает волосы тёмными?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Феомеланин</span>
+<span class="opt"><i>2</i>: Трихосидерин</span>
+<span class="opt"><i>3</i>: Эумеланин</span>
+</p>
+<p class="question">Вопрос 2: В честь чего, по одной из версий, назвали майонез?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В честь французского повара</span>
+<span class="opt"><i>2</i>: В честь города Маон</span>
+<span class="opt"><i>3</i>: В честь императора Майо</span>
+</p>
+<p class="question">Вопрос 3: Кто считается автором флага Филиппин?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Хосе Рисаль</span>
+<span class="opt"><i>2</i>: Эмилио Агинальдо</span>
+<span class="opt"><i>3</i>: Фердинанд Маркос</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 29.05.2026: Саида, Алматы (45 000 тенге) :id=ep-29-05-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто первым покорил Эверест в 1953 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Райнхольд Месснер и Петер Хабелер</span>
+<span class="opt"><i>2</i>: Эдмунд Хиллари и Тенцинг Норгей</span>
+<span class="opt"><i>3</i>: Джордж Мэллори и Эндрю Ирвайн</span>
+</p>
+<p class="question">Вопрос 2: Что происходит с водой на вершине Эвереста?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Она замерзает мгновенно</span>
+<span class="opt"><i>2</i>: С ней ничего не происходит</span>
+<span class="opt"><i>3</i>: Она кипит быстрее</span>
+</p>
+<p class="question">Вопрос 3: Как переводится слово «шерпа»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Покоритель льда</span>
+<span class="opt"><i>2</i>: Люди с Востока</span>
+<span class="opt"><i>3</i>: Вечный путник</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
