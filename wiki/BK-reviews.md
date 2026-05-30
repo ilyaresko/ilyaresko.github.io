@@ -4860,7 +4860,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 18.07.2025: Аклбек, Павлодар (30 000 тенге) :id=ep-18-07-2025
+### 18.07.2025: Акылбек, Павлодар (30 000 тенге) :id=ep-18-07-2025
 
 </div>
 <div class="episode-body">
@@ -7395,7 +7395,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 17.12.2025: Алжас, Павлодар (160 000 тенге) :id=ep-17-12-2025
+### 17.12.2025: Олжас, Павлодар (160 000 тенге) :id=ep-17-12-2025
 
 </div>
 <div class="episode-body">
@@ -8613,7 +8613,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 27.02.2026: Габид, [НЕ РАСПОЗНАНО] (5 000 тенге) :id=ep-27-02-2026
+### 27.02.2026: Габид, Костанай (5 000 тенге) :id=ep-27-02-2026
 
 </div>
 <div class="episode-body">
@@ -9062,7 +9062,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 30.03.2026: Бауржан, Астана (50 000 тенге) :id=ep-30-03-2026
+### 30.03.2026: Бауыржан, Астана (50 000 тенге) :id=ep-30-03-2026
 
 </div>
 <div class="episode-body">
@@ -9767,7 +9767,7 @@
 <div class="episode-card">
 <div class="episode-header">
 
-### 05.05.2026: Наталья, Ридер (60 000 тенге) :id=ep-05-05-2026
+### 05.05.2026: Наталья, Риддер (60 000 тенге) :id=ep-05-05-2026
 
 </div>
 <div class="episode-body">
