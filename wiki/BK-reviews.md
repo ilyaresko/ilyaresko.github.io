@@ -10276,6 +10276,550 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 01.06.2026: Дмитрий, Алматы (5 000 тенге) :id=ep-01-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В каком году впервые отметили Международный день защиты детей?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 1925 году</span>
+<span class="opt"><i>2</i>: В 1949 году</span>
+<span class="opt"><i>3</i>: В 1950 году</span>
+</p>
+<p class="question">Вопрос 2: Как называется родная планета Супермена?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Вулкан</span>
+<span class="opt"><i>2</i>: Криптон</span>
+<span class="opt"><i>3</i>: Титан</span>
+</p>
+<p class="question">Вопрос 3: Какое млекопитающее пьёт самое жирное молоко в детстве?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Белый медведь</span>
+<span class="opt"><i>2</i>: Морж</span>
+<span class="opt"><i>3</i>: Тюлень-хохлач</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 03.06.2026: Ербулат, Уральск (15 000 тенге) :id=ep-03-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто первым нарисовал проект парашюта?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Пабло Пикассо</span>
+<span class="opt"><i>2</i>: Клод Моне</span>
+<span class="opt"><i>3</i>: Леонардо да Винчи</span>
+</p>
+<p class="question">Вопрос 2: Кем работала королева Таиланда Сутида до королевского двора?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Учительницей</span>
+<span class="opt"><i>2</i>: Врачом</span>
+<span class="opt"><i>3</i>: Стюардессой</span>
+</p>
+<p class="question">Вопрос 3: Какая глубина у бассейна, который сегодня считается самым глубоким на планете?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 70,05 метра</span>
+<span class="opt"><i>2</i>: 60,02 метра</span>
+<span class="opt"><i>3</i>: 44,45 метра</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 05.06.2026: Рустам, Рудный (25 000 тенге) :id=ep-05-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая страна первой в мире запретила пластиковые пакеты на национальном уровне?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кения</span>
+<span class="opt"><i>2</i>: Норвегия</span>
+<span class="opt"><i>3</i>: Бангладеш</span>
+</p>
+<p class="question">Вопрос 2: Кто из будущих мировых суперзвёзд первым снялся в телевизионной рекламе кетчупа Хайнц в 1987 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Брэд Питт</span>
+<span class="opt"><i>2</i>: Мэтью Перри</span>
+<span class="opt"><i>3</i>: Мэтт Леблан</span>
+</p>
+<p class="question">Вопрос 3: В этом году оскароносный актёр отметил 50-летие: он бросил изучение права ради театра, около 15 лет был вегетарианцем и едва не стал профессиональным рок-музыкантом, а в жизни не курит, хотя его экранные герои часто появляются с сигаретой. О ком идёт речь?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Марк Уолберг</span>
+<span class="opt"><i>2</i>: Киллиан Мёрфи</span>
+<span class="opt"><i>3</i>: Марио Касас</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 08.06.2026: Денис, Костанай (30 000 тенге) :id=ep-08-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто считается изобретателем первого переносного электрического пылесоса?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Хьюберт Сесил Бут</span>
+<span class="opt"><i>2</i>: Джеймс Спенглер</span>
+<span class="opt"><i>3</i>: Дэниел Хесс</span>
+</p>
+<p class="question">Вопрос 2: Какой океан содержит больше всего островов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Тихий океан</span>
+<span class="opt"><i>2</i>: Атлантический океан</span>
+<span class="opt"><i>3</i>: Индийский океан</span>
+</p>
+<p class="question">Вопрос 3: Сколько человек было на борту британского корабля «Баунти»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 46 человек</span>
+<span class="opt"><i>2</i>: 60 человек</span>
+<span class="opt"><i>3</i>: 27 человек</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 10.06.2026: Алина, Алматы (40 000 тенге) :id=ep-10-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как выглядит сигнал СОС в азбуке Морзе?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Три точки, три тире, три точки</span>
+<span class="opt"><i>2</i>: Три тире, три точки, три тире</span>
+<span class="opt"><i>3</i>: Две точки, два тире, две точки</span>
+</p>
+<p class="question">Вопрос 2: В какой стране открылся первый в мире общедоступный зоопарк?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Франция</span>
+<span class="opt"><i>2</i>: Канада</span>
+<span class="opt"><i>3</i>: Австралия</span>
+</p>
+<p class="question">Вопрос 3: Какая профессия одной из первых массово использовала шариковые ручки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Повара</span>
+<span class="opt"><i>2</i>: Лётчики</span>
+<span class="opt"><i>3</i>: Почтальоны</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 11.06.2026: Сергей, Караганда (5 000 тенге) :id=ep-11-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как назывался легендарный исследовательский корабль Кусто?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Алкиона</span>
+<span class="opt"><i>2</i>: Калипсо</span>
+<span class="opt"><i>3</i>: Санта-Мария</span>
+</p>
+<p class="question">Вопрос 2: Какой цвет шапочки чаще всего носила команда Кусто?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Жёлтый</span>
+<span class="opt"><i>2</i>: Синий</span>
+<span class="opt"><i>3</i>: Красный</span>
+</p>
+<p class="question">Вопрос 3: Кто из сыновей Жака-Ива Кусто стал известным океанографом и продолжил его дело?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Филипп Кусто</span>
+<span class="opt"><i>2</i>: Пьер-Ив Кусто</span>
+<span class="opt"><i>3</i>: Жан-Мишель Кусто</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 12.06.2026: Мажит, Актобе (10 000 тенге) :id=ep-12-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая сборная является действующим чемпионом мира перед стартом чемпионата мира 2026 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Франция</span>
+<span class="opt"><i>2</i>: Испания</span>
+<span class="opt"><i>3</i>: Аргентина</span>
+</p>
+<p class="question">Вопрос 2: Сколько матчей будет сыграно на чемпионате мира в 2026 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 95</span>
+<span class="opt"><i>2</i>: 88</span>
+<span class="opt"><i>3</i>: 104</span>
+</p>
+<p class="question">Вопрос 3: Кто является автором современного кубка мира FIFA — трофея чемпионата мира по футболу?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Жак Лемер</span>
+<span class="opt"><i>2</i>: Сильвио Гаццанига</span>
+<span class="opt"><i>3</i>: Альберто Сальвадоре</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 17.06.2026: Асет, Астана (25 000 тенге) :id=ep-17-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто ближе всего к крокодилам по происхождению?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Птицы</span>
+<span class="opt"><i>2</i>: Черепахи</span>
+<span class="opt"><i>3</i>: Змеи</span>
+</p>
+<p class="question">Вопрос 2: Что означает слово «каратэ» в переводе с японского?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Быстрая рука</span>
+<span class="opt"><i>2</i>: Железный кулак</span>
+<span class="opt"><i>3</i>: Пустая рука</span>
+</p>
+<p class="question">Вопрос 3: Какая передача первой вышла в эфир Discovery Channel 17 июня 1985 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: «Разрушители легенд»</span>
+<span class="opt"><i>2</i>: «Долина айсбергов»</span>
+<span class="opt"><i>3</i>: «Неделя акул»</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 19.06.2026: Нурлан, Алматы (35 000 тенге) :id=ep-19-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: 19 июня 1846 года в США состоялся первый официально зафиксированный бейсбольный матч. Где он прошёл?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ньюарк</span>
+<span class="opt"><i>2</i>: Бостон</span>
+<span class="opt"><i>3</i>: Хобокен</span>
+</p>
+<p class="question">Вопрос 2: Сколько швов обычно имеет бейсбольный мяч?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 108</span>
+<span class="opt"><i>2</i>: 210</span>
+<span class="opt"><i>3</i>: 305</span>
+</p>
+<p class="question">Вопрос 3: В какой позиции играет сын Лимы Тимурлан?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Центральный полузащитник</span>
+<span class="opt"><i>2</i>: Левый вингер</span>
+<span class="opt"><i>3</i>: Нападающий</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 24.06.2026: Татьяна, Караганда (10 000 тенге) :id=ep-24-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Зачем изначально создавали детские железные дороги?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Для развлечения туристов</span>
+<span class="opt"><i>2</i>: Для обучения детей железнодорожным профессиям</span>
+<span class="opt"><i>3</i>: Для перевозки почты</span>
+</p>
+<p class="question">Вопрос 2: Как называется художественное оформление из цветного стекла?</p>
+<p class="options">
+<span class="opt"><i>1</i>: мозаика</span>
+<span class="opt"><i>2</i>: витраж</span>
+<span class="opt"><i>3</i>: фреска</span>
+</p>
+<p class="question">Вопрос 3: Кто из знаменитостей родился в первой декаде рака (примерно с 21 июня по 1 июля)?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Принцесса Диана</span>
+<span class="opt"><i>2</i>: Селена Гомес</span>
+<span class="opt"><i>3</i>: Ариана Гранде</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 25.06.2026: Арнур, Астана (15 000 тенге) :id=ep-25-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В какой стране впервые начали использовать маяки для помощи морякам?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Египет</span>
+<span class="opt"><i>2</i>: Бразилия</span>
+<span class="opt"><i>3</i>: Япония</span>
+</p>
+<p class="question">Вопрос 2: Какой мультфильм стал первым полнометражным цветным мультфильмом Диснея?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Пиноккио</span>
+<span class="opt"><i>2</i>: Белоснежка и семь гномов</span>
+<span class="opt"><i>3</i>: Бэмби</span>
+</p>
+<p class="question">Вопрос 3: Кто из Битлов был барабанщиком?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джордж Харрисон</span>
+<span class="opt"><i>2</i>: Ринго Старр</span>
+<span class="opt"><i>3</i>: Стюарт Сатклифф</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 26.06.2026: Алишер, Шымкент (20 000 тенге) :id=ep-26-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что стало первым товаром со штрих-кодом?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Шоколад</span>
+<span class="opt"><i>2</i>: Жевательная резинка</span>
+<span class="opt"><i>3</i>: Газированный напиток</span>
+</p>
+<p class="question">Вопрос 2: На каком материке находится праздник Баралоа?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Африка</span>
+<span class="opt"><i>2</i>: Южная Америка</span>
+<span class="opt"><i>3</i>: Австралия</span>
+</p>
+<p class="question">Вопрос 3: Что такое кокос с точки зрения ботаники?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ягода</span>
+<span class="opt"><i>2</i>: Орех</span>
+<span class="opt"><i>3</i>: Костянка</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 29.06.2026: Аслан, Уральск (25 000 тенге) :id=ep-29-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В какой стране появился первый в мире банкомат?</p>
+<p class="options">
+<span class="opt"><i>1</i>: США</span>
+<span class="opt"><i>2</i>: Великобритания</span>
+<span class="opt"><i>3</i>: Германия</span>
+</p>
+<p class="question">Вопрос 2: Как называлась первая общенациональная казахская газета начала XX века?</p>
+<p class="options">
+<span class="opt"><i>1</i>: «Қазақ»</span>
+<span class="opt"><i>2</i>: «Егемен Қазақстан»</span>
+<span class="opt"><i>3</i>: «Жас Алаш»</span>
+</p>
+<p class="question">Вопрос 3: Чему равно число тау?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 3,14</span>
+<span class="opt"><i>2</i>: 9,42</span>
+<span class="opt"><i>3</i>: 6,28</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 30.06.2026: Владимир, Астана (5 000 тенге) :id=ep-30-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой хэштег считается самым популярным в истории Инстаграма?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Love</span>
+<span class="opt"><i>2</i>: Фото</span>
+<span class="opt"><i>3</i>: Summer</span>
+</p>
+<p class="question">Вопрос 2: Почему Международный день астероида отмечается именно 30 июня?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 30 июня родился первооткрыватель первого астероида Джузеппе Пьяцци</span>
+<span class="opt"><i>2</i>: В этот день на Землю упал Тунгусский метеорит</span>
+<span class="opt"><i>3</i>: В этот день космический аппарат впервые протаранил астероид</span>
+</p>
+<p class="question">Вопрос 3: Какое имя носит азербайджанский День влюблённых?</p>
+<p class="options">
+<span class="opt"><i>1</i>: День Лейли и Меджнуна</span>
+<span class="opt"><i>2</i>: День Ильхама и Фаризы</span>
+<span class="opt"><i>3</i>: День Али и Нино</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 08.07.2026: Бахтияр, Алматы (5 000 тенге) :id=ep-08-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая главная цель проведения Дня математики 2.0?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Международная стандартизация и унификация школьных программ по геометрии</span>
+<span class="opt"><i>2</i>: Популяризация прикладной математики в сфере искусственного интеллекта и IT</span>
+<span class="opt"><i>3</i>: Запретить использование калькуляторов на один день</span>
+</p>
+<p class="question">Вопрос 2: Что означает слово «математика» в переводе с древнегреческого языка?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Счёт</span>
+<span class="opt"><i>2</i>: Логика</span>
+<span class="opt"><i>3</i>: Знание</span>
+</p>
+<p class="question">Вопрос 3: Кто придумал слово «алгоритм»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Архимед</span>
+<span class="opt"><i>2</i>: Аль-Хорезми</span>
+<span class="opt"><i>3</i>: Пифагор</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 09.07.2026: Айбар, Астана (10 000 тенге) :id=ep-09-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой модельер первым сделал смокинг частью женского гардероба?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кристиан Диор</span>
+<span class="opt"><i>2</i>: Карл Лагерфельд</span>
+<span class="opt"><i>3</i>: Ив Сен-Лоран</span>
+</p>
+<p class="question">Вопрос 2: Какой цвет одежды раньше могли носить только очень богатые люди?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Фиолетовый</span>
+<span class="opt"><i>2</i>: Зелёный</span>
+<span class="opt"><i>3</i>: Белый</span>
+</p>
+<p class="question">Вопрос 3: Работники какой государственной службы отмечают в Казахстане профессиональный праздник 9 июля?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Таможенная</span>
+<span class="opt"><i>2</i>: Почтовая</span>
+<span class="opt"><i>3</i>: Налоговая</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 10.07.2026: Дмитрий, Атырау (15 000 тенге) :id=ep-10-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой известный предприниматель сначала работал вместе с Теслой, а затем стал его конкурентом?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Генри Форд</span>
+<span class="opt"><i>2</i>: Томас Эдисон</span>
+<span class="opt"><i>3</i>: Александр Белл</span>
+</p>
+<p class="question">Вопрос 2: В каком году судьи начали использовать свисток в официальных футбольных матчах?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 1878 году</span>
+<span class="opt"><i>2</i>: В 1903 году</span>
+<span class="opt"><i>3</i>: В 1937 году</span>
+</p>
+<p class="question">Вопрос 3: Какой стадион примет финал чемпионата мира 2026?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Эстадио Ацтека</span>
+<span class="opt"><i>2</i>: Метлайф Стадиум</span>
+<span class="opt"><i>3</i>: Эй-ти-энд-ти Стадиум</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
