@@ -10727,6 +10727,134 @@
 <div class="episode-card">
 <div class="episode-header">
 
+### 01.07.2026: Ерлан, Астана (10 000 тенге) :id=ep-01-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется наука, изучающая смех и его влияние на организм человека?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Геронтология</span>
+<span class="opt"><i>2</i>: Гелотология</span>
+<span class="opt"><i>3</i>: Геоморфология</span>
+</p>
+<p class="question">Вопрос 2: Какая область мозга одной из первых помогает понять логику шутки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Средняя височная извилина</span>
+<span class="opt"><i>2</i>: Мозжечок</span>
+<span class="opt"><i>3</i>: Амигдала</span>
+</p>
+<p class="question">Вопрос 3: У каких животных, помимо приматов, учёные зафиксировали ультразвуковой смех во время игр и щекотки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: У дельфинов</span>
+<span class="opt"><i>2</i>: У собак</span>
+<span class="opt"><i>3</i>: У крыс</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 02.07.2026: Атабай, Актау (15 000 тенге) :id=ep-02-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой орган помогает собаке анализировать запахи особенно подробно?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мочка носа</span>
+<span class="opt"><i>2</i>: Вибриссы</span>
+<span class="opt"><i>3</i>: Орган Якобсона</span>
+</p>
+<p class="question">Вопрос 2: Флаг какой страны: голубое полотнище с жёлтой горизонтальной полосой и двумя белыми пятиконечными звёздами в левом верхнем углу?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Аруба</span>
+<span class="opt"><i>2</i>: Кюрасао</span>
+<span class="opt"><i>3</i>: Барбадос</span>
+</p>
+<p class="question">Вопрос 3: На пересечении каких улиц находится дом НЛО в Алматы?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Жандарбекова — Тимирязева</span>
+<span class="opt"><i>2</i>: Абая — Сейфуллина</span>
+<span class="opt"><i>3</i>: Достык — Аль-Фараби</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 03.07.2026: Исак, Шымкент (5 000 тенге) :id=ep-03-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой известный бренд долгое время использовал шрифт Comic Sans в рекламных материалах?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Coca-Cola</span>
+<span class="opt"><i>2</i>: Disney</span>
+<span class="opt"><i>3</i>: NASA</span>
+</p>
+<p class="question">Вопрос 2: Кто создал шрифт Comic Sans?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Эрик Шпикерман</span>
+<span class="opt"><i>2</i>: Винсент Коннаре</span>
+<span class="opt"><i>3</i>: Мэтью Картер</span>
+</p>
+<p class="question">Вопрос 3: В какой стране проходит знаменитое шоу Alice Springs?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Австралия</span>
+<span class="opt"><i>2</i>: Новая Зеландия</span>
+<span class="opt"><i>3</i>: Канада</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 07.07.2026: Игорь, Караганда (10 000 тенге) :id=ep-07-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой архитектор спроектировал монумент «Байтерек»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Норман Фостер</span>
+<span class="opt"><i>2</i>: Сантьяго Калатрава</span>
+<span class="opt"><i>3</i>: Акмурза Рустембеков</span>
+</p>
+<p class="question">Вопрос 2: Какой фильм первым получил «Оскар» за лучший фильм, в названии которого есть слово «поцелуй»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: «Поцелуй женщины-паука»</span>
+<span class="opt"><i>2</i>: «Французский поцелуй»</span>
+<span class="opt"><i>3</i>: «Последний поцелуй»</span>
+</p>
+<p class="question">Вопрос 3: Как звали автора сказки «Пиноккио»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ганс Христиан Андерсен</span>
+<span class="opt"><i>2</i>: Джанни Родари</span>
+<span class="opt"><i>3</i>: Карло Коллоди</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
 ### 08.07.2026: Бахтияр, Алматы (5 000 тенге) :id=ep-08-07-2026
 
 </div>
