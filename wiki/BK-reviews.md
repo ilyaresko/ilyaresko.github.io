@@ -11023,7 +11023,7 @@
 <p class="options">
 <span class="opt"><i>1</i>: TWTTR</span>
 <span class="opt"><i>2</i>: Birdy</span>
-<span class="opt"><i>3</i>: Twitnit</span>
+<span class="opt"><i>3</i>: Twinnit</span>
 </p>
 <p class="question">Вопрос 2: Что означает слово «твит»?</p>
 <p class="options">
