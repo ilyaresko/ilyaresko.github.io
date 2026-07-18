@@ -10311,6 +10311,38 @@
 <div class="episode-card">
 <div class="episode-header">
 
+### 02.06.2026: Константин, Алматы (10 000 тенге) :id=ep-02-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Почему космодром получил название Байконур?</p>
+<p class="options">
+<span class="opt"><i>1</i>: По названию ближайшего города</span>
+<span class="opt"><i>2</i>: Для секретности</span>
+<span class="opt"><i>3</i>: В честь конструктора</span>
+</p>
+<p class="question">Вопрос 2: Какое официальное имя носили манекены, которых запускали в космос перед полётом Юрия Гагарина?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Космонавт номер ноль</span>
+<span class="opt"><i>2</i>: Степан Степанович</span>
+<span class="opt"><i>3</i>: Иван Иванович</span>
+</p>
+<p class="question">Вопрос 3: Какой позывной был у Юрия Гагарина во время его исторического полёта?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кедр</span>
+<span class="opt"><i>2</i>: Сокол</span>
+<span class="opt"><i>3</i>: Чайка</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
 ### 03.06.2026: Ербулат, Уральск (15 000 тенге) :id=ep-03-06-2026
 
 </div>
@@ -10336,6 +10368,38 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>2</i>, <i>2</i>, <i>2</i></span>
 <span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 04.06.2026: Алмаз, Астана (20 000 тенге) :id=ep-04-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто автор государственного флага Казахстана?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Жандарбек Мәлібеков</span>
+<span class="opt"><i>2</i>: Шакен Ниязбеков</span>
+<span class="opt"><i>3</i>: Шота Валиханов</span>
+</p>
+<p class="question">Вопрос 2: Откуда по происхождению порода корги?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Из Уэльса</span>
+<span class="opt"><i>2</i>: Из Японии</span>
+<span class="opt"><i>3</i>: Из Германии</span>
+</p>
+<p class="question">Вопрос 3: За спойлер каких произведений администратор сайта в Японии получил судебный приговор?</p>
+<p class="options">
+<span class="opt"><i>1</i>: «Наруто» и «Атака титанов»</span>
+<span class="opt"><i>2</i>: «Клинок, рассекающий демонов» и «Магическая битва»</span>
+<span class="opt"><i>3</i>: «Годзилла: Минус один» и «Оверлорд»</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
 </div>
@@ -10400,6 +10464,38 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
 <span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 09.06.2026: Марат, Астана (35 000 тенге) :id=ep-09-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая компания первой в мире выпустила серийный мотоцикл, преодолевший рубеж в 300 км/ч?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Харли-Дэвидсон</span>
+<span class="opt"><i>2</i>: BMW</span>
+<span class="opt"><i>3</i>: Сузуки</span>
+</p>
+<p class="question">Вопрос 2: Какого южноамериканского футболиста называли королём футбола?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Марадона</span>
+<span class="opt"><i>2</i>: Пеле</span>
+<span class="opt"><i>3</i>: Роналдиньо</span>
+</p>
+<p class="question">Вопрос 3: Какое второе имя есть у Дональда Дака?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Теодор</span>
+<span class="opt"><i>2</i>: Фаунтлерой</span>
+<span class="opt"><i>3</i>: Джордж</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
 </div>
 </div>
 </div>
@@ -10503,6 +10599,70 @@
 <div class="episode-card">
 <div class="episode-header">
 
+### 15.06.2026: Мадина, Караганда (15 000 тенге) :id=ep-15-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется флаг Дании?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Даневирке</span>
+<span class="opt"><i>2</i>: Даннеброг</span>
+<span class="opt"><i>3</i>: Ротвайс</span>
+</p>
+<p class="question">Вопрос 2: Кто считается автором современного флага Армении, принятого в 1990 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Арам Хачатурян</span>
+<span class="opt"><i>2</i>: Степан Малхасянц</span>
+<span class="opt"><i>3</i>: Левон Тер-Петросян</span>
+</p>
+<p class="question">Вопрос 3: Какое прозвище получила компания IBM в деловом мире XX века?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Большой синий</span>
+<span class="opt"><i>2</i>: Железный гигант</span>
+<span class="opt"><i>3</i>: Компьютерный король</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 16.06.2026: Игорь, Рудный (20 000 тенге) :id=ep-16-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Сколько лет было Валентине Терешковой, когда она 16 июня 1963 года совершила первый в мире космический полёт женщины?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 23 года</span>
+<span class="opt"><i>2</i>: 26 лет</span>
+<span class="opt"><i>3</i>: 29 лет</span>
+</p>
+<p class="question">Вопрос 2: Как первоначально назывался напиток, который позже стал называться Pepsi-Cola?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Brad's Drink</span>
+<span class="opt"><i>2</i>: Cola Fresh</span>
+<span class="opt"><i>3</i>: Pepsi Soda</span>
+</p>
+<p class="question">Вопрос 3: В каком городе происходит действие романа, которому посвящён праздник Bloomsday?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Эдинбург</span>
+<span class="opt"><i>2</i>: Лондон</span>
+<span class="opt"><i>3</i>: Дублин</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
 ### 17.06.2026: Асет, Астана (25 000 тенге) :id=ep-17-06-2026
 
 </div>
@@ -10535,6 +10695,38 @@
 <div class="episode-card">
 <div class="episode-header">
 
+### 18.06.2026: Лена, Алматы (30 000 тенге) :id=ep-18-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Для кого была создана одна из первых детских колясок в XVIII веке?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Для детей французского короля Людовика XV</span>
+<span class="opt"><i>2</i>: Для детей герцога Девонширского</span>
+<span class="opt"><i>3</i>: Для наследника австрийского престола по личному заказу императрицы</span>
+</p>
+<p class="question">Вопрос 2: Какой вид суши буквально означает «сжатые руками»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Маки</span>
+<span class="opt"><i>2</i>: Темаки</span>
+<span class="opt"><i>3</i>: Нигири</span>
+</p>
+<p class="question">Вопрос 3: Какой знаменитый музыкальный коллектив прославил название моста Ватерлоо песней «Waterloo Sunset»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: The Beatles</span>
+<span class="opt"><i>2</i>: Queen</span>
+<span class="opt"><i>3</i>: The Kinks</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
 ### 19.06.2026: Нурлан, Алматы (35 000 тенге) :id=ep-19-06-2026
 
 </div>
@@ -10560,6 +10752,70 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 22.06.2026: Данияр, Талдыкорган (40 000 тенге) :id=ep-22-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой верблюд имеет два горба?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Дромедар</span>
+<span class="opt"><i>2</i>: Бактриан</span>
+<span class="opt"><i>3</i>: Гуанако</span>
+</p>
+<p class="question">Вопрос 2: Что означает слово «остео» в названии остеопатии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сустав</span>
+<span class="opt"><i>2</i>: Кость</span>
+<span class="opt"><i>3</i>: Мышца</span>
+</p>
+<p class="question">Вопрос 3: Как называется наука, изучающая поцелуи?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Герпетология</span>
+<span class="opt"><i>2</i>: Френология</span>
+<span class="opt"><i>3</i>: Филематология</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 23.06.2026: Рустам, Алматы (5 000 тенге) :id=ep-23-06-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как раньше в народе называли балалайку?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Трещотка</span>
+<span class="opt"><i>2</i>: Струница</span>
+<span class="opt"><i>3</i>: Балабайка</span>
+</p>
+<p class="question">Вопрос 2: Как называется самая маленькая балалайка в оркестре?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Прима</span>
+<span class="opt"><i>2</i>: Альт</span>
+<span class="opt"><i>3</i>: Бас</span>
+</p>
+<p class="question">Вопрос 3: Что в пишущей машинке называлось кареткой?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Подвижный блок для бумаги</span>
+<span class="opt"><i>2</i>: Клавиша пробела</span>
+<span class="opt"><i>3</i>: Чернильный валик</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span>
 </div>
 </div>
 </div>
