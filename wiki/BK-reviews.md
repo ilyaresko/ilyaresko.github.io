@@ -10948,6 +10948,166 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 13.07.2026: Данияр, Астана (20 000 тенге) :id=ep-13-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая страна принимала первый чемпионат мира по футболу?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Аргентина</span>
+<span class="opt"><i>2</i>: Бразилия</span>
+<span class="opt"><i>3</i>: Уругвай</span>
+</p>
+<p class="question">Вопрос 2: Кто стал первым чемпионом мира по футболу?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Уругвай</span>
+<span class="opt"><i>2</i>: Аргентина</span>
+<span class="opt"><i>3</i>: Италия</span>
+</p>
+<p class="question">Вопрос 3: Как назывался официальный кубок первого чемпионата мира?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кубок Анри Делоне</span>
+<span class="opt"><i>2</i>: Кубок мира ФИФА</span>
+<span class="opt"><i>3</i>: Кубок Жюля Риме</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 14.07.2026: Александр, Астана (5 000 тенге) :id=ep-14-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какую ягоду ботаники считают ближайшим родственником смородины?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Крыжовник</span>
+<span class="opt"><i>2</i>: Малина</span>
+<span class="opt"><i>3</i>: Виноград</span>
+</p>
+<p class="question">Вопрос 2: Какой известный учёный говорил, что не может найти вещи на идеально чистом столе?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Исаак Ньютон</span>
+<span class="opt"><i>2</i>: Альберт Эйнштейн</span>
+<span class="opt"><i>3</i>: Никола Тесла</span>
+</p>
+<p class="question">Вопрос 3: Какая акула считается одной из самых быстрых?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Акула-молот</span>
+<span class="opt"><i>2</i>: Акула-мако</span>
+<span class="opt"><i>3</i>: Китовая акула</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 15.07.2026: Нурай, Алматы (10 000 тенге) :id=ep-15-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как первоначально назывался «Твиттер»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: TWTTR</span>
+<span class="opt"><i>2</i>: Birdy</span>
+<span class="opt"><i>3</i>: Twitnit</span>
+</p>
+<p class="question">Вопрос 2: Что означает слово «твит»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Письмо</span>
+<span class="opt"><i>2</i>: Короткий рассказ</span>
+<span class="opt"><i>3</i>: Щебет птицы</span>
+</p>
+<p class="question">Вопрос 3: Кто написал самый первый твит?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Марк Цукерберг</span>
+<span class="opt"><i>2</i>: Илон Маск</span>
+<span class="opt"><i>3</i>: Джек Дорси</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 16.07.2026: Нурлан, Уральск (5 000 тенге) :id=ep-16-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какие две страны соединяет тоннель под Монбланом?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Франция и Германия</span>
+<span class="opt"><i>2</i>: Швейцария и Италия</span>
+<span class="opt"><i>3</i>: Франция и Италия</span>
+</p>
+<p class="question">Вопрос 2: Как звучал первый слоган Audi?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Строгое немецкое качество</span>
+<span class="opt"><i>2</i>: Превосходство высоких технологий</span>
+<span class="opt"><i>3</i>: Создана для скорости</span>
+</p>
+<p class="question">Вопрос 3: Что означает фамилия основателя Audi Хорьха?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Слушай</span>
+<span class="opt"><i>2</i>: Говори</span>
+<span class="opt"><i>3</i>: Замри</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 17.07.2026: Алия, Алматы (10 000 тенге) :id=ep-17-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой цвет чаще всего используют для служебных дверей и технических объектов в Диснейленде?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Красный</span>
+<span class="opt"><i>2</i>: Зелёный</span>
+<span class="opt"><i>3</i>: Жёлтый</span>
+</p>
+<p class="question">Вопрос 2: Что корпоративный устав Диснейленда строго запрещает произносить сотрудникам при общении с посетителями?</p>
+<p class="options">
+<span class="opt"><i>1</i>: «Я не знаю»</span>
+<span class="opt"><i>2</i>: «Пожалуйста, отойдите»</span>
+<span class="opt"><i>3</i>: «Одну минуту»</span>
+</p>
+<p class="question">Вопрос 3: Какой предмет запрещено продавать в магазинах Диснейленда?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Игрушечные пистолеты</span>
+<span class="opt"><i>2</i>: Спички и зажигалки</span>
+<span class="opt"><i>3</i>: Жевательные резинки</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
