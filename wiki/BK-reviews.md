@@ -11364,6 +11364,134 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 20.07.2026: Асемгуль, Уральск (15 000 тенге) :id=ep-20-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая шахматная фигура никогда не может оказаться на клетке другого цвета?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Слон</span>
+<span class="opt"><i>2</i>: Конь</span>
+<span class="opt"><i>3</i>: Ферзь</span>
+</p>
+<p class="question">Вопрос 2: Кто первым ступил на поверхность Луны?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Базз Олдрин</span>
+<span class="opt"><i>2</i>: Юрий Гагарин</span>
+<span class="opt"><i>3</i>: Нил Армстронг</span>
+</p>
+<p class="question">Вопрос 3: Как называется День моря в Японии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сора-но-хи</span>
+<span class="opt"><i>2</i>: Уми-но-хи</span>
+<span class="opt"><i>3</i>: Мидзу-но-хи</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 21.07.2026: Тимур, Семей (5 000 тенге) :id=ep-21-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется международная организация, проводящая чемпионаты мира по перетягиванию каната?</p>
+<p class="options">
+<span class="opt"><i>1</i>: FIAS</span>
+<span class="opt"><i>2</i>: TWIF</span>
+<span class="opt"><i>3</i>: FITEC</span>
+</p>
+<p class="question">Вопрос 2: В какой стране находится штаб-квартира Международной федерации перетягивания каната?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Англия</span>
+<span class="opt"><i>2</i>: Нидерланды</span>
+<span class="opt"><i>3</i>: Швейцария</span>
+</p>
+<p class="question">Вопрос 3: Какая команда судьи служит сигналом к началу схватки в перетягивании каната?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Pull</span>
+<span class="opt"><i>2</i>: Go</span>
+<span class="opt"><i>3</i>: Ready</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 23.07.2026: Арман, Алматы (10 000 тенге) :id=ep-23-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой приз вручают самому техничному боксёру Олимпийских игр?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кубок Расселла</span>
+<span class="opt"><i>2</i>: Пояс лучшего бойца AIBA</span>
+<span class="opt"><i>3</i>: Кубок Вэла Баркера</span>
+</p>
+<p class="question">Вопрос 2: В каком языке название четверга буквально означает «пятый день»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Португальский</span>
+<span class="opt"><i>2</i>: Немецкий</span>
+<span class="opt"><i>3</i>: Японский</span>
+</p>
+<p class="question">Вопрос 3: Какая группа первой в истории дебютировала с четырьмя первыми альбомами на первом месте Billboard 200?</p>
+<p class="options">
+<span class="opt"><i>1</i>: NSYNC</span>
+<span class="opt"><i>2</i>: One Direction</span>
+<span class="opt"><i>3</i>: Maroon 5</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 24.07.2026: Ангелина, Актау (15 000 тенге) :id=ep-24-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто был создателем первого коммерчески успешного растворимого кофе Nescafé?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Альфред Пити</span>
+<span class="opt"><i>2</i>: Макс Моргенталер</span>
+<span class="opt"><i>3</i>: Анри Нестле</span>
+</p>
+<p class="question">Вопрос 2: Какой цветок считается одним из самых больших в мире?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Аморфофаллус титанический</span>
+<span class="opt"><i>2</i>: Раффлезия Арнольди</span>
+<span class="opt"><i>3</i>: Виктория амазонская</span>
+</p>
+<p class="question">Вопрос 3: Налог на какую деталь дома отменили в Англии в 1851 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Налог на окна</span>
+<span class="opt"><i>2</i>: Налог на дверной глазок</span>
+<span class="opt"><i>3</i>: Налог на дымоходы</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
