@@ -11492,6 +11492,166 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 27.07.2026: Ихлас, Караганда (20 000 тенге) :id=ep-27-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой материал сегодня чаще всего используют для изготовления белых зубных коронок?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Диоксид циркония</span>
+<span class="opt"><i>2</i>: Амальгама</span>
+<span class="opt"><i>3</i>: Полиэфирэфиркетон (PEEK)</span>
+</p>
+<p class="question">Вопрос 2: Как называется управление парашютом во время снижения?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Купольная балансировка</span>
+<span class="opt"><i>2</i>: Пилотирование купола</span>
+<span class="opt"><i>3</i>: Элевация</span>
+</p>
+<p class="question">Вопрос 3: Какой рок-музыкант в детстве мечтал стать профессиональным игроком в крикет и поступил в Лондонскую школу экономики?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Оззи Осборн</span>
+<span class="opt"><i>2</i>: Курт Кобейн</span>
+<span class="opt"><i>3</i>: Мик Джаггер</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 28.07.2026: Сергей, Павлодар (25 000 тенге) :id=ep-28-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что означает аббревиатура «пиар»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Public relations</span>
+<span class="opt"><i>2</i>: Personal records</span>
+<span class="opt"><i>3</i>: Personal rating</span>
+</p>
+<p class="question">Вопрос 2: Как называется главный кубковый турнир США по футболу, в котором могут сыграть и любительские команды?</p>
+<p class="options">
+<span class="opt"><i>1</i>: US Open Cup</span>
+<span class="opt"><i>2</i>: MLS Open Cup</span>
+<span class="opt"><i>3</i>: National Soccer Cup</span>
+</p>
+<p class="question">Вопрос 3: Как звали бизнесмена, у которого Уильям Гершель в 1858 году впервые взял отпечатки пальцев для идентификации личности?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Раджьядхар Конаи</span>
+<span class="opt"><i>2</i>: Арджун Сенгупта</span>
+<span class="opt"><i>3</i>: Джамал Мукерджи</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 29.07.2026: Сауле, Караганда (30 000 тенге) :id=ep-29-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой город считается ближайшим к месту будущего возвращения тигров в Казахстане?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Балхаш</span>
+<span class="opt"><i>2</i>: Усть-Каменогорск</span>
+<span class="opt"><i>3</i>: Актау</span>
+</p>
+<p class="question">Вопрос 2: Кто первым выпустил губную помаду в выдвижном тюбике?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Морис Леви</span>
+<span class="opt"><i>2</i>: Макс Фактор</span>
+<span class="opt"><i>3</i>: Шанель</span>
+</p>
+<p class="question">Вопрос 3: Кто написал текст гимна Румынии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Андрей Мурешану</span>
+<span class="opt"><i>2</i>: Михай Эминеску</span>
+<span class="opt"><i>3</i>: Ион Крянгэ</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 30.07.2026: Ергали, Шымкент (35 000 тенге) :id=ep-30-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой документ ООН официально учредил Международный день дружбы?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Резолюция 65/275</span>
+<span class="opt"><i>2</i>: Резолюция 70/125</span>
+<span class="opt"><i>3</i>: Резолюция 58/4</span>
+</p>
+<p class="question">Вопрос 2: Кто из героев сериала «Друзья» чаще всего говорил фразу «How you doing»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Чендлер</span>
+<span class="opt"><i>2</i>: Росс</span>
+<span class="opt"><i>3</i>: Джоуи</span>
+</p>
+<p class="question">Вопрос 3: Как называлась самая влиятельная семья в сериале «Санта-Барбара»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Болдуины</span>
+<span class="opt"><i>2</i>: Андрады</span>
+<span class="opt"><i>3</i>: Кэпвеллы</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 31.07.2026: Алия, Уральск (40 000 тенге) :id=ep-31-07-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Во сколько поезд отправляется в Хогвартс?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В 9 утра</span>
+<span class="opt"><i>2</i>: В 10 утра</span>
+<span class="opt"><i>3</i>: В 11 утра</span>
+</p>
+<p class="question">Вопрос 2: На каком музыкальном инструменте не нужно ничего касаться руками?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Окарина</span>
+<span class="opt"><i>2</i>: Терменвокс</span>
+<span class="opt"><i>3</i>: Калимба</span>
+</p>
+<p class="question">Вопрос 3: Какой инструмент часто делают из высушенной тыквы?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Маракас</span>
+<span class="opt"><i>2</i>: Амникорт</span>
+<span class="opt"><i>3</i>: Адырна</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
