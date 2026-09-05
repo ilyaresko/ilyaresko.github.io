@@ -11652,6 +11652,175 @@
 </div>
 </div>
 
+## Сезон 2026–2027
+
+<div class="season-summary">
+<span class="ss-stat">📅 <strong>5</strong> эпизодов</span>
+<span class="ss-stat">🏆 <strong>0</strong> побед</span>
+<span class="ss-stat">💰 <strong>0</strong> тенге выиграно</span>
+<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 31.08.2026: Луиза, Астана (45 000 тенге) :id=ep-31-08-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: От какого латинского слова произошло слово «ветеринар»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Veterinarius</span>
+<span class="opt"><i>2</i>: Veterina</span>
+<span class="opt"><i>3</i>: Veterus</span>
+</p>
+<p class="question">Вопрос 2: Какой праздник отмечает Кыргызстан 31 августа?</p>
+<p class="options">
+<span class="opt"><i>1</i>: День Конституции</span>
+<span class="opt"><i>2</i>: День независимости</span>
+<span class="opt"><i>3</i>: День истории и памяти предков</span>
+</p>
+<p class="question">Вопрос 3: Какой день Всемирная организация здравоохранения отмечает 31 августа?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Международный день фармацевта</span>
+<span class="opt"><i>2</i>: День африканской традиционной медицины</span>
+<span class="opt"><i>3</i>: День африканских врачей</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 01.09.2026: Махаббат, Караганда (50 000 тенге) :id=ep-01-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В какой из этих стран учебный год начинается не в сентябре?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Канада</span>
+<span class="opt"><i>2</i>: Япония</span>
+<span class="opt"><i>3</i>: Франция</span>
+</p>
+<p class="question">Вопрос 2: Кто был самым первым ведущим телепередачи «Спокойной ночи, малыши»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Владимир Ухин</span>
+<span class="opt"><i>2</i>: Юрий Григорьев</span>
+<span class="opt"><i>3</i>: Ангелина Вовк</span>
+</p>
+<p class="question">Вопрос 3: Как назывался первый в мире супермаркет, открывшийся в Лондоне в 1951 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Tesco</span>
+<span class="opt"><i>2</i>: Marks &amp; Spencer</span>
+<span class="opt"><i>3</i>: Premier Supermarkets</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 02.09.2026: Александр, Петропавловск (55 000 тенге) :id=ep-02-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая страна считается одним из крупнейших производителей кокосов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Бразилия</span>
+<span class="opt"><i>2</i>: Таиланд</span>
+<span class="opt"><i>3</i>: Индонезия</span>
+</p>
+<p class="question">Вопрос 2: Что означает латинское слово septem, от которого произошло название сентября?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Девять</span>
+<span class="opt"><i>2</i>: Семь</span>
+<span class="opt"><i>3</i>: Урожай</span>
+</p>
+<p class="question">Вопрос 3: Какая из этих актрис родилась под знаком Девы и до актёрской карьеры серьёзно увлекалась спортом?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кэмерон Диаз</span>
+<span class="opt"><i>2</i>: Зендея</span>
+<span class="opt"><i>3</i>: Сальма Хайек</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 03.09.2026: Римма, Павлодар (60 000 тенге) :id=ep-03-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется альбом Михаила Шуфутинского, куда вошла песня «Третье сентября»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Love Story</span>
+<span class="opt"><i>2</i>: Гуляй, душа</span>
+<span class="opt"><i>3</i>: Гулливер</span>
+</p>
+<p class="question">Вопрос 2: Какой из этих сортов винограда относится к виду <em>Vitis vinifera</em>?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Каберне Совиньон</span>
+<span class="opt"><i>2</i>: Изабелла</span>
+<span class="opt"><i>3</i>: Конкорд</span>
+</p>
+<p class="question">Вопрос 3: Как называется американская игра, которая считается одним из предшественников современного боулинга?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ninepins</span>
+<span class="opt"><i>2</i>: Шаффлборд</span>
+<span class="opt"><i>3</i>: Кёрлинг</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 04.09.2026: Марат, Астана (65 000 тенге) :id=ep-04-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как назывался первый вариант игры «Что? Где? Когда?»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Вопрос на миллион</span>
+<span class="opt"><i>2</i>: Интеллектуальный клуб</span>
+<span class="opt"><i>3</i>: Семейная викторина</span>
+</p>
+<p class="question">Вопрос 2: Из скольких слов состояло первоначальное название города Лос-Анджелес?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 4</span>
+<span class="opt"><i>2</i>: 7</span>
+<span class="opt"><i>3</i>: 11</span>
+</p>
+<p class="question">Вопрос 3: Кто изобрёл колготки, поступившие в продажу 4 сентября 1959 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Рудольф Даслер</span>
+<span class="opt"><i>2</i>: Ален Гант</span>
+<span class="opt"><i>3</i>: Мэри Куант</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
