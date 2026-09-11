@@ -11655,11 +11655,18 @@
 ## Сезон 2026–2027
 
 <div class="season-summary">
-<span class="ss-stat">📅 <strong>5</strong> эпизодов</span>
-<span class="ss-stat">🏆 <strong>0</strong> побед</span>
-<span class="ss-stat">💰 <strong>0</strong> тенге выиграно</span>
+<span class="ss-stat">📅 <strong>10</strong> эпизодов</span>
+<span class="ss-stat">🏆 <strong>1</strong> победа</span>
+<span class="ss-stat">💰 <strong>90 000</strong> тенге выиграно</span>
 <span class="ss-stat">⭐ <strong>0</strong> гостей</span>
 </div>
+
+<details class="season-wins">
+<summary>Победители сезона (1)</summary>
+<ul>
+<li><a href="#/BK-reviews?id=ep-11-09-2026">11.09.2026 — Алма, Павлодар (90 000 тенге)</a></li>
+</ul>
+</details>
 
 <div class="episode-card">
 <div class="episode-header">
@@ -11817,6 +11824,166 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
 <span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 07.09.2026: Иван, Астана (70 000 тенге) :id=ep-07-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называлась система письма Ахмета Байтурсынова?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кириллическая графика</span>
+<span class="opt"><i>2</i>: Ясное письмо</span>
+<span class="opt"><i>3</i>: Новый алфавит</span>
+</p>
+<p class="question">Вопрос 2: Какой остров Байкала самый большой?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Огой</span>
+<span class="opt"><i>2</i>: Ольхон</span>
+<span class="opt"><i>3</i>: Хунук</span>
+</p>
+<p class="question">Вопрос 3: Кем была бабушка Мозес?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Учителем</span>
+<span class="opt"><i>2</i>: Художницей</span>
+<span class="opt"><i>3</i>: Врачом</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 08.09.2026: Яна, Астана (75 000 тенге) :id=ep-08-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая страна первой ввела отрицательные процентные ставки для коммерческих банков?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Швеция</span>
+<span class="opt"><i>2</i>: Швейцария</span>
+<span class="opt"><i>3</i>: Япония</span>
+</p>
+<p class="question">Вопрос 2: Какой знак называют амперсандом?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Собачка (@)</span>
+<span class="opt"><i>2</i>: Решётка (#)</span>
+<span class="opt"><i>3</i>: И (&amp;)</span>
+</p>
+<p class="question">Вопрос 3: Какой актёр отказался от «Оскара» за лучшую мужскую роль?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Том Хэнкс</span>
+<span class="opt"><i>2</i>: Марлон Брандо</span>
+<span class="opt"><i>3</i>: Роберт Де Ниро</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 09.09.2026: Серик, Костанай (80 000 тенге) :id=ep-09-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется японский праздник хризантем?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сакура-но хи</span>
+<span class="opt"><i>2</i>: Хана-но мацури</span>
+<span class="opt"><i>3</i>: Кику-но сэкку</span>
+</p>
+<p class="question">Вопрос 2: В какой стране впервые начали отмечать Международный день красоты?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Лихтенштейн</span>
+<span class="opt"><i>2</i>: Бельгия</span>
+<span class="opt"><i>3</i>: Франция</span>
+</p>
+<p class="question">Вопрос 3: Кто придумал головоломку, которая позже стала судоку?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Американский архитектор</span>
+<span class="opt"><i>2</i>: Японский математик</span>
+<span class="opt"><i>3</i>: Британский программист</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 10.09.2026: Меруерт, Павлодар (85 000 тенге) :id=ep-10-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой бренд декоративной косметики принадлежит певице Рианне?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Rare Beauty</span>
+<span class="opt"><i>2</i>: Fenty Beauty</span>
+<span class="opt"><i>3</i>: Rhode</span>
+</p>
+<p class="question">Вопрос 2: Как в Китае называют учителя?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Лаоши</span>
+<span class="opt"><i>2</i>: Сэнсэй</span>
+<span class="opt"><i>3</i>: Гуру</span>
+</p>
+<p class="question">Вопрос 3: Почему День учителя в Китае отмечают именно 10 сентября?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В день рождения Конфуция</span>
+<span class="opt"><i>2</i>: Перед началом учебного года</span>
+<span class="opt"><i>3</i>: В день основания первой школы</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 11.09.2026: Алма, Павлодар (90 000 тенге) :id=ep-11-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что необычного делают с кофейной мякотью в Коста-Рике?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Используют как удобрение</span>
+<span class="opt"><i>2</i>: Делают из неё шоколад</span>
+<span class="opt"><i>3</i>: Замораживают для экспорта</span>
+</p>
+<p class="question">Вопрос 2: Как называется тринадцатый месяц эфиопского календаря?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Пагуме</span>
+<span class="opt"><i>2</i>: Мескель</span>
+<span class="opt"><i>3</i>: Энкутаташ</span>
+</p>
+<p class="question">Вопрос 3: Как назывался Манхэттен до того, как стал частью Нью-Йорка?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Манхаттани</span>
+<span class="opt"><i>2</i>: Манахаттен</span>
+<span class="opt"><i>3</i>: Манахата</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>3</i></span>
 </div>
 </div>
 </div>
