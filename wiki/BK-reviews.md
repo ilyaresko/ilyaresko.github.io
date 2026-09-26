@@ -11655,10 +11655,10 @@
 ## Сезон 2026–2027
 
 <div class="season-summary">
-<span class="ss-stat">📅 <strong>10</strong> эпизодов</span>
+<span class="ss-stat">📅 <strong>19</strong> эпизодов</span>
 <span class="ss-stat">🏆 <strong>1</strong> победа</span>
 <span class="ss-stat">💰 <strong>90 000</strong> тенге выиграно</span>
-<span class="ss-stat">⭐ <strong>0</strong> гостей</span>
+<span class="ss-stat">⭐ <strong>1</strong> гость</span>
 </div>
 
 <details class="season-wins">
@@ -11988,10 +11988,300 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 14.09.2026: Руслан, Аксай (5 000 тенге) :id=ep-14-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой компонент шоколада может улучшать настроение?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Пальмитиновая кислота</span>
+<span class="opt"><i>2</i>: Триптофан</span>
+<span class="opt"><i>3</i>: Кофеин</span>
+</p>
+<p class="question">Вопрос 2: Что на самом деле определяет естественный цвет волос?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кератохром и трихосидерин</span>
+<span class="opt"><i>2</i>: Нейромеланин и липофусцин</span>
+<span class="opt"><i>3</i>: Эумеланин и феомеланин</span>
+</p>
+<p class="question">Вопрос 3: Какое слово пришло в русский язык из хинди?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мандарин</span>
+<span class="opt"><i>2</i>: Пижама</span>
+<span class="opt"><i>3</i>: Карандаш</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 15.09.2026: Кайрат, Алматы (10 000 тенге) :id=ep-15-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как зовут главную героиню книги «Точка» Питера Рейнольдса?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Асти</span>
+<span class="opt"><i>2</i>: Эмма</span>
+<span class="opt"><i>3</i>: Вашти</span>
+</p>
+<p class="question">Вопрос 2: Что было изображено на обложке первого номера журнала «Форбс»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Портрет Джона Рокфеллера</span>
+<span class="opt"><i>2</i>: Графический рисунок с колоннами</span>
+<span class="opt"><i>3</i>: Фотография здания Нью-Йоркской фондовой биржи</span>
+</p>
+<p class="question">Вопрос 3: Что означает название пасты лингвини в переводе с итальянского?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Морские волны</span>
+<span class="opt"><i>2</i>: Маленькие языки</span>
+<span class="opt"><i>3</i>: Тонкие ленты</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 16.09.2026: Бахтияр, Алматы (15 000 тенге) :id=ep-16-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: На теле какого древнего человека нашли самые старые известные татуировки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Тутанхамон</span>
+<span class="opt"><i>2</i>: Этци</span>
+<span class="opt"><i>3</i>: Александр Македонский</span>
+</p>
+<p class="question">Вопрос 2: Кто популяризировал татуировки в Европе в XIX веке?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Моряки</span>
+<span class="opt"><i>2</i>: Шахтёры</span>
+<span class="opt"><i>3</i>: Учёные-этнографы</span>
+</p>
+<p class="question">Вопрос 3: Кто запатентовал первую электрическую тату-машину?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Сэмюэл О'Райли</span>
+<span class="opt"><i>2</i>: Чарли Вагнер</span>
+<span class="opt"><i>3</i>: Перси Уотерс</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 17.09.2026: Акижан, Алматы (20 000 тенге) :id=ep-17-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой инструмент считается одним из главных символов кантри-музыки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Стил-гитара</span>
+<span class="opt"><i>2</i>: Фидл</span>
+<span class="opt"><i>3</i>: Банджо</span>
+</p>
+<p class="question">Вопрос 2: Как называется знаменитая столица кантри-музыки в США?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Остин</span>
+<span class="opt"><i>2</i>: Бристол</span>
+<span class="opt"><i>3</i>: Нэшвилл</span>
+</p>
+<p class="question">Вопрос 3: Сколько спутников у Сатурна по состоянию на 2026 год?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 96</span>
+<span class="opt"><i>2</i>: 179</span>
+<span class="opt"><i>3</i>: 292</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 18.09.2026: Руслан, Алматы (25 000 тенге) :id=ep-18-09-2026
+
+</div>
+<div class="episode-body">
+<p class="guest">Звёздный гость: <i>Алексей Пономарёв (группа «Сэм Линкольн»)</i></p>
+<p class="question">Вопрос 1: Как назывался проект, благодаря которому появилась одна из первых больших коллекций электронных книг?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Project Gutenberg</span>
+<span class="opt"><i>2</i>: Project Library</span>
+<span class="opt"><i>3</i>: Digital Books</span>
+</p>
+<p class="question">Вопрос 2: Как первоначально называлась газета, известная сегодня как The New York Times?</p>
+<p class="options">
+<span class="opt"><i>1</i>: New-York Daily Times</span>
+<span class="opt"><i>2</i>: New York Post</span>
+<span class="opt"><i>3</i>: American Times</span>
+</p>
+<p class="question">Вопрос 3: Кто из этих людей не был основателем The New York Times?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Уильям Хёрст</span>
+<span class="opt"><i>2</i>: Генри Реймонд</span>
+<span class="opt"><i>3</i>: Джордж Джонс</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 21.09.2026: Елена, Талдыкорган (30 000 тенге) :id=ep-21-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто из знаменитых художников внёс вклад в изучение анатомии человека?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Леонардо да Винчи</span>
+<span class="opt"><i>2</i>: Винсент Ван Гог</span>
+<span class="opt"><i>3</i>: Клод Моне</span>
+</p>
+<p class="question">Вопрос 2: Где зародилось движение World Cleanup Day?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Эстония</span>
+<span class="opt"><i>2</i>: Япония</span>
+<span class="opt"><i>3</i>: Канада</span>
+</p>
+<p class="question">Вопрос 3: Чем является банан с точки зрения ботаники?<sup class="reference"><a href="#note-3">[прим. 3]</a></sup></p>
+<p class="options">
+<span class="opt"><i>1</i>: Фрукт</span>
+<span class="opt"><i>2</i>: Соплодие</span>
+<span class="opt"><i>3</i>: Ягода</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 22.09.2026: Владимир, Талдыкорган (35 000 тенге) :id=ep-22-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая компания была основана женщиной, которая стала одной из первых в США женщин-миллиардеров?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Estée Lauder</span>
+<span class="opt"><i>2</i>: Sephora</span>
+<span class="opt"><i>3</i>: Tupperware</span>
+</p>
+<p class="question">Вопрос 2: Кто из этих женщин начала свой бизнес после 50 лет?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Вера Вонг</span>
+<span class="opt"><i>2</i>: Коко Шанель</span>
+<span class="opt"><i>3</i>: Ариана Хаффингтон</span>
+</p>
+<p class="question">Вопрос 3: Столица какого штата США находится выше всех над уровнем моря?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Денвер</span>
+<span class="opt"><i>2</i>: Санта-Фе</span>
+<span class="opt"><i>3</i>: Феникс</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 23.09.2026: Вячеслав, Астана (40 000 тенге) :id=ep-23-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что было написано на первой странице Яндекса в 1997 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: «Яндекс. Здесь найдётся всё»</span>
+<span class="opt"><i>2</i>: «Привет, интернет»</span>
+<span class="opt"><i>3</i>: «Яндекс.Веб. Поисковая машина нового поколения»</span>
+</p>
+<p class="question">Вопрос 2: Где познакомились Аркадий Волож и Илья Сегалович?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В университете</span>
+<span class="opt"><i>2</i>: В школе</span>
+<span class="opt"><i>3</i>: На первой работе</span>
+</p>
+<p class="question">Вопрос 3: Как называлась первая версия Android до выхода коммерческой версии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Sooner</span>
+<span class="opt"><i>2</i>: Astro Boy</span>
+<span class="opt"><i>3</i>: Petit Four</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 24.09.2026: Асет, Алматы (45 000 тенге) :id=ep-24-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какое море считается самым маленьким в мире?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Азовское</span>
+<span class="opt"><i>2</i>: Мраморное</span>
+<span class="opt"><i>3</i>: Чёрное</span>
+</p>
+<p class="question">Вопрос 2: Какой фильм считается одним из первых индийских звуковых фильмов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Алам Ара</span>
+<span class="opt"><i>2</i>: Шолей</span>
+<span class="opt"><i>3</i>: Мать Индия</span>
+</p>
+<p class="question">Вопрос 3: Какой продукт обычно используют для придания мофонго характерного вкуса?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мёд</span>
+<span class="opt"><i>2</i>: Чеснок</span>
+<span class="opt"><i>3</i>: Какао</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
 <li id="note-1">Действительный перевод названия — «Я тебя ищу».</li>
 <li id="note-2">Ответ «в русском» не является верным, так как в комментарии было указано, что слово «понедельник» было образовано от слова «неделя», которым воскресенье обозначалось ранее; при этом в польском языке эти дни недели обозначаются «niedziela» и «poniedziałek».</li>
+<li id="note-3">В эфире ответ «ягода» был записан как вариант 2, поэтому объявленный код игры — 2-1-2; в озвученном ведущей порядке вариантов «ягода» — третий. Ошибочным был только ответ на первый вопрос.</li>
 </ol>
 
