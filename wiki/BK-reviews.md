@@ -11655,7 +11655,7 @@
 ## Сезон 2026–2027
 
 <div class="season-summary">
-<span class="ss-stat">📅 <strong>19</strong> эпизодов</span>
+<span class="ss-stat">📅 <strong>24</strong> эпизода</span>
 <span class="ss-stat">🏆 <strong>1</strong> победа</span>
 <span class="ss-stat">💰 <strong>90 000</strong> тенге выиграно</span>
 <span class="ss-stat">⭐ <strong>1</strong> гость</span>
@@ -12277,11 +12277,172 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 28.09.2026: Серик, Кокшетау (50 000 тенге) :id=ep-28-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто случайно обнаружил пенициллин, заметив, что плесень уничтожает бактерии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Роберт Кох</span>
+<span class="opt"><i>2</i>: Луи Пастер</span>
+<span class="opt"><i>3</i>: Александр Флеминг</span>
+</p>
+<p class="question">Вопрос 2: Какой художник Marvel рисовал Человека-паука и участвовал в создании многих персонажей вместе со Стэном Ли?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джек Кирби</span>
+<span class="opt"><i>2</i>: Стив Дитко</span>
+<span class="opt"><i>3</i>: Боб Кейн</span>
+</p>
+<p class="question">Вопрос 3: Какой математик был настолько увлечён числами, что получил прозвище «человек, который знал числа»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Леонард Эйлер</span>
+<span class="opt"><i>2</i>: Карл Фридрих Гаусс</span>
+<span class="opt"><i>3</i>: Сриниваса Рамануджан</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 29.09.2026: Исмаил, Семей (55 000 тенге) :id=ep-29-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как назывались текстовые вставки, которые в немом кино передавали реплики персонажей?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Экспликации</span>
+<span class="opt"><i>2</i>: Интертитры</span>
+<span class="opt"><i>3</i>: Субтитры</span>
+</p>
+<p class="question">Вопрос 2: Где открылось первое в мире брачное агентство?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В Париже</span>
+<span class="opt"><i>2</i>: В Риме</span>
+<span class="opt"><i>3</i>: В Лондоне</span>
+</p>
+<p class="question">Вопрос 3: В какой стране появился напиток, который мы сегодня называем капучино?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Италия</span>
+<span class="opt"><i>2</i>: Мексика</span>
+<span class="opt"><i>3</i>: Бразилия</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 30.09.2026: Андрей, Актау (60 000 тенге) :id=ep-30-09-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется перевод фильма или сериала, при котором переводят не только реплики, но и надписи на экране?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ревойсинг</span>
+<span class="opt"><i>2</i>: Тайпсеттинг</span>
+<span class="opt"><i>3</i>: Локализация</span>
+</p>
+<p class="question">Вопрос 2: Какая кей-поп-группа первой выступила на фестивале Coachella?</p>
+<p class="options">
+<span class="opt"><i>1</i>: BTS</span>
+<span class="opt"><i>2</i>: Blackpink</span>
+<span class="opt"><i>3</i>: Epik High</span>
+</p>
+<p class="question">Вопрос 3: Откуда произошло слово «подкаст»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: От английского термина «подкастинг»</span>
+<span class="opt"><i>2</i>: От слияния слов iPod и broadcast</span>
+<span class="opt"><i>3</i>: От технической аббревиатуры POD</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 01.10.2026: Марат, Алматы (65 000 тенге) :id=ep-01-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой музыкальный инструмент называют королём инструментов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Орган</span>
+<span class="opt"><i>2</i>: Рояль</span>
+<span class="opt"><i>3</i>: Скрипка</span>
+</p>
+<p class="question">Вопрос 2: Какой композитор написал произведение, которое длится 639 лет?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Макс Рихтер</span>
+<span class="opt"><i>2</i>: Джон Кейдж</span>
+<span class="opt"><i>3</i>: Рагнар Кьяртанссон</span>
+</p>
+<p class="question">Вопрос 3: Под каким рабочим названием изначально создавалась песня Dancing Queen группы ABBA?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ticking Girl</span>
+<span class="opt"><i>2</i>: Honey Pie</span>
+<span class="opt"><i>3</i>: Boogaloo</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 02.10.2026: Нуржан, Актобе (70 000 тенге) :id=ep-02-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Что отправил Рэй Томлинсон в первом электронном письме?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Hello</span>
+<span class="opt"><i>2</i>: Своё имя</span>
+<span class="opt"><i>3</i>: Набор символов</span>
+</p>
+<p class="question">Вопрос 2: Какое настоящее имя было у Махатмы Ганди?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мохандас Карамчанд Ганди</span>
+<span class="opt"><i>2</i>: Харилал Мохандас Ганди</span>
+<span class="opt"><i>3</i>: Самандас Мохандас Ганди</span>
+</p>
+<p class="question">Вопрос 3: Что необычного было в клипе «Happy» Фаррелла Уильямса?<sup class="reference"><a href="#note-4">[прим. 4]</a></sup></p>
+<p class="options">
+<span class="opt"><i>1</i>: Он был снят одним дублем</span>
+<span class="opt"><i>2</i>: Он длится 24 часа</span>
+<span class="opt"><i>3</i>: В нём снялись только люди с именем Фаррелл</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
 ## Примечания
 
 <ol class="references">
 <li id="note-1">Действительный перевод названия — «Я тебя ищу».</li>
 <li id="note-2">Ответ «в русском» не является верным, так как в комментарии было указано, что слово «понедельник» было образовано от слова «неделя», которым воскресенье обозначалось ранее; при этом в польском языке эти дни недели обозначаются «niedziela» и «poniedziałek».</li>
 <li id="note-3">В эфире ответ «ягода» был записан как вариант 2, поэтому объявленный код игры — 2-1-2; в озвученном ведущей порядке вариантов «ягода» — третий. Ошибочным был только ответ на первый вопрос.</li>
+<li id="note-4">Участник сначала назвал верный вариант — «он длится 24 часа», — но тут же переменил ответ на третий, и зафиксирован был именно он. Ведущие разбирали это расхождение в эфире.</li>
 </ol>
 
