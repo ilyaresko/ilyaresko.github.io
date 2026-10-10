@@ -11655,16 +11655,18 @@
 ## Сезон 2026–2027
 
 <div class="season-summary">
-<span class="ss-stat">📅 <strong>24</strong> эпизода</span>
-<span class="ss-stat">🏆 <strong>1</strong> победа</span>
-<span class="ss-stat">💰 <strong>90 000</strong> тенге выиграно</span>
+<span class="ss-stat">📅 <strong>29</strong> эпизодов</span>
+<span class="ss-stat">🏆 <strong>3</strong> победы</span>
+<span class="ss-stat">💰 <strong>185 000</strong> тенге выиграно</span>
 <span class="ss-stat">⭐ <strong>1</strong> гость</span>
 </div>
 
 <details class="season-wins">
-<summary>Победители сезона (1)</summary>
+<summary>Победители сезона (3)</summary>
 <ul>
 <li><a href="#/BK-reviews?id=ep-11-09-2026">11.09.2026 — Алма, Павлодар (90 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-07-10-2026">07.10.2026 — Ольга, Караганда (85 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-09-10-2026">09.10.2026 — Абай, Атырау (10 000 тенге)</a></li>
 </ul>
 </details>
 
@@ -12433,6 +12435,166 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>3</i>, <i>1</i>, <i>3</i></span>
 <span>Правильные ответы: <i>3</i>, <i>1</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 05.10.2026: Ануар, Актобе (75 000 тенге) :id=ep-05-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: В какой стране День врача отмечают 1 июля, а не в октябре?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Канада</span>
+<span class="opt"><i>2</i>: Индия</span>
+<span class="opt"><i>3</i>: Австралия</span>
+</p>
+<p class="question">Вопрос 2: В каком городе была основана Всемирная медицинская ассоциация?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Лондон</span>
+<span class="opt"><i>2</i>: Женева</span>
+<span class="opt"><i>3</i>: Париж</span>
+</p>
+<p class="question">Вопрос 3: Какой педагог первым применил термин «детский сад»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Ян Амос Коменский</span>
+<span class="opt"><i>2</i>: Иоганн Песталоцци</span>
+<span class="opt"><i>3</i>: Фридрих Фрёбель</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 06.10.2026: Назира, Талдыкорган (80 000 тенге) :id=ep-06-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто из казахстанских учёных написал один из известных учебников по бухгалтерскому учёту, который использовался при подготовке специалистов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Абдыгали Абдыманапов</span>
+<span class="opt"><i>2</i>: К. К. Кеулимжаев</span>
+<span class="opt"><i>3</i>: Д. Э. Нурсеитов</span>
+</p>
+<p class="question">Вопрос 2: Как изначально назывался Instagram до запуска?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Burbn</span>
+<span class="opt"><i>2</i>: Picgram</span>
+<span class="opt"><i>3</i>: Foursquare</span>
+</p>
+<p class="question">Вопрос 3: Что означает название «Мулен Руж» в переводе с французского?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Красная мельница</span>
+<span class="opt"><i>2</i>: Красный театр</span>
+<span class="opt"><i>3</i>: Красный танец</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 07.10.2026: Ольга, Караганда (85 000 тенге) :id=ep-07-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называлась компания, начавшая строительство первой крупной железной дороги США?</p>
+<p class="options">
+<span class="opt"><i>1</i>: New York Central</span>
+<span class="opt"><i>2</i>: Baltimore and Ohio</span>
+<span class="opt"><i>3</i>: Pacific Express</span>
+</p>
+<p class="question">Вопрос 2: В какой стране появился современный кофе фраппе?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Италия</span>
+<span class="opt"><i>2</i>: Греция</span>
+<span class="opt"><i>3</i>: Франция</span>
+</p>
+<p class="question">Вопрос 3: Какой предмет когда-то делали из хлопка вместо пластика?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Воздушный шар</span>
+<span class="opt"><i>2</i>: Фотоплёнку</span>
+<span class="opt"><i>3</i>: Лампочки</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 08.10.2026: Вадим, Алматы (5 000 тенге) :id=ep-08-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какая буква самая крупная и стоит в первой строке классической таблицы Снеллена?</p>
+<p class="options">
+<span class="opt"><i>1</i>: E</span>
+<span class="opt"><i>2</i>: F</span>
+<span class="opt"><i>3</i>: T</span>
+</p>
+<p class="question">Вопрос 2: Какой матч стал одним из первых футбольных матчей, которые транслировали по радио?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Арсенал — Шеффилд Юнайтед</span>
+<span class="opt"><i>2</i>: Милан — Ювентус</span>
+<span class="opt"><i>3</i>: Славия — МТК</span>
+</p>
+<p class="question">Вопрос 3: Кто считается автором первых правил современного бокса, предусматривающих использование перчаток?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джон Грэм Чемберс</span>
+<span class="opt"><i>2</i>: Джон Шолто Дуглас</span>
+<span class="opt"><i>3</i>: Джек Бротон</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 09.10.2026: Абай, Атырау (10 000 тенге) :id=ep-09-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Для чего в кремах используют наночастицы диоксида титана?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Для сильного отбеливания</span>
+<span class="opt"><i>2</i>: Для приятного запаха</span>
+<span class="opt"><i>3</i>: Для защиты от ультрафиолетовых лучей</span>
+</p>
+<p class="question">Вопрос 2: Кто из этих знаменитостей действительно работал ветеринаром до того, как стал писателем?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Стивен Кинг</span>
+<span class="opt"><i>2</i>: Джеймс Хэрриот</span>
+<span class="opt"><i>3</i>: Джордж Оруэлл</span>
+</p>
+<p class="question">Вопрос 3: Кто первым поднялся на Большой Арарат в 1829 году?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Фридрих Паррот</span>
+<span class="opt"><i>2</i>: Александр фон Гумбольдт</span>
+<span class="opt"><i>3</i>: Отто Шмидт</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span>
 </div>
 </div>
 </div>
