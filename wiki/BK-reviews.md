@@ -11655,7 +11655,7 @@
 ## Сезон 2026–2027
 
 <div class="season-summary">
-<span class="ss-stat">📅 <strong>29</strong> эпизодов</span>
+<span class="ss-stat">📅 <strong>34</strong> эпизода</span>
 <span class="ss-stat">🏆 <strong>3</strong> победы</span>
 <span class="ss-stat">💰 <strong>185 000</strong> тенге выиграно</span>
 <span class="ss-stat">⭐ <strong>1</strong> гость</span>
@@ -12595,6 +12595,166 @@
 <div class="episode-footer">
 <span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
 <span>Правильные ответы: <i>3</i>, <i>2</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 12.10.2026: Руслан, Астана (5 000 тенге) :id=ep-12-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется ситуация, когда грузовик возвращается после доставки пустым?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Порожний пробег</span>
+<span class="opt"><i>2</i>: Сухая перевозка</span>
+<span class="opt"><i>3</i>: Обратная сортировка</span>
+</p>
+<p class="question">Вопрос 2: Кто вместе с Жаком-Ивом Кусто изобрёл первый практически успешный акваланг?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джон Скотт Холдейн</span>
+<span class="opt"><i>2</i>: Огюст Пикар</span>
+<span class="opt"><i>3</i>: Эмиль Ганьян</span>
+</p>
+<p class="question">Вопрос 3: Как зовут шестимиллиардного жителя планеты, родившегося 12 октября 1999 года?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Мадеуш Капшак</span>
+<span class="opt"><i>2</i>: Аднан Мевич</span>
+<span class="opt"><i>3</i>: Даниэль Кабреро</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 13.10.2026: Диана, Павлодар (10 000 тенге) :id=ep-13-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Кто считается одним из создателей современного мужского костюма-тройки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джорджо Армани</span>
+<span class="opt"><i>2</i>: Джордж Бо Браммелл</span>
+<span class="opt"><i>3</i>: Генрих VIII</span>
+</p>
+<p class="question">Вопрос 2: Как называется знаменитый шар на крыше Гринвичской обсерватории, который помогал морякам и жителям сверять время?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Небесный компас</span>
+<span class="opt"><i>2</i>: Солнечный маяк</span>
+<span class="opt"><i>3</i>: Шар времени</span>
+</p>
+<p class="question">Вопрос 3: Что означает название M&amp;M's?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Milk and Magic</span>
+<span class="opt"><i>2</i>: Mars and Murrie</span>
+<span class="opt"><i>3</i>: Melt and Mix</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>3</i>, <i>2</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 14.10.2026: Ануар, Караганда (15 000 тенге) :id=ep-14-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как звали настоящего медвежонка, в честь которого назвали Винни-Пуха?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Кристофер</span>
+<span class="opt"><i>2</i>: Бонни</span>
+<span class="opt"><i>3</i>: Виннипег</span>
+</p>
+<p class="question">Вопрос 2: Как называется явление, благодаря которому юла не падает, пока быстро вращается?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Гироскопический эффект</span>
+<span class="opt"><i>2</i>: Магнитная левитация</span>
+<span class="opt"><i>3</i>: Центробежный прыжок</span>
+</p>
+<p class="question">Вопрос 3: Какой композитор написал другой знаменитый марш, который часто звучит на свадебных церемониях?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Рихард Вагнер</span>
+<span class="opt"><i>2</i>: Фредерик Шопен</span>
+<span class="opt"><i>3</i>: Антонио Вивальди</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 15.10.2026: Александр, Балхаш (20 000 тенге) :id=ep-15-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Как называется процесс, при котором дерево формирует специальный слой клеток у основания черешка, чтобы лист отделился от ветки?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Транспирация</span>
+<span class="opt"><i>2</i>: Абсциссия</span>
+<span class="opt"><i>3</i>: Фотосинтез</span>
+</p>
+<p class="question">Вопрос 2: Какой участник группы Metallica покинул её ещё до выхода дебютного альбома?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джейсон Ньюстед</span>
+<span class="opt"><i>2</i>: Дэйв Мастейн</span>
+<span class="opt"><i>3</i>: Роберт Трухильо</span>
+</p>
+<p class="question">Вопрос 3: Какой музыкант, родившийся 9 октября 1940 года, до мировой славы работал пекарем, разносчиком и портовым рабочим?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Пол Саймон</span>
+<span class="opt"><i>2</i>: Джон Леннон</span>
+<span class="opt"><i>3</i>: Стинг</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>1</i>, <i>3</i></span>
+<span>Правильные ответы: <i>2</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 16.10.2026: Фархад, Астана (25 000 тенге) :id=ep-16-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой мультфильм Disney стал первым полнометражным цветным мультфильмом студии?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Белоснежка и семь гномов</span>
+<span class="opt"><i>2</i>: Бэмби</span>
+<span class="opt"><i>3</i>: Пиноккио</span>
+</p>
+<p class="question">Вопрос 2: Какой мультфильм Disney первым получил премию «Оскар»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Три поросёнка</span>
+<span class="opt"><i>2</i>: Пароходик Вилли</span>
+<span class="opt"><i>3</i>: Цветы и деревья</span>
+</p>
+<p class="question">Вопрос 3: Сколько лет было Уолту Диснею, когда он основал свою кинокомпанию?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 21</span>
+<span class="opt"><i>2</i>: 27</span>
+<span class="opt"><i>3</i>: 34</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>3</i></span>
+<span>Правильные ответы: <i>1</i>, <i>3</i>, <i>1</i></span>
 </div>
 </div>
 </div>
