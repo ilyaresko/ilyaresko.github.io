@@ -11655,18 +11655,19 @@
 ## Сезон 2026–2027
 
 <div class="season-summary">
-<span class="ss-stat">📅 <strong>34</strong> эпизода</span>
-<span class="ss-stat">🏆 <strong>3</strong> победы</span>
-<span class="ss-stat">💰 <strong>185 000</strong> тенге выиграно</span>
+<span class="ss-stat">📅 <strong>39</strong> эпизодов</span>
+<span class="ss-stat">🏆 <strong>4</strong> победы</span>
+<span class="ss-stat">💰 <strong>235 000</strong> тенге выиграно</span>
 <span class="ss-stat">⭐ <strong>1</strong> гость</span>
 </div>
 
 <details class="season-wins">
-<summary>Победители сезона (3)</summary>
+<summary>Победители сезона (4)</summary>
 <ul>
 <li><a href="#/BK-reviews?id=ep-11-09-2026">11.09.2026 — Алма, Павлодар (90 000 тенге)</a></li>
 <li><a href="#/BK-reviews?id=ep-07-10-2026">07.10.2026 — Ольга, Караганда (85 000 тенге)</a></li>
 <li><a href="#/BK-reviews?id=ep-09-10-2026">09.10.2026 — Абай, Атырау (10 000 тенге)</a></li>
+<li><a href="#/BK-reviews?id=ep-23-10-2026">23.10.2026 — Асель, Алматы (50 000 тенге)</a></li>
 </ul>
 </details>
 
@@ -12759,6 +12760,168 @@
 </div>
 </div>
 
+<div class="episode-card">
+<div class="episode-header">
+
+### 19.10.2026: Светлана, Караганда (30 000 тенге) :id=ep-19-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой праздник отмечают 19 ноября, ровно через месяц после Дня мужского счастья?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Международный день семьи</span>
+<span class="opt"><i>2</i>: Всемирный день отцов</span>
+<span class="opt"><i>3</i>: Международный день мужчин</span>
+</p>
+<p class="question">Вопрос 2: Персонажи каких известных франшиз изображены на официальных коллекционных монетах Ниуэ?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Герои Диснея, «Звёздных войн» и покемоны</span>
+<span class="opt"><i>2</i>: Исторические деятели Древнего Рима</span>
+<span class="opt"><i>3</i>: Редкие виды местной фауны и древние готические соборы Европы</span>
+</p>
+<p class="question">Вопрос 3: Почему День спасателя в Казахстане отмечают именно 19 октября?</p>
+<p class="options">
+<span class="opt"><i>1</i>: В этот день создали Министерство по чрезвычайным ситуациям</span>
+<span class="opt"><i>2</i>: В этот день приняли закон о гражданской защите</span>
+<span class="opt"><i>3</i>: В этот день был создан Госкомитет по ЧС</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>3</i>, <i>1</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 20.10.2026: Ержан, Астана (35 000 тенге) :id=ep-20-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой знаменитый повар считается одним из основателей высокой французской кухни и автором многотомного кулинарного справочника?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Огюст Эскофье</span>
+<span class="opt"><i>2</i>: Поль Бокюз</span>
+<span class="opt"><i>3</i>: Джейми Оливер</span>
+</p>
+<p class="question">Вопрос 2: Как называется международный сигнал бедствия, который пилоты могут передать по радио?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Blackbird</span>
+<span class="opt"><i>2</i>: Mayday</span>
+<span class="opt"><i>3</i>: Security</span>
+</p>
+<p class="question">Вопрос 3: Кто из этих животных является ближайшим родственником ленивца с точки зрения зоологической классификации?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Коала</span>
+<span class="opt"><i>2</i>: Муравьед</span>
+<span class="opt"><i>3</i>: Сурикат</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>1</i>, <i>2</i>, <i>2</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 21.10.2026: Данияр, Уральск (40 000 тенге) :id=ep-21-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какой знаменитый изобретатель оставил эскизы конструкции, похожей на современный зонт?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Исаак Ньютон</span>
+<span class="opt"><i>2</i>: Леонардо да Винчи</span>
+<span class="opt"><i>3</i>: Бенджамин Франклин</span>
+</p>
+<p class="question">Вопрос 2: В каком китайском городе расположен крупнейший музей зонтов?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Пекин</span>
+<span class="opt"><i>2</i>: Шанхай</span>
+<span class="opt"><i>3</i>: Ханчжоу</span>
+</p>
+<p class="question">Вопрос 3: Какой известный поэт считается одним из основоположников узбекского литературного языка?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Муса Ташмухамедов</span>
+<span class="opt"><i>2</i>: Бабур</span>
+<span class="opt"><i>3</i>: Алишер Навои</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>2</i>, <i>3</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 22.10.2026: Рустам, Костанай (45 000 тенге) :id=ep-22-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: Какое слово первоначально использовали для технологии, на которой основана ксерокопия?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Селенография</span>
+<span class="opt"><i>2</i>: Электрофотография</span>
+<span class="opt"><i>3</i>: Термография</span>
+</p>
+<p class="question">Вопрос 2: Какой учёный в 1772 году опубликовал описание первого способа искусственного насыщения воды углекислым газом?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Джозеф Пристли</span>
+<span class="opt"><i>2</i>: Якоб Швепп</span>
+<span class="opt"><i>3</i>: Антуан Лавуазье</span>
+</p>
+<p class="question">Вопрос 3: Какая клавиша клавиатуры отмечает свой день 22 октября?</p>
+<p class="options">
+<span class="opt"><i>1</i>: Caps Lock</span>
+<span class="opt"><i>2</i>: Control</span>
+<span class="opt"><i>3</i>: Delete</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>1</i>, <i>2</i>, <i>1</i></span>
+<span>Правильные ответы: <i>2</i>, <i>1</i>, <i>1</i></span>
+</div>
+</div>
+</div>
+
+<div class="episode-card">
+<div class="episode-header">
+
+### 23.10.2026: Асель, Алматы (50 000 тенге) :id=ep-23-10-2026
+
+</div>
+<div class="episode-body">
+<p class="question">Вопрос 1: С какого числа Ксения Панченко присоединилась к утреннему шоу «Беш»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 31 августа</span>
+<span class="opt"><i>2</i>: 1 сентября</span>
+<span class="opt"><i>3</i>: 2 сентября</span>
+</p>
+<p class="question">Вопрос 2: Сколько литров бензина было разыграно в игре «Пит-стоп» за всё время существования утреннего шоу «Беш»?</p>
+<p class="options">
+<span class="opt"><i>1</i>: 5 000 литров</span>
+<span class="opt"><i>2</i>: 9 200 литров</span>
+<span class="opt"><i>3</i>: 11 280 литров</span>
+</p>
+<p class="question">Вопрос 3: Сколько секунд длится заглавная песня шоу «Беш»?<sup class="reference"><a href="#note-5">[прим. 5]</a></sup></p>
+<p class="options">
+<span class="opt"><i>1</i>: 5 секунд</span>
+<span class="opt"><i>2</i>: 10 секунд</span>
+<span class="opt"><i>3</i>: 19 секунд</span>
+</p>
+<div class="episode-footer">
+<span>Ответы участника: <i>3</i>, <i>3</i>, <i>3</i></span>
+<span>Правильные ответы: <i>3</i>, <i>3</i>, <i>3</i></span>
+</div>
+</div>
+</div>
+
+*23 октября 2026 года вышел последний выпуск: в этот день завершилось утреннее шоу «Беш», а вместе с ним и игра «Большой куш».*
+
 ## Примечания
 
 <ol class="references">
@@ -12766,5 +12929,6 @@
 <li id="note-2">Ответ «в русском» не является верным, так как в комментарии было указано, что слово «понедельник» было образовано от слова «неделя», которым воскресенье обозначалось ранее; при этом в польском языке эти дни недели обозначаются «niedziela» и «poniedziałek».</li>
 <li id="note-3">В эфире ответ «ягода» был записан как вариант 2, поэтому объявленный код игры — 2-1-2; в озвученном ведущей порядке вариантов «ягода» — третий. Ошибочным был только ответ на первый вопрос.</li>
 <li id="note-4">Участник сначала назвал верный вариант — «он длится 24 часа», — но тут же переменил ответ на третий, и зафиксирован был именно он. Ведущие разбирали это расхождение в эфире.</li>
+<li id="note-5">Участница сначала назвала «5 секунд», но после того как ведущие напели заглавную песню в эфире, сменила ответ на «19 секунд» — он и был засчитан.</li>
 </ol>
 
